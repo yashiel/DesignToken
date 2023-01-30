@@ -26,7 +26,7 @@ jobs:
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: Update Tokens
-          push_options: --force
-          commit_user_name: Yashi
-          commit_user_email: hi@yashiel.com
-          commit_author: Author <hi@yashiel.com>
+      #    push_options: --force
+      #    commit_user_name: Yashi
+      #    commit_user_email: hi@yashiel.com
+      #    commit_author: Author <hi@yashiel.com>
