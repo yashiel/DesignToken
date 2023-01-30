@@ -2,7 +2,17 @@
 	"source": ["**/*.json"],
 	"platforms": {
 		"css": {
-			"transformGroup": "css",
+			"options": {
+				"basePxFontSize": 14
+			},
+			"transforms": [
+				"attribute/cti",
+				"name/cti/kebab",
+				"time/seconds",
+				"color/css",
+				"size/pxToRem",
+				"content/icon"
+			],
 			"buildPath": "build/css/",
 			"files": [
 				{
@@ -12,7 +22,17 @@
 			]
 		},
 		"scss": {
-			"transformGroup": "scss",
+			"options": {
+				"basePxFontSize": 14
+			},
+			"transforms": [
+				"attribute/cti",
+				"name/cti/kebab",
+				"time/seconds",
+				"color/css",
+				"size/pxToRem",
+				"content/icon"
+			],
 			"buildPath": "build/scss/",
 			"files": [
 				{
