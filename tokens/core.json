@@ -1479,5 +1479,15 @@
       "value": "0px",
       "type": "dimension"
     }
+  },
+  "tokenSetOrder": {
+    "0": {
+      "value": "core",
+      "type": "other"
+    },
+    "1": {
+      "value": "_forms",
+      "type": "other"
+    }
   }
 }
