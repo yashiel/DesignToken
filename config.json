@@ -2,18 +2,8 @@
 	"source": ["tokens/**/*.json"],
 	"platforms": {
 		"css": {
-			"options": {
-				"basePxFontSize": 14
-			},
 			"transformGroup": "css",
-			"transforms": [
-				"attribute/cti",
-				"name/cti/kebab",
-				"time/seconds",
-				"color/css",
-				"size/pxToRem",
-				"content/icon"
-			],
+			"prefix": "figma",
 			"buildPath": "build/css/",
 			"files": [
 				{
@@ -23,18 +13,8 @@
 			]
 		},
 		"scss": {
-			"options": {
-				"basePxFontSize": 14
-			},
 			"transformGroup": "scss",
-			"transforms": [
-				"attribute/cti",
-				"name/cti/kebab",
-				"time/seconds",
-				"color/css",
-				"size/pxToRem",
-				"content/icon"
-			],
+			"prefix": "figma",
 			"buildPath": "build/scss/",
 			"files": [
 				{
