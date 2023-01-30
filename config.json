@@ -10,7 +10,7 @@
 				"name/cti/kebab",
 				"time/seconds",
 				"color/css",
-				"size/pxToRem",
+				"size/rem",
 				"content/icon"
 			],
 			"buildPath": "build/css/",
@@ -30,7 +30,7 @@
 				"name/cti/kebab",
 				"time/seconds",
 				"color/css",
-				"size/pxToRem",
+				"size/rem",
 				"content/icon"
 			],
 			"buildPath": "build/scss/",
