@@ -3,20 +3,18 @@
 	"platforms": {
 		"css": {
 			"transformGroup": "css",
-			"buildPath": "build/css/",
 			"files": [
 				{
-					"destination": "variables.css",
+					"destination": "css/variables.css",
 					"format": "css/variables"
 				}
 			]
 		},
 		"scss": {
 			"transformGroup": "scss",
-			"buildPath": "build/scss/",
 			"files": [
 				{
-					"destination": "_variables.scss",
+					"destination": "scss/_variables.scss",
 					"format": "scss/variables"
 				}
 			]
