@@ -643,153 +643,153 @@
   "H1": {
     "Regular": {
       "fontFamily": {
-        "value": "\"Roboto'\", Frutiger, \"Frutiger Linotype\", Univers, Calibri, \"Gill Sans\", \"Gill Sans MT\", \"Myriad Pro\", Myriad, \"DejaVu Sans Condensed\", \"Liberation Sans\", \"Nimbus Sans L\", Tahoma, Geneva, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "value": "{fontFamilies.roboto}",
         "type": "fontFamilies"
       },
       "fontWeight": {
-        "value": "Regular",
+        "value": "{fontWeights.Regular}",
         "type": "fontWeights"
       },
       "lineHeight": {
-        "value": "120%",
+        "value": "{lineHeights.120}",
         "type": "lineHeight"
       },
       "fontSize": {
-        "value": "32px",
+        "value": "{fontSize.10}",
         "type": "fontSizes"
       },
       "letterSpacing": {
-        "value": "0%",
+        "value": "{letterSpacing.0}",
         "type": "letterSpacing"
       },
       "paragraphSpacing": {
-        "value": 0,
+        "value": "{paragraphSpacing.0}",
         "type": "paragraphSpacing"
       },
       "paragraphIndent": {
-        "value": "0px",
+        "value": "{paragraphIndent.0}",
         "type": "paragraphIndent"
       },
       "textCase": {
-        "value": "none",
+        "value": "{textCase.none}",
         "type": "textCase"
       },
       "textDecoration": {
-        "value": "none",
+        "value": "{textDecoration.none}",
         "type": "textDecoration"
       }
     },
     "Medium": {
       "fontFamily": {
-        "value": "\"Roboto'\", Frutiger, \"Frutiger Linotype\", Univers, Calibri, \"Gill Sans\", \"Gill Sans MT\", \"Myriad Pro\", Myriad, \"DejaVu Sans Condensed\", \"Liberation Sans\", \"Nimbus Sans L\", Tahoma, Geneva, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "value": "{fontFamilies.roboto}",
         "type": "fontFamilies"
       },
       "fontWeight": {
-        "value": "Medium",
+        "value": "{fontWeights.Medium}",
         "type": "fontWeights"
       },
       "lineHeight": {
-        "value": "120%",
+        "value": "{lineHeights.120}",
         "type": "lineHeight"
       },
       "fontSize": {
-        "value": "32px",
+        "value": "{fontSize.10}",
         "type": "fontSizes"
       },
       "letterSpacing": {
-        "value": "0%",
+        "value": "{letterSpacing.0}",
         "type": "letterSpacing"
       },
       "paragraphSpacing": {
-        "value": 0,
+        "value": "{paragraphSpacing.0}",
         "type": "paragraphSpacing"
       },
       "paragraphIndent": {
-        "value": "0px",
+        "value": "{paragraphIndent.0}",
         "type": "paragraphIndent"
       },
       "textCase": {
-        "value": "none",
+        "value": "{textCase.none}",
         "type": "textCase"
       },
       "textDecoration": {
-        "value": "none",
+        "value": "{textDecoration.none}",
         "type": "textDecoration"
       }
     },
     "Semi Bold": {
       "fontFamily": {
-        "value": "\"Roboto'\", Frutiger, \"Frutiger Linotype\", Univers, Calibri, \"Gill Sans\", \"Gill Sans MT\", \"Myriad Pro\", Myriad, \"DejaVu Sans Condensed\", \"Liberation Sans\", \"Nimbus Sans L\", Tahoma, Geneva, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "value": "{fontFamilies.roboto}",
         "type": "fontFamilies"
       },
       "fontWeight": {
-        "value": "SemiBold",
+        "value": "{fontWeights.SemiBold}",
         "type": "fontWeights"
       },
       "lineHeight": {
-        "value": "120%",
+        "value": "{lineHeights.120}",
         "type": "lineHeight"
       },
       "fontSize": {
-        "value": "32px",
+        "value": "{fontSize.10}",
         "type": "fontSizes"
       },
       "letterSpacing": {
-        "value": "0%",
+        "value": "{letterSpacing.0}",
         "type": "letterSpacing"
       },
       "paragraphSpacing": {
-        "value": 0,
+        "value": "{paragraphSpacing.0}",
         "type": "paragraphSpacing"
       },
       "paragraphIndent": {
-        "value": "0px",
+        "value": "{paragraphIndent.0}",
         "type": "paragraphIndent"
       },
       "textCase": {
-        "value": "none",
+        "value": "{textCase.none}",
         "type": "textCase"
       },
       "textDecoration": {
-        "value": "none",
+        "value": "{textDecoration.none}",
         "type": "textDecoration"
       }
     },
     "Bold": {
       "fontFamily": {
-        "value": "\"Roboto'\", Frutiger, \"Frutiger Linotype\", Univers, Calibri, \"Gill Sans\", \"Gill Sans MT\", \"Myriad Pro\", Myriad, \"DejaVu Sans Condensed\", \"Liberation Sans\", \"Nimbus Sans L\", Tahoma, Geneva, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "value": "{fontFamilies.roboto}",
         "type": "fontFamilies"
       },
       "fontWeight": {
-        "value": "Bold",
+        "value": "{fontWeights.Bold}",
         "type": "fontWeights"
       },
       "lineHeight": {
-        "value": "120%",
+        "value": "{lineHeights.120}",
         "type": "lineHeight"
       },
       "fontSize": {
-        "value": "32px",
+        "value": "{fontSize.10}",
         "type": "fontSizes"
       },
       "letterSpacing": {
-        "value": "0%",
+        "value": "{letterSpacing.0}",
         "type": "letterSpacing"
       },
       "paragraphSpacing": {
-        "value": 0,
+        "value": "{paragraphSpacing.0}",
         "type": "paragraphSpacing"
       },
       "paragraphIndent": {
-        "value": "0px",
+        "value": "{paragraphIndent.0}",
         "type": "paragraphIndent"
       },
       "textCase": {
-        "value": "none",
+        "value": "{textCase.none}",
         "type": "textCase"
       },
       "textDecoration": {
-        "value": "none",
+        "value": "{textDecoration.none}",
         "type": "textDecoration"
       }
     }
@@ -797,153 +797,153 @@
   "H2": {
     "Regular": {
       "fontFamily": {
-        "value": "\"Roboto'\", Frutiger, \"Frutiger Linotype\", Univers, Calibri, \"Gill Sans\", \"Gill Sans MT\", \"Myriad Pro\", Myriad, \"DejaVu Sans Condensed\", \"Liberation Sans\", \"Nimbus Sans L\", Tahoma, Geneva, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "value": "{fontFamilies.roboto}",
         "type": "fontFamilies"
       },
       "fontWeight": {
-        "value": "Regular",
+        "value": "{fontWeights.Regular}",
         "type": "fontWeights"
       },
       "lineHeight": {
-        "value": "120%",
+        "value": "{lineHeights.120}",
         "type": "lineHeight"
       },
       "fontSize": {
-        "value": "28px",
+        "value": "{fontSize.9}",
         "type": "fontSizes"
       },
       "letterSpacing": {
-        "value": "0%",
+        "value": "{letterSpacing.0}",
         "type": "letterSpacing"
       },
       "paragraphSpacing": {
-        "value": 0,
+        "value": "{paragraphSpacing.0}",
         "type": "paragraphSpacing"
       },
       "paragraphIndent": {
-        "value": "0px",
+        "value": "{paragraphIndent.0}",
         "type": "paragraphIndent"
       },
       "textCase": {
-        "value": "none",
+        "value": "{textCase.none}",
         "type": "textCase"
       },
       "textDecoration": {
-        "value": "none",
+        "value": "{textDecoration.none}",
         "type": "textDecoration"
       }
     },
     "Medium": {
       "fontFamily": {
-        "value": "\"Roboto'\", Frutiger, \"Frutiger Linotype\", Univers, Calibri, \"Gill Sans\", \"Gill Sans MT\", \"Myriad Pro\", Myriad, \"DejaVu Sans Condensed\", \"Liberation Sans\", \"Nimbus Sans L\", Tahoma, Geneva, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "value": "{fontFamilies.roboto}",
         "type": "fontFamilies"
       },
       "fontWeight": {
-        "value": "Medium",
+        "value": "{fontWeights.Medium}",
         "type": "fontWeights"
       },
       "lineHeight": {
-        "value": "120%",
+        "value": "{lineHeights.120}",
         "type": "lineHeight"
       },
       "fontSize": {
-        "value": "28px",
+        "value": "{fontSize.9}",
         "type": "fontSizes"
       },
       "letterSpacing": {
-        "value": "0%",
+        "value": "{letterSpacing.0}",
         "type": "letterSpacing"
       },
       "paragraphSpacing": {
-        "value": 0,
+        "value": "{paragraphSpacing.0}",
         "type": "paragraphSpacing"
       },
       "paragraphIndent": {
-        "value": "0px",
+        "value": "{paragraphIndent.0}",
         "type": "paragraphIndent"
       },
       "textCase": {
-        "value": "none",
+        "value": "{textCase.none}",
         "type": "textCase"
       },
       "textDecoration": {
-        "value": "none",
+        "value": "{textDecoration.none}",
         "type": "textDecoration"
       }
     },
     "Semi Bold": {
       "fontFamily": {
-        "value": "\"Roboto'\", Frutiger, \"Frutiger Linotype\", Univers, Calibri, \"Gill Sans\", \"Gill Sans MT\", \"Myriad Pro\", Myriad, \"DejaVu Sans Condensed\", \"Liberation Sans\", \"Nimbus Sans L\", Tahoma, Geneva, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "value": "{fontFamilies.roboto}",
         "type": "fontFamilies"
       },
       "fontWeight": {
-        "value": "SemiBold",
+        "value": "{fontWeights.SemiBold}",
         "type": "fontWeights"
       },
       "lineHeight": {
-        "value": "120%",
+        "value": "{lineHeights.120}",
         "type": "lineHeight"
       },
       "fontSize": {
-        "value": "28px",
+        "value": "{fontSize.9}",
         "type": "fontSizes"
       },
       "letterSpacing": {
-        "value": "0%",
+        "value": "{letterSpacing.0}",
         "type": "letterSpacing"
       },
       "paragraphSpacing": {
-        "value": 0,
+        "value": "{paragraphSpacing.0}",
         "type": "paragraphSpacing"
       },
       "paragraphIndent": {
-        "value": "0px",
+        "value": "{paragraphIndent.0}",
         "type": "paragraphIndent"
       },
       "textCase": {
-        "value": "none",
+        "value": "{textCase.none}",
         "type": "textCase"
       },
       "textDecoration": {
-        "value": "none",
+        "value": "{textDecoration.none}",
         "type": "textDecoration"
       }
     },
     "Bold": {
       "fontFamily": {
-        "value": "\"Roboto'\", Frutiger, \"Frutiger Linotype\", Univers, Calibri, \"Gill Sans\", \"Gill Sans MT\", \"Myriad Pro\", Myriad, \"DejaVu Sans Condensed\", \"Liberation Sans\", \"Nimbus Sans L\", Tahoma, Geneva, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "value": "{fontFamilies.roboto}",
         "type": "fontFamilies"
       },
       "fontWeight": {
-        "value": "Bold",
+        "value": "{fontWeights.Bold}",
         "type": "fontWeights"
       },
       "lineHeight": {
-        "value": "120%",
+        "value": "{lineHeights.120}",
         "type": "lineHeight"
       },
       "fontSize": {
-        "value": "28px",
+        "value": "{fontSize.9}",
         "type": "fontSizes"
       },
       "letterSpacing": {
-        "value": "0%",
+        "value": "{letterSpacing.0}",
         "type": "letterSpacing"
       },
       "paragraphSpacing": {
-        "value": 0,
+        "value": "{paragraphSpacing.0}",
         "type": "paragraphSpacing"
       },
       "paragraphIndent": {
-        "value": "0px",
+        "value": "{paragraphIndent.0}",
         "type": "paragraphIndent"
       },
       "textCase": {
-        "value": "none",
+        "value": "{textCase.none}",
         "type": "textCase"
       },
       "textDecoration": {
-        "value": "none",
+        "value": "{textDecoration.none}",
         "type": "textDecoration"
       }
     }
@@ -951,153 +951,153 @@
   "H3": {
     "Regular": {
       "fontFamily": {
-        "value": "\"Roboto'\", Frutiger, \"Frutiger Linotype\", Univers, Calibri, \"Gill Sans\", \"Gill Sans MT\", \"Myriad Pro\", Myriad, \"DejaVu Sans Condensed\", \"Liberation Sans\", \"Nimbus Sans L\", Tahoma, Geneva, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "value": "{fontFamilies.roboto}",
         "type": "fontFamilies"
       },
       "fontWeight": {
-        "value": "Regular",
+        "value": "{fontWeights.Regular}",
         "type": "fontWeights"
       },
       "lineHeight": {
-        "value": "120%",
+        "value": "{lineHeights.120}",
         "type": "lineHeight"
       },
       "fontSize": {
-        "value": "25px",
+        "value": "{fontSize.8}",
         "type": "fontSizes"
       },
       "letterSpacing": {
-        "value": "0%",
+        "value": "{letterSpacing.0}",
         "type": "letterSpacing"
       },
       "paragraphSpacing": {
-        "value": 0,
+        "value": "{paragraphSpacing.0}",
         "type": "paragraphSpacing"
       },
       "paragraphIndent": {
-        "value": "0px",
+        "value": "{paragraphIndent.0}",
         "type": "paragraphIndent"
       },
       "textCase": {
-        "value": "none",
+        "value": "{textCase.none}",
         "type": "textCase"
       },
       "textDecoration": {
-        "value": "none",
+        "value": "{textDecoration.none}",
         "type": "textDecoration"
       }
     },
     "Medium": {
       "fontFamily": {
-        "value": "\"Roboto'\", Frutiger, \"Frutiger Linotype\", Univers, Calibri, \"Gill Sans\", \"Gill Sans MT\", \"Myriad Pro\", Myriad, \"DejaVu Sans Condensed\", \"Liberation Sans\", \"Nimbus Sans L\", Tahoma, Geneva, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "value": "{fontFamilies.roboto}",
         "type": "fontFamilies"
       },
       "fontWeight": {
-        "value": "Medium",
+        "value": "{fontWeights.Medium}",
         "type": "fontWeights"
       },
       "lineHeight": {
-        "value": "120%",
+        "value": "{lineHeights.120}",
         "type": "lineHeight"
       },
       "fontSize": {
-        "value": "25px",
+        "value": "{fontSize.8}",
         "type": "fontSizes"
       },
       "letterSpacing": {
-        "value": "0%",
+        "value": "{letterSpacing.0}",
         "type": "letterSpacing"
       },
       "paragraphSpacing": {
-        "value": 0,
+        "value": "{paragraphSpacing.0}",
         "type": "paragraphSpacing"
       },
       "paragraphIndent": {
-        "value": "0px",
+        "value": "{paragraphIndent.0}",
         "type": "paragraphIndent"
       },
       "textCase": {
-        "value": "none",
+        "value": "{textCase.none}",
         "type": "textCase"
       },
       "textDecoration": {
-        "value": "none",
+        "value": "{textDecoration.none}",
         "type": "textDecoration"
       }
     },
     "Semi Bold": {
       "fontFamily": {
-        "value": "\"Roboto'\", Frutiger, \"Frutiger Linotype\", Univers, Calibri, \"Gill Sans\", \"Gill Sans MT\", \"Myriad Pro\", Myriad, \"DejaVu Sans Condensed\", \"Liberation Sans\", \"Nimbus Sans L\", Tahoma, Geneva, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "value": "{fontFamilies.roboto}",
         "type": "fontFamilies"
       },
       "fontWeight": {
-        "value": "SemiBold",
+        "value": "{fontWeights.SemiBold}",
         "type": "fontWeights"
       },
       "lineHeight": {
-        "value": "120%",
+        "value": "{lineHeights.120}",
         "type": "lineHeight"
       },
       "fontSize": {
-        "value": "25px",
+        "value": "{fontSize.8}",
         "type": "fontSizes"
       },
       "letterSpacing": {
-        "value": "0%",
+        "value": "{letterSpacing.0}",
         "type": "letterSpacing"
       },
       "paragraphSpacing": {
-        "value": 0,
+        "value": "{paragraphSpacing.0}",
         "type": "paragraphSpacing"
       },
       "paragraphIndent": {
-        "value": "0px",
+        "value": "{paragraphIndent.0}",
         "type": "paragraphIndent"
       },
       "textCase": {
-        "value": "none",
+        "value": "{textCase.none}",
         "type": "textCase"
       },
       "textDecoration": {
-        "value": "none",
+        "value": "{textDecoration.none}",
         "type": "textDecoration"
       }
     },
     "Bold": {
       "fontFamily": {
-        "value": "\"Roboto'\", Frutiger, \"Frutiger Linotype\", Univers, Calibri, \"Gill Sans\", \"Gill Sans MT\", \"Myriad Pro\", Myriad, \"DejaVu Sans Condensed\", \"Liberation Sans\", \"Nimbus Sans L\", Tahoma, Geneva, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "value": "{fontFamilies.roboto}",
         "type": "fontFamilies"
       },
       "fontWeight": {
-        "value": "Bold",
+        "value": "{fontWeights.Bold}",
         "type": "fontWeights"
       },
       "lineHeight": {
-        "value": "120%",
+        "value": "{lineHeights.120}",
         "type": "lineHeight"
       },
       "fontSize": {
-        "value": "25px",
+        "value": "{fontSize.8}",
         "type": "fontSizes"
       },
       "letterSpacing": {
-        "value": "0%",
+        "value": "{letterSpacing.0}",
         "type": "letterSpacing"
       },
       "paragraphSpacing": {
-        "value": 0,
+        "value": "{paragraphSpacing.0}",
         "type": "paragraphSpacing"
       },
       "paragraphIndent": {
-        "value": "0px",
+        "value": "{paragraphIndent.0}",
         "type": "paragraphIndent"
       },
       "textCase": {
-        "value": "none",
+        "value": "{textCase.none}",
         "type": "textCase"
       },
       "textDecoration": {
-        "value": "none",
+        "value": "{textDecoration.none}",
         "type": "textDecoration"
       }
     }
@@ -1105,153 +1105,153 @@
   "H4": {
     "Regular": {
       "fontFamily": {
-        "value": "\"Roboto'\", Frutiger, \"Frutiger Linotype\", Univers, Calibri, \"Gill Sans\", \"Gill Sans MT\", \"Myriad Pro\", Myriad, \"DejaVu Sans Condensed\", \"Liberation Sans\", \"Nimbus Sans L\", Tahoma, Geneva, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "value": "{fontFamilies.roboto}",
         "type": "fontFamilies"
       },
       "fontWeight": {
-        "value": "Regular",
+        "value": "{fontWeights.Regular}",
         "type": "fontWeights"
       },
       "lineHeight": {
-        "value": "120%",
+        "value": "{lineHeights.120}",
         "type": "lineHeight"
       },
       "fontSize": {
-        "value": "22px",
+        "value": "{fontSize.7}",
         "type": "fontSizes"
       },
       "letterSpacing": {
-        "value": "0%",
+        "value": "{letterSpacing.0}",
         "type": "letterSpacing"
       },
       "paragraphSpacing": {
-        "value": 0,
+        "value": "{paragraphSpacing.0}",
         "type": "paragraphSpacing"
       },
       "paragraphIndent": {
-        "value": "0px",
+        "value": "{paragraphIndent.0}",
         "type": "paragraphIndent"
       },
       "textCase": {
-        "value": "none",
+        "value": "{textCase.none}",
         "type": "textCase"
       },
       "textDecoration": {
-        "value": "none",
+        "value": "{textDecoration.none}",
         "type": "textDecoration"
       }
     },
     "Medium": {
       "fontFamily": {
-        "value": "\"Roboto'\", Frutiger, \"Frutiger Linotype\", Univers, Calibri, \"Gill Sans\", \"Gill Sans MT\", \"Myriad Pro\", Myriad, \"DejaVu Sans Condensed\", \"Liberation Sans\", \"Nimbus Sans L\", Tahoma, Geneva, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "value": "{fontFamilies.roboto}",
         "type": "fontFamilies"
       },
       "fontWeight": {
-        "value": "Medium",
+        "value": "{fontWeights.Medium}",
         "type": "fontWeights"
       },
       "lineHeight": {
-        "value": "120%",
+        "value": "{lineHeights.120}",
         "type": "lineHeight"
       },
       "fontSize": {
-        "value": "22px",
+        "value": "{fontSize.7}",
         "type": "fontSizes"
       },
       "letterSpacing": {
-        "value": "0%",
+        "value": "{letterSpacing.0}",
         "type": "letterSpacing"
       },
       "paragraphSpacing": {
-        "value": 0,
+        "value": "{paragraphSpacing.0}",
         "type": "paragraphSpacing"
       },
       "paragraphIndent": {
-        "value": "0px",
+        "value": "{paragraphIndent.0}",
         "type": "paragraphIndent"
       },
       "textCase": {
-        "value": "none",
+        "value": "{textCase.none}",
         "type": "textCase"
       },
       "textDecoration": {
-        "value": "none",
+        "value": "{textDecoration.none}",
         "type": "textDecoration"
       }
     },
     "Semi Bold": {
       "fontFamily": {
-        "value": "\"Roboto'\", Frutiger, \"Frutiger Linotype\", Univers, Calibri, \"Gill Sans\", \"Gill Sans MT\", \"Myriad Pro\", Myriad, \"DejaVu Sans Condensed\", \"Liberation Sans\", \"Nimbus Sans L\", Tahoma, Geneva, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "value": "{fontFamilies.roboto}",
         "type": "fontFamilies"
       },
       "fontWeight": {
-        "value": "SemiBold",
+        "value": "{fontWeights.SemiBold}",
         "type": "fontWeights"
       },
       "lineHeight": {
-        "value": "120%",
+        "value": "{lineHeights.120}",
         "type": "lineHeight"
       },
       "fontSize": {
-        "value": "22px",
+        "value": "{fontSize.7}",
         "type": "fontSizes"
       },
       "letterSpacing": {
-        "value": "0%",
+        "value": "{letterSpacing.0}",
         "type": "letterSpacing"
       },
       "paragraphSpacing": {
-        "value": 0,
+        "value": "{paragraphSpacing.0}",
         "type": "paragraphSpacing"
       },
       "paragraphIndent": {
-        "value": "0px",
+        "value": "{paragraphIndent.0}",
         "type": "paragraphIndent"
       },
       "textCase": {
-        "value": "none",
+        "value": "{textCase.none}",
         "type": "textCase"
       },
       "textDecoration": {
-        "value": "none",
+        "value": "{textDecoration.none}",
         "type": "textDecoration"
       }
     },
     "Bold": {
       "fontFamily": {
-        "value": "\"Roboto'\", Frutiger, \"Frutiger Linotype\", Univers, Calibri, \"Gill Sans\", \"Gill Sans MT\", \"Myriad Pro\", Myriad, \"DejaVu Sans Condensed\", \"Liberation Sans\", \"Nimbus Sans L\", Tahoma, Geneva, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "value": "{fontFamilies.roboto}",
         "type": "fontFamilies"
       },
       "fontWeight": {
-        "value": "Bold",
+        "value": "{fontWeights.Bold}",
         "type": "fontWeights"
       },
       "lineHeight": {
-        "value": "120%",
+        "value": "{lineHeights.120}",
         "type": "lineHeight"
       },
       "fontSize": {
-        "value": "22px",
+        "value": "{fontSize.7}",
         "type": "fontSizes"
       },
       "letterSpacing": {
-        "value": "0%",
+        "value": "{letterSpacing.0}",
         "type": "letterSpacing"
       },
       "paragraphSpacing": {
-        "value": 0,
+        "value": "{paragraphSpacing.0}",
         "type": "paragraphSpacing"
       },
       "paragraphIndent": {
-        "value": "0px",
+        "value": "{paragraphIndent.0}",
         "type": "paragraphIndent"
       },
       "textCase": {
-        "value": "none",
+        "value": "{textCase.none}",
         "type": "textCase"
       },
       "textDecoration": {
-        "value": "none",
+        "value": "{textDecoration.none}",
         "type": "textDecoration"
       }
     }
@@ -1259,191 +1259,191 @@
   "H5": {
     "Regular": {
       "fontFamily": {
-        "value": "\"Roboto'\", Frutiger, \"Frutiger Linotype\", Univers, Calibri, \"Gill Sans\", \"Gill Sans MT\", \"Myriad Pro\", Myriad, \"DejaVu Sans Condensed\", \"Liberation Sans\", \"Nimbus Sans L\", Tahoma, Geneva, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "value": "{fontFamilies.roboto}",
         "type": "fontFamilies"
       },
       "fontWeight": {
-        "value": "Regular",
+        "value": "{fontWeights.Regular}",
         "type": "fontWeights"
       },
       "lineHeight": {
-        "value": "120%",
+        "value": "{lineHeights.120}",
         "type": "lineHeight"
       },
       "fontSize": {
-        "value": "20px",
+        "value": "{fontSize.6}",
         "type": "fontSizes"
       },
       "letterSpacing": {
-        "value": "0%",
+        "value": "{letterSpacing.0}",
         "type": "letterSpacing"
       },
       "paragraphSpacing": {
-        "value": 0,
+        "value": "{paragraphSpacing.0}",
         "type": "paragraphSpacing"
       },
       "paragraphIndent": {
-        "value": "0px",
+        "value": "{paragraphIndent.0}",
         "type": "paragraphIndent"
       },
       "textCase": {
-        "value": "none",
+        "value": "{textCase.none}",
         "type": "textCase"
       },
       "textDecoration": {
-        "value": "none",
+        "value": "{textDecoration.none}",
         "type": "textDecoration"
       }
     },
     "Medium": {
       "fontFamily": {
-        "value": "\"Roboto'\", Frutiger, \"Frutiger Linotype\", Univers, Calibri, \"Gill Sans\", \"Gill Sans MT\", \"Myriad Pro\", Myriad, \"DejaVu Sans Condensed\", \"Liberation Sans\", \"Nimbus Sans L\", Tahoma, Geneva, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "value": "{fontFamilies.roboto}",
         "type": "fontFamilies"
       },
       "fontWeight": {
-        "value": "Medium",
+        "value": "{fontWeights.Medium}",
         "type": "fontWeights"
       },
       "lineHeight": {
-        "value": "120%",
+        "value": "{lineHeights.120}",
         "type": "lineHeight"
       },
       "fontSize": {
-        "value": "20px",
+        "value": "{fontSize.6}",
         "type": "fontSizes"
       },
       "letterSpacing": {
-        "value": "0%",
+        "value": "{letterSpacing.0}",
         "type": "letterSpacing"
       },
       "paragraphSpacing": {
-        "value": 0,
+        "value": "{paragraphSpacing.0}",
         "type": "paragraphSpacing"
       },
       "paragraphIndent": {
-        "value": "0px",
+        "value": "{paragraphIndent.0}",
         "type": "paragraphIndent"
       },
       "textCase": {
-        "value": "none",
+        "value": "{textCase.none}",
         "type": "textCase"
       },
       "textDecoration": {
-        "value": "none",
+        "value": "{textDecoration.none}",
         "type": "textDecoration"
       }
     },
     "Semi Bold": {
       "fontFamily": {
-        "value": "\"Roboto'\", Frutiger, \"Frutiger Linotype\", Univers, Calibri, \"Gill Sans\", \"Gill Sans MT\", \"Myriad Pro\", Myriad, \"DejaVu Sans Condensed\", \"Liberation Sans\", \"Nimbus Sans L\", Tahoma, Geneva, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "value": "{fontFamilies.roboto}",
         "type": "fontFamilies"
       },
       "fontWeight": {
-        "value": "SemiBold",
+        "value": "{fontWeights.SemiBold}",
         "type": "fontWeights"
       },
       "lineHeight": {
-        "value": "120%",
+        "value": "{lineHeights.120}",
         "type": "lineHeight"
       },
       "fontSize": {
-        "value": "20px",
+        "value": "{fontSize.6}",
         "type": "fontSizes"
       },
       "letterSpacing": {
-        "value": "0%",
+        "value": "{letterSpacing.0}",
         "type": "letterSpacing"
       },
       "paragraphSpacing": {
-        "value": 0,
+        "value": "{paragraphSpacing.0}",
         "type": "paragraphSpacing"
       },
       "paragraphIndent": {
-        "value": "0px",
+        "value": "{paragraphIndent.0}",
         "type": "paragraphIndent"
       },
       "textCase": {
-        "value": "none",
+        "value": "{textCase.none}",
         "type": "textCase"
       },
       "textDecoration": {
-        "value": "none",
+        "value": "{textDecoration.none}",
         "type": "textDecoration"
       }
     },
     "Bold": {
       "fontFamily": {
-        "value": "\"Roboto'\", Frutiger, \"Frutiger Linotype\", Univers, Calibri, \"Gill Sans\", \"Gill Sans MT\", \"Myriad Pro\", Myriad, \"DejaVu Sans Condensed\", \"Liberation Sans\", \"Nimbus Sans L\", Tahoma, Geneva, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "value": "{fontFamilies.roboto}",
         "type": "fontFamilies"
       },
       "fontWeight": {
-        "value": "Bold",
+        "value": "{fontWeights.Bold}",
         "type": "fontWeights"
       },
       "lineHeight": {
-        "value": "120%",
+        "value": "{lineHeights.120}",
         "type": "lineHeight"
       },
       "fontSize": {
-        "value": "20px",
+        "value": "{fontSize.6}",
         "type": "fontSizes"
       },
       "letterSpacing": {
-        "value": "0%",
+        "value": "{letterSpacing.0}",
         "type": "letterSpacing"
       },
       "paragraphSpacing": {
-        "value": 0,
+        "value": "{paragraphSpacing.0}",
         "type": "paragraphSpacing"
       },
       "paragraphIndent": {
-        "value": "0px",
+        "value": "{paragraphIndent.0}",
         "type": "paragraphIndent"
       },
       "textCase": {
-        "value": "none",
+        "value": "{textCase.none}",
         "type": "textCase"
       },
       "textDecoration": {
-        "value": "none",
+        "value": "{textDecoration.none}",
         "type": "textDecoration"
       }
     },
     "italic": {
       "fontFamily": {
-        "value": "\"Roboto'\", Frutiger, \"Frutiger Linotype\", Univers, Calibri, \"Gill Sans\", \"Gill Sans MT\", \"Myriad Pro\", Myriad, \"DejaVu Sans Condensed\", \"Liberation Sans\", \"Nimbus Sans L\", Tahoma, Geneva, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "value": "{fontFamilies.roboto}",
         "type": "fontFamilies"
       },
       "fontWeight": {
-        "value": "Italic",
+        "value": "{fontWeights.Italic}",
         "type": "fontWeights"
       },
       "lineHeight": {
-        "value": "120%",
+        "value": "{lineHeights.120}",
         "type": "lineHeight"
       },
       "fontSize": {
-        "value": "20px",
+        "value": "{fontSize.6}",
         "type": "fontSizes"
       },
       "letterSpacing": {
-        "value": "0%",
+        "value": "{letterSpacing.0}",
         "type": "letterSpacing"
       },
       "paragraphSpacing": {
-        "value": 0,
+        "value": "{paragraphSpacing.0}",
         "type": "paragraphSpacing"
       },
       "paragraphIndent": {
-        "value": "0px",
+        "value": "{paragraphIndent.0}",
         "type": "paragraphIndent"
       },
       "textCase": {
-        "value": "none",
+        "value": "{textCase.none}",
         "type": "textCase"
       },
       "textDecoration": {
-        "value": "none",
+        "value": "{textDecoration.none}",
         "type": "textDecoration"
       }
     }
@@ -1451,191 +1451,191 @@
   "H6": {
     "Regular": {
       "fontFamily": {
-        "value": "\"Roboto'\", Frutiger, \"Frutiger Linotype\", Univers, Calibri, \"Gill Sans\", \"Gill Sans MT\", \"Myriad Pro\", Myriad, \"DejaVu Sans Condensed\", \"Liberation Sans\", \"Nimbus Sans L\", Tahoma, Geneva, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "value": "{fontFamilies.roboto}",
         "type": "fontFamilies"
       },
       "fontWeight": {
-        "value": "Regular",
+        "value": "{fontWeights.Regular}",
         "type": "fontWeights"
       },
       "lineHeight": {
-        "value": "120%",
+        "value": "{lineHeights.120}",
         "type": "lineHeight"
       },
       "fontSize": {
-        "value": "18px",
+        "value": "{fontSize.5}",
         "type": "fontSizes"
       },
       "letterSpacing": {
-        "value": "0%",
+        "value": "{letterSpacing.0}",
         "type": "letterSpacing"
       },
       "paragraphSpacing": {
-        "value": 0,
+        "value": "{paragraphSpacing.0}",
         "type": "paragraphSpacing"
       },
       "paragraphIndent": {
-        "value": "0px",
+        "value": "{paragraphIndent.0}",
         "type": "paragraphIndent"
       },
       "textCase": {
-        "value": "none",
+        "value": "{textCase.none}",
         "type": "textCase"
       },
       "textDecoration": {
-        "value": "none",
+        "value": "{textDecoration.none}",
         "type": "textDecoration"
       }
     },
     "Medium": {
       "fontFamily": {
-        "value": "\"Roboto'\", Frutiger, \"Frutiger Linotype\", Univers, Calibri, \"Gill Sans\", \"Gill Sans MT\", \"Myriad Pro\", Myriad, \"DejaVu Sans Condensed\", \"Liberation Sans\", \"Nimbus Sans L\", Tahoma, Geneva, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "value": "{fontFamilies.roboto}",
         "type": "fontFamilies"
       },
       "fontWeight": {
-        "value": "Medium",
+        "value": "{fontWeights.Medium}",
         "type": "fontWeights"
       },
       "lineHeight": {
-        "value": "120%",
+        "value": "{lineHeights.120}",
         "type": "lineHeight"
       },
       "fontSize": {
-        "value": "18px",
+        "value": "{fontSize.5}",
         "type": "fontSizes"
       },
       "letterSpacing": {
-        "value": "0%",
+        "value": "{letterSpacing.0}",
         "type": "letterSpacing"
       },
       "paragraphSpacing": {
-        "value": 0,
+        "value": "{paragraphSpacing.0}",
         "type": "paragraphSpacing"
       },
       "paragraphIndent": {
-        "value": "0px",
+        "value": "{paragraphIndent.0}",
         "type": "paragraphIndent"
       },
       "textCase": {
-        "value": "none",
+        "value": "{textCase.none}",
         "type": "textCase"
       },
       "textDecoration": {
-        "value": "none",
+        "value": "{textDecoration.none}",
         "type": "textDecoration"
       }
     },
     "Semi Bold": {
       "fontFamily": {
-        "value": "\"Roboto'\", Frutiger, \"Frutiger Linotype\", Univers, Calibri, \"Gill Sans\", \"Gill Sans MT\", \"Myriad Pro\", Myriad, \"DejaVu Sans Condensed\", \"Liberation Sans\", \"Nimbus Sans L\", Tahoma, Geneva, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "value": "{fontFamilies.roboto}",
         "type": "fontFamilies"
       },
       "fontWeight": {
-        "value": "SemiBold",
+        "value": "{fontWeights.SemiBold}",
         "type": "fontWeights"
       },
       "lineHeight": {
-        "value": "120%",
+        "value": "{lineHeights.120}",
         "type": "lineHeight"
       },
       "fontSize": {
-        "value": "18px",
+        "value": "{fontSize.5}",
         "type": "fontSizes"
       },
       "letterSpacing": {
-        "value": "0%",
+        "value": "{letterSpacing.0}",
         "type": "letterSpacing"
       },
       "paragraphSpacing": {
-        "value": 0,
+        "value": "{paragraphSpacing.0}",
         "type": "paragraphSpacing"
       },
       "paragraphIndent": {
-        "value": "0px",
+        "value": "{paragraphIndent.0}",
         "type": "paragraphIndent"
       },
       "textCase": {
-        "value": "none",
+        "value": "{textCase.none}",
         "type": "textCase"
       },
       "textDecoration": {
-        "value": "none",
+        "value": "{textDecoration.none}",
         "type": "textDecoration"
       }
     },
     "Bold": {
       "fontFamily": {
-        "value": "\"Roboto'\", Frutiger, \"Frutiger Linotype\", Univers, Calibri, \"Gill Sans\", \"Gill Sans MT\", \"Myriad Pro\", Myriad, \"DejaVu Sans Condensed\", \"Liberation Sans\", \"Nimbus Sans L\", Tahoma, Geneva, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "value": "{fontFamilies.roboto}",
         "type": "fontFamilies"
       },
       "fontWeight": {
-        "value": "Bold",
+        "value": "{fontWeights.Bold}",
         "type": "fontWeights"
       },
       "lineHeight": {
-        "value": "120%",
+        "value": "{lineHeights.120}",
         "type": "lineHeight"
       },
       "fontSize": {
-        "value": "18px",
+        "value": "{fontSize.5}",
         "type": "fontSizes"
       },
       "letterSpacing": {
-        "value": "0%",
+        "value": "{letterSpacing.0}",
         "type": "letterSpacing"
       },
       "paragraphSpacing": {
-        "value": 0,
+        "value": "{paragraphSpacing.0}",
         "type": "paragraphSpacing"
       },
       "paragraphIndent": {
-        "value": "0px",
+        "value": "{paragraphIndent.0}",
         "type": "paragraphIndent"
       },
       "textCase": {
-        "value": "none",
+        "value": "{textCase.none}",
         "type": "textCase"
       },
       "textDecoration": {
-        "value": "none",
+        "value": "{textDecoration.none}",
         "type": "textDecoration"
       }
     },
     "italic": {
       "fontFamily": {
-        "value": "\"Roboto'\", Frutiger, \"Frutiger Linotype\", Univers, Calibri, \"Gill Sans\", \"Gill Sans MT\", \"Myriad Pro\", Myriad, \"DejaVu Sans Condensed\", \"Liberation Sans\", \"Nimbus Sans L\", Tahoma, Geneva, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "value": "{fontFamilies.roboto}",
         "type": "fontFamilies"
       },
       "fontWeight": {
-        "value": "Italic",
+        "value": "{fontWeights.Italic}",
         "type": "fontWeights"
       },
       "lineHeight": {
-        "value": "120%",
+        "value": "{lineHeights.120}",
         "type": "lineHeight"
       },
       "fontSize": {
-        "value": "18px",
+        "value": "{fontSize.5}",
         "type": "fontSizes"
       },
       "letterSpacing": {
-        "value": "0%",
+        "value": "{letterSpacing.0}",
         "type": "letterSpacing"
       },
       "paragraphSpacing": {
-        "value": 0,
+        "value": "{paragraphSpacing.0}",
         "type": "paragraphSpacing"
       },
       "paragraphIndent": {
-        "value": "0px",
+        "value": "{paragraphIndent.0}",
         "type": "paragraphIndent"
       },
       "textCase": {
-        "value": "none",
+        "value": "{textCase.none}",
         "type": "textCase"
       },
       "textDecoration": {
-        "value": "none",
+        "value": "{textDecoration.none}",
         "type": "textDecoration"
       }
     }
@@ -1643,191 +1643,191 @@
   "Large": {
     "Regular": {
       "fontFamily": {
-        "value": "\"Roboto'\", Frutiger, \"Frutiger Linotype\", Univers, Calibri, \"Gill Sans\", \"Gill Sans MT\", \"Myriad Pro\", Myriad, \"DejaVu Sans Condensed\", \"Liberation Sans\", \"Nimbus Sans L\", Tahoma, Geneva, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "value": "{fontFamilies.roboto}",
         "type": "fontFamilies"
       },
       "fontWeight": {
-        "value": "Regular",
+        "value": "{fontWeights.Regular}",
         "type": "fontWeights"
       },
       "lineHeight": {
-        "value": "120%",
+        "value": "{lineHeights.120}",
         "type": "lineHeight"
       },
       "fontSize": {
-        "value": "16px",
+        "value": "{fontSize.4}",
         "type": "fontSizes"
       },
       "letterSpacing": {
-        "value": "0%",
+        "value": "{letterSpacing.0}",
         "type": "letterSpacing"
       },
       "paragraphSpacing": {
-        "value": 0,
+        "value": "{paragraphSpacing.0}",
         "type": "paragraphSpacing"
       },
       "paragraphIndent": {
-        "value": "0px",
+        "value": "{paragraphIndent.0}",
         "type": "paragraphIndent"
       },
       "textCase": {
-        "value": "none",
+        "value": "{textCase.none}",
         "type": "textCase"
       },
       "textDecoration": {
-        "value": "none",
+        "value": "{textDecoration.none}",
         "type": "textDecoration"
       }
     },
     "Medium": {
       "fontFamily": {
-        "value": "\"Roboto'\", Frutiger, \"Frutiger Linotype\", Univers, Calibri, \"Gill Sans\", \"Gill Sans MT\", \"Myriad Pro\", Myriad, \"DejaVu Sans Condensed\", \"Liberation Sans\", \"Nimbus Sans L\", Tahoma, Geneva, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "value": "{fontFamilies.roboto}",
         "type": "fontFamilies"
       },
       "fontWeight": {
-        "value": "Medium",
+        "value": "{fontWeights.Medium}",
         "type": "fontWeights"
       },
       "lineHeight": {
-        "value": "120%",
+        "value": "{lineHeights.120}",
         "type": "lineHeight"
       },
       "fontSize": {
-        "value": "16px",
+        "value": "{fontSize.4}",
         "type": "fontSizes"
       },
       "letterSpacing": {
-        "value": "0%",
+        "value": "{letterSpacing.0}",
         "type": "letterSpacing"
       },
       "paragraphSpacing": {
-        "value": 0,
+        "value": "{paragraphSpacing.0}",
         "type": "paragraphSpacing"
       },
       "paragraphIndent": {
-        "value": "0px",
+        "value": "{paragraphIndent.0}",
         "type": "paragraphIndent"
       },
       "textCase": {
-        "value": "none",
+        "value": "{textCase.none}",
         "type": "textCase"
       },
       "textDecoration": {
-        "value": "none",
+        "value": "{textDecoration.none}",
         "type": "textDecoration"
       }
     },
     "Semi Bold": {
       "fontFamily": {
-        "value": "\"Roboto'\", Frutiger, \"Frutiger Linotype\", Univers, Calibri, \"Gill Sans\", \"Gill Sans MT\", \"Myriad Pro\", Myriad, \"DejaVu Sans Condensed\", \"Liberation Sans\", \"Nimbus Sans L\", Tahoma, Geneva, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "value": "{fontFamilies.roboto}",
         "type": "fontFamilies"
       },
       "fontWeight": {
-        "value": "SemiBold",
+        "value": "{fontWeights.SemiBold}",
         "type": "fontWeights"
       },
       "lineHeight": {
-        "value": "120%",
+        "value": "{lineHeights.120}",
         "type": "lineHeight"
       },
       "fontSize": {
-        "value": "16px",
+        "value": "{fontSize.4}",
         "type": "fontSizes"
       },
       "letterSpacing": {
-        "value": "0%",
+        "value": "{letterSpacing.0}",
         "type": "letterSpacing"
       },
       "paragraphSpacing": {
-        "value": 0,
+        "value": "{paragraphSpacing.0}",
         "type": "paragraphSpacing"
       },
       "paragraphIndent": {
-        "value": "0px",
+        "value": "{paragraphIndent.0}",
         "type": "paragraphIndent"
       },
       "textCase": {
-        "value": "none",
+        "value": "{textCase.none}",
         "type": "textCase"
       },
       "textDecoration": {
-        "value": "none",
+        "value": "{textDecoration.none}",
         "type": "textDecoration"
       }
     },
     "Bold": {
       "fontFamily": {
-        "value": "\"Roboto'\", Frutiger, \"Frutiger Linotype\", Univers, Calibri, \"Gill Sans\", \"Gill Sans MT\", \"Myriad Pro\", Myriad, \"DejaVu Sans Condensed\", \"Liberation Sans\", \"Nimbus Sans L\", Tahoma, Geneva, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "value": "{fontFamilies.roboto}",
         "type": "fontFamilies"
       },
       "fontWeight": {
-        "value": "Bold",
+        "value": "{fontWeights.Bold}",
         "type": "fontWeights"
       },
       "lineHeight": {
-        "value": "120%",
+        "value": "{lineHeights.120}",
         "type": "lineHeight"
       },
       "fontSize": {
-        "value": "16px",
+        "value": "{fontSize.4}",
         "type": "fontSizes"
       },
       "letterSpacing": {
-        "value": "0%",
+        "value": "{letterSpacing.0}",
         "type": "letterSpacing"
       },
       "paragraphSpacing": {
-        "value": 0,
+        "value": "{paragraphSpacing.0}",
         "type": "paragraphSpacing"
       },
       "paragraphIndent": {
-        "value": "0px",
+        "value": "{paragraphIndent.0}",
         "type": "paragraphIndent"
       },
       "textCase": {
-        "value": "none",
+        "value": "{textCase.none}",
         "type": "textCase"
       },
       "textDecoration": {
-        "value": "none",
+        "value": "{textDecoration.none}",
         "type": "textDecoration"
       }
     },
     "italic": {
       "fontFamily": {
-        "value": "\"Roboto'\", Frutiger, \"Frutiger Linotype\", Univers, Calibri, \"Gill Sans\", \"Gill Sans MT\", \"Myriad Pro\", Myriad, \"DejaVu Sans Condensed\", \"Liberation Sans\", \"Nimbus Sans L\", Tahoma, Geneva, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "value": "{fontFamilies.roboto}",
         "type": "fontFamilies"
       },
       "fontWeight": {
-        "value": "Italic",
+        "value": "{fontWeights.Italic}",
         "type": "fontWeights"
       },
       "lineHeight": {
-        "value": "120%",
+        "value": "{lineHeights.120}",
         "type": "lineHeight"
       },
       "fontSize": {
-        "value": "16px",
+        "value": "{fontSize.4}",
         "type": "fontSizes"
       },
       "letterSpacing": {
-        "value": "0%",
+        "value": "{letterSpacing.0}",
         "type": "letterSpacing"
       },
       "paragraphSpacing": {
-        "value": 0,
+        "value": "{paragraphSpacing.0}",
         "type": "paragraphSpacing"
       },
       "paragraphIndent": {
-        "value": "0px",
+        "value": "{paragraphIndent.0}",
         "type": "paragraphIndent"
       },
       "textCase": {
-        "value": "none",
+        "value": "{textCase.none}",
         "type": "textCase"
       },
       "textDecoration": {
-        "value": "none",
+        "value": "{textDecoration.none}",
         "type": "textDecoration"
       }
     }
@@ -1835,191 +1835,191 @@
   "Base": {
     "Regular": {
       "fontFamily": {
-        "value": "\"Roboto'\", Frutiger, \"Frutiger Linotype\", Univers, Calibri, \"Gill Sans\", \"Gill Sans MT\", \"Myriad Pro\", Myriad, \"DejaVu Sans Condensed\", \"Liberation Sans\", \"Nimbus Sans L\", Tahoma, Geneva, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "value": "{fontFamilies.roboto}",
         "type": "fontFamilies"
       },
       "fontWeight": {
-        "value": "Regular",
+        "value": "{fontWeights.Regular}",
         "type": "fontWeights"
       },
       "lineHeight": {
-        "value": "140%",
+        "value": "{lineHeights.140}",
         "type": "lineHeight"
       },
       "fontSize": {
-        "value": "14px",
+        "value": "{fontSize.3}",
         "type": "fontSizes"
       },
       "letterSpacing": {
-        "value": "0%",
+        "value": "{letterSpacing.0}",
         "type": "letterSpacing"
       },
       "paragraphSpacing": {
-        "value": 0,
+        "value": "{paragraphSpacing.0}",
         "type": "paragraphSpacing"
       },
       "paragraphIndent": {
-        "value": "0px",
+        "value": "{paragraphIndent.0}",
         "type": "paragraphIndent"
       },
       "textCase": {
-        "value": "none",
+        "value": "{textCase.none}",
         "type": "textCase"
       },
       "textDecoration": {
-        "value": "none",
+        "value": "{textDecoration.none}",
         "type": "textDecoration"
       }
     },
     "Medium": {
       "fontFamily": {
-        "value": "\"Roboto'\", Frutiger, \"Frutiger Linotype\", Univers, Calibri, \"Gill Sans\", \"Gill Sans MT\", \"Myriad Pro\", Myriad, \"DejaVu Sans Condensed\", \"Liberation Sans\", \"Nimbus Sans L\", Tahoma, Geneva, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "value": "{fontFamilies.roboto}",
         "type": "fontFamilies"
       },
       "fontWeight": {
-        "value": "Medium",
+        "value": "{fontWeights.Medium}",
         "type": "fontWeights"
       },
       "lineHeight": {
-        "value": "140%",
+        "value": "{lineHeights.140}",
         "type": "lineHeight"
       },
       "fontSize": {
-        "value": "14px",
+        "value": "{fontSize.3}",
         "type": "fontSizes"
       },
       "letterSpacing": {
-        "value": "0%",
+        "value": "{letterSpacing.0}",
         "type": "letterSpacing"
       },
       "paragraphSpacing": {
-        "value": 0,
+        "value": "{paragraphSpacing.0}",
         "type": "paragraphSpacing"
       },
       "paragraphIndent": {
-        "value": "0px",
+        "value": "{paragraphIndent.0}",
         "type": "paragraphIndent"
       },
       "textCase": {
-        "value": "none",
+        "value": "{textCase.none}",
         "type": "textCase"
       },
       "textDecoration": {
-        "value": "none",
+        "value": "{textDecoration.none}",
         "type": "textDecoration"
       }
     },
     "Semi Bold": {
       "fontFamily": {
-        "value": "\"Roboto'\", Frutiger, \"Frutiger Linotype\", Univers, Calibri, \"Gill Sans\", \"Gill Sans MT\", \"Myriad Pro\", Myriad, \"DejaVu Sans Condensed\", \"Liberation Sans\", \"Nimbus Sans L\", Tahoma, Geneva, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "value": "{fontFamilies.roboto}",
         "type": "fontFamilies"
       },
       "fontWeight": {
-        "value": "SemiBold",
+        "value": "{fontWeights.SemiBold}",
         "type": "fontWeights"
       },
       "lineHeight": {
-        "value": "140%",
+        "value": "{lineHeights.140}",
         "type": "lineHeight"
       },
       "fontSize": {
-        "value": "14px",
+        "value": "{fontSize.3}",
         "type": "fontSizes"
       },
       "letterSpacing": {
-        "value": "0%",
+        "value": "{letterSpacing.0}",
         "type": "letterSpacing"
       },
       "paragraphSpacing": {
-        "value": 0,
+        "value": "{paragraphSpacing.0}",
         "type": "paragraphSpacing"
       },
       "paragraphIndent": {
-        "value": "0px",
+        "value": "{paragraphIndent.0}",
         "type": "paragraphIndent"
       },
       "textCase": {
-        "value": "none",
+        "value": "{textCase.none}",
         "type": "textCase"
       },
       "textDecoration": {
-        "value": "none",
+        "value": "{textDecoration.none}",
         "type": "textDecoration"
       }
     },
     "Bold": {
       "fontFamily": {
-        "value": "\"Roboto'\", Frutiger, \"Frutiger Linotype\", Univers, Calibri, \"Gill Sans\", \"Gill Sans MT\", \"Myriad Pro\", Myriad, \"DejaVu Sans Condensed\", \"Liberation Sans\", \"Nimbus Sans L\", Tahoma, Geneva, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "value": "{fontFamilies.roboto}",
         "type": "fontFamilies"
       },
       "fontWeight": {
-        "value": "Bold",
+        "value": "{fontWeights.Bold}",
         "type": "fontWeights"
       },
       "lineHeight": {
-        "value": "140%",
+        "value": "{lineHeights.140}",
         "type": "lineHeight"
       },
       "fontSize": {
-        "value": "14px",
+        "value": "{fontSize.3}",
         "type": "fontSizes"
       },
       "letterSpacing": {
-        "value": "0%",
+        "value": "{letterSpacing.0}",
         "type": "letterSpacing"
       },
       "paragraphSpacing": {
-        "value": 0,
+        "value": "{paragraphSpacing.0}",
         "type": "paragraphSpacing"
       },
       "paragraphIndent": {
-        "value": "0px",
+        "value": "{paragraphIndent.0}",
         "type": "paragraphIndent"
       },
       "textCase": {
-        "value": "none",
+        "value": "{textCase.none}",
         "type": "textCase"
       },
       "textDecoration": {
-        "value": "none",
+        "value": "{textDecoration.none}",
         "type": "textDecoration"
       }
     },
     "italic": {
       "fontFamily": {
-        "value": "\"Roboto'\", Frutiger, \"Frutiger Linotype\", Univers, Calibri, \"Gill Sans\", \"Gill Sans MT\", \"Myriad Pro\", Myriad, \"DejaVu Sans Condensed\", \"Liberation Sans\", \"Nimbus Sans L\", Tahoma, Geneva, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "value": "{fontFamilies.roboto}",
         "type": "fontFamilies"
       },
       "fontWeight": {
-        "value": "Italic",
+        "value": "{fontWeights.Italic}",
         "type": "fontWeights"
       },
       "lineHeight": {
-        "value": "140%",
+        "value": "{lineHeights.140}",
         "type": "lineHeight"
       },
       "fontSize": {
-        "value": "14px",
+        "value": "{fontSize.3}",
         "type": "fontSizes"
       },
       "letterSpacing": {
-        "value": "0%",
+        "value": "{letterSpacing.0}",
         "type": "letterSpacing"
       },
       "paragraphSpacing": {
-        "value": 0,
+        "value": "{paragraphSpacing.0}",
         "type": "paragraphSpacing"
       },
       "paragraphIndent": {
-        "value": "0px",
+        "value": "{paragraphIndent.0}",
         "type": "paragraphIndent"
       },
       "textCase": {
-        "value": "none",
+        "value": "{textCase.none}",
         "type": "textCase"
       },
       "textDecoration": {
-        "value": "none",
+        "value": "{textDecoration.none}",
         "type": "textDecoration"
       }
     }
@@ -2027,191 +2027,191 @@
   "Small": {
     "Regular": {
       "fontFamily": {
-        "value": "\"Roboto'\", Frutiger, \"Frutiger Linotype\", Univers, Calibri, \"Gill Sans\", \"Gill Sans MT\", \"Myriad Pro\", Myriad, \"DejaVu Sans Condensed\", \"Liberation Sans\", \"Nimbus Sans L\", Tahoma, Geneva, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "value": "{fontFamilies.roboto}",
         "type": "fontFamilies"
       },
       "fontWeight": {
-        "value": "Regular",
+        "value": "{fontWeights.Regular}",
         "type": "fontWeights"
       },
       "lineHeight": {
-        "value": "140%",
+        "value": "{lineHeights.140}",
         "type": "lineHeight"
       },
       "fontSize": {
-        "value": "12px",
+        "value": "{fontSize.2}",
         "type": "fontSizes"
       },
       "letterSpacing": {
-        "value": "0%",
+        "value": "{letterSpacing.0}",
         "type": "letterSpacing"
       },
       "paragraphSpacing": {
-        "value": 0,
+        "value": "{paragraphSpacing.0}",
         "type": "paragraphSpacing"
       },
       "paragraphIndent": {
-        "value": "0px",
+        "value": "{paragraphIndent.0}",
         "type": "paragraphIndent"
       },
       "textCase": {
-        "value": "none",
+        "value": "{textCase.none}",
         "type": "textCase"
       },
       "textDecoration": {
-        "value": "none",
+        "value": "{textDecoration.none}",
         "type": "textDecoration"
       }
     },
     "Medium": {
       "fontFamily": {
-        "value": "\"Roboto'\", Frutiger, \"Frutiger Linotype\", Univers, Calibri, \"Gill Sans\", \"Gill Sans MT\", \"Myriad Pro\", Myriad, \"DejaVu Sans Condensed\", \"Liberation Sans\", \"Nimbus Sans L\", Tahoma, Geneva, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "value": "{fontFamilies.roboto}",
         "type": "fontFamilies"
       },
       "fontWeight": {
-        "value": "Medium",
+        "value": "{fontWeights.Medium}",
         "type": "fontWeights"
       },
       "lineHeight": {
-        "value": "140%",
+        "value": "{lineHeights.140}",
         "type": "lineHeight"
       },
       "fontSize": {
-        "value": "12px",
+        "value": "{fontSize.2}",
         "type": "fontSizes"
       },
       "letterSpacing": {
-        "value": "0%",
+        "value": "{letterSpacing.0}",
         "type": "letterSpacing"
       },
       "paragraphSpacing": {
-        "value": 0,
+        "value": "{paragraphSpacing.0}",
         "type": "paragraphSpacing"
       },
       "paragraphIndent": {
-        "value": "0px",
+        "value": "{paragraphIndent.0}",
         "type": "paragraphIndent"
       },
       "textCase": {
-        "value": "none",
+        "value": "{textCase.none}",
         "type": "textCase"
       },
       "textDecoration": {
-        "value": "none",
+        "value": "{textDecoration.none}",
         "type": "textDecoration"
       }
     },
     "Semi Bold": {
       "fontFamily": {
-        "value": "\"Roboto'\", Frutiger, \"Frutiger Linotype\", Univers, Calibri, \"Gill Sans\", \"Gill Sans MT\", \"Myriad Pro\", Myriad, \"DejaVu Sans Condensed\", \"Liberation Sans\", \"Nimbus Sans L\", Tahoma, Geneva, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "value": "{fontFamilies.roboto}",
         "type": "fontFamilies"
       },
       "fontWeight": {
-        "value": "SemiBold",
+        "value": "{fontWeights.SemiBold}",
         "type": "fontWeights"
       },
       "lineHeight": {
-        "value": "140%",
+        "value": "{lineHeights.140}",
         "type": "lineHeight"
       },
       "fontSize": {
-        "value": "12px",
+        "value": "{fontSize.2}",
         "type": "fontSizes"
       },
       "letterSpacing": {
-        "value": "0%",
+        "value": "{letterSpacing.0}",
         "type": "letterSpacing"
       },
       "paragraphSpacing": {
-        "value": 0,
+        "value": "{paragraphSpacing.0}",
         "type": "paragraphSpacing"
       },
       "paragraphIndent": {
-        "value": "0px",
+        "value": "{paragraphIndent.0}",
         "type": "paragraphIndent"
       },
       "textCase": {
-        "value": "none",
+        "value": "{textCase.none}",
         "type": "textCase"
       },
       "textDecoration": {
-        "value": "none",
+        "value": "{textDecoration.none}",
         "type": "textDecoration"
       }
     },
     "Bold": {
       "fontFamily": {
-        "value": "\"Roboto'\", Frutiger, \"Frutiger Linotype\", Univers, Calibri, \"Gill Sans\", \"Gill Sans MT\", \"Myriad Pro\", Myriad, \"DejaVu Sans Condensed\", \"Liberation Sans\", \"Nimbus Sans L\", Tahoma, Geneva, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "value": "{fontFamilies.roboto}",
         "type": "fontFamilies"
       },
       "fontWeight": {
-        "value": "Bold",
+        "value": "{fontWeights.Bold}",
         "type": "fontWeights"
       },
       "lineHeight": {
-        "value": "140%",
+        "value": "{lineHeights.140}",
         "type": "lineHeight"
       },
       "fontSize": {
-        "value": "12px",
+        "value": "{fontSize.2}",
         "type": "fontSizes"
       },
       "letterSpacing": {
-        "value": "0%",
+        "value": "{letterSpacing.0}",
         "type": "letterSpacing"
       },
       "paragraphSpacing": {
-        "value": 0,
+        "value": "{paragraphSpacing.0}",
         "type": "paragraphSpacing"
       },
       "paragraphIndent": {
-        "value": "0px",
+        "value": "{paragraphIndent.0}",
         "type": "paragraphIndent"
       },
       "textCase": {
-        "value": "none",
+        "value": "{textCase.none}",
         "type": "textCase"
       },
       "textDecoration": {
-        "value": "none",
+        "value": "{textDecoration.none}",
         "type": "textDecoration"
       }
     },
     "italic": {
       "fontFamily": {
-        "value": "\"Roboto'\", Frutiger, \"Frutiger Linotype\", Univers, Calibri, \"Gill Sans\", \"Gill Sans MT\", \"Myriad Pro\", Myriad, \"DejaVu Sans Condensed\", \"Liberation Sans\", \"Nimbus Sans L\", Tahoma, Geneva, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "value": "{fontFamilies.roboto}",
         "type": "fontFamilies"
       },
       "fontWeight": {
-        "value": "Italic",
+        "value": "{fontWeights.Italic}",
         "type": "fontWeights"
       },
       "lineHeight": {
-        "value": "140%",
+        "value": "{lineHeights.140}",
         "type": "lineHeight"
       },
       "fontSize": {
-        "value": "12px",
+        "value": "{fontSize.2}",
         "type": "fontSizes"
       },
       "letterSpacing": {
-        "value": "0%",
+        "value": "{letterSpacing.0}",
         "type": "letterSpacing"
       },
       "paragraphSpacing": {
-        "value": 0,
+        "value": "{paragraphSpacing.0}",
         "type": "paragraphSpacing"
       },
       "paragraphIndent": {
-        "value": "0px",
+        "value": "{paragraphIndent.0}",
         "type": "paragraphIndent"
       },
       "textCase": {
-        "value": "none",
+        "value": "{textCase.none}",
         "type": "textCase"
       },
       "textDecoration": {
-        "value": "none",
+        "value": "{textDecoration.none}",
         "type": "textDecoration"
       }
     }
@@ -2219,191 +2219,191 @@
   "Label": {
     "Regular": {
       "fontFamily": {
-        "value": "\"Roboto'\", Frutiger, \"Frutiger Linotype\", Univers, Calibri, \"Gill Sans\", \"Gill Sans MT\", \"Myriad Pro\", Myriad, \"DejaVu Sans Condensed\", \"Liberation Sans\", \"Nimbus Sans L\", Tahoma, Geneva, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "value": "{fontFamilies.roboto}",
         "type": "fontFamilies"
       },
       "fontWeight": {
-        "value": "Regular",
+        "value": "{fontWeights.Regular}",
         "type": "fontWeights"
       },
       "lineHeight": {
-        "value": "120%",
+        "value": "{lineHeights.120}",
         "type": "lineHeight"
       },
       "fontSize": {
-        "value": "11px",
+        "value": "{fontSize.1}",
         "type": "fontSizes"
       },
       "letterSpacing": {
-        "value": "0%",
+        "value": "{letterSpacing.0}",
         "type": "letterSpacing"
       },
       "paragraphSpacing": {
-        "value": 0,
+        "value": "{paragraphSpacing.0}",
         "type": "paragraphSpacing"
       },
       "paragraphIndent": {
-        "value": "0px",
+        "value": "{paragraphIndent.0}",
         "type": "paragraphIndent"
       },
       "textCase": {
-        "value": "none",
+        "value": "{textCase.none}",
         "type": "textCase"
       },
       "textDecoration": {
-        "value": "none",
+        "value": "{textDecoration.none}",
         "type": "textDecoration"
       }
     },
     "Medium": {
       "fontFamily": {
-        "value": "\"Roboto'\", Frutiger, \"Frutiger Linotype\", Univers, Calibri, \"Gill Sans\", \"Gill Sans MT\", \"Myriad Pro\", Myriad, \"DejaVu Sans Condensed\", \"Liberation Sans\", \"Nimbus Sans L\", Tahoma, Geneva, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "value": "{fontFamilies.roboto}",
         "type": "fontFamilies"
       },
       "fontWeight": {
-        "value": "Medium",
+        "value": "{fontWeights.Medium}",
         "type": "fontWeights"
       },
       "lineHeight": {
-        "value": "120%",
+        "value": "{lineHeights.120}",
         "type": "lineHeight"
       },
       "fontSize": {
-        "value": "11px",
+        "value": "{fontSize.1}",
         "type": "fontSizes"
       },
       "letterSpacing": {
-        "value": "0%",
+        "value": "{letterSpacing.0}",
         "type": "letterSpacing"
       },
       "paragraphSpacing": {
-        "value": 0,
+        "value": "{paragraphSpacing.0}",
         "type": "paragraphSpacing"
       },
       "paragraphIndent": {
-        "value": "0px",
+        "value": "{paragraphIndent.0}",
         "type": "paragraphIndent"
       },
       "textCase": {
-        "value": "none",
+        "value": "{textCase.none}",
         "type": "textCase"
       },
       "textDecoration": {
-        "value": "none",
+        "value": "{textDecoration.none}",
         "type": "textDecoration"
       }
     },
     "Semi Bold": {
       "fontFamily": {
-        "value": "\"Roboto'\", Frutiger, \"Frutiger Linotype\", Univers, Calibri, \"Gill Sans\", \"Gill Sans MT\", \"Myriad Pro\", Myriad, \"DejaVu Sans Condensed\", \"Liberation Sans\", \"Nimbus Sans L\", Tahoma, Geneva, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "value": "{fontFamilies.roboto}",
         "type": "fontFamilies"
       },
       "fontWeight": {
-        "value": "SemiBold",
+        "value": "{fontWeights.SemiBold}",
         "type": "fontWeights"
       },
       "lineHeight": {
-        "value": "120%",
+        "value": "{lineHeights.120}",
         "type": "lineHeight"
       },
       "fontSize": {
-        "value": "11px",
+        "value": "{fontSize.1}",
         "type": "fontSizes"
       },
       "letterSpacing": {
-        "value": "0%",
+        "value": "{letterSpacing.0}",
         "type": "letterSpacing"
       },
       "paragraphSpacing": {
-        "value": 0,
+        "value": "{paragraphSpacing.0}",
         "type": "paragraphSpacing"
       },
       "paragraphIndent": {
-        "value": "0px",
+        "value": "{paragraphIndent.0}",
         "type": "paragraphIndent"
       },
       "textCase": {
-        "value": "none",
+        "value": "{textCase.none}",
         "type": "textCase"
       },
       "textDecoration": {
-        "value": "none",
+        "value": "{textDecoration.none}",
         "type": "textDecoration"
       }
     },
     "Bold": {
       "fontFamily": {
-        "value": "\"Roboto'\", Frutiger, \"Frutiger Linotype\", Univers, Calibri, \"Gill Sans\", \"Gill Sans MT\", \"Myriad Pro\", Myriad, \"DejaVu Sans Condensed\", \"Liberation Sans\", \"Nimbus Sans L\", Tahoma, Geneva, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "value": "{fontFamilies.roboto}",
         "type": "fontFamilies"
       },
       "fontWeight": {
-        "value": "Bold",
+        "value": "{fontWeights.Bold}",
         "type": "fontWeights"
       },
       "lineHeight": {
-        "value": "120%",
+        "value": "{lineHeights.120}",
         "type": "lineHeight"
       },
       "fontSize": {
-        "value": "11px",
+        "value": "{fontSize.1}",
         "type": "fontSizes"
       },
       "letterSpacing": {
-        "value": "0%",
+        "value": "{letterSpacing.0}",
         "type": "letterSpacing"
       },
       "paragraphSpacing": {
-        "value": 0,
+        "value": "{paragraphSpacing.0}",
         "type": "paragraphSpacing"
       },
       "paragraphIndent": {
-        "value": "0px",
+        "value": "{paragraphIndent.0}",
         "type": "paragraphIndent"
       },
       "textCase": {
-        "value": "none",
+        "value": "{textCase.none}",
         "type": "textCase"
       },
       "textDecoration": {
-        "value": "none",
+        "value": "{textDecoration.none}",
         "type": "textDecoration"
       }
     },
     "italic": {
       "fontFamily": {
-        "value": "\"Roboto'\", Frutiger, \"Frutiger Linotype\", Univers, Calibri, \"Gill Sans\", \"Gill Sans MT\", \"Myriad Pro\", Myriad, \"DejaVu Sans Condensed\", \"Liberation Sans\", \"Nimbus Sans L\", Tahoma, Geneva, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "value": "{fontFamilies.roboto}",
         "type": "fontFamilies"
       },
       "fontWeight": {
-        "value": "Italic",
+        "value": "{fontWeights.Italic}",
         "type": "fontWeights"
       },
       "lineHeight": {
-        "value": "120%",
+        "value": "{lineHeights.120}",
         "type": "lineHeight"
       },
       "fontSize": {
-        "value": "11px",
+        "value": "{fontSize.1}",
         "type": "fontSizes"
       },
       "letterSpacing": {
-        "value": "0%",
+        "value": "{letterSpacing.0}",
         "type": "letterSpacing"
       },
       "paragraphSpacing": {
-        "value": 0,
+        "value": "{paragraphSpacing.0}",
         "type": "paragraphSpacing"
       },
       "paragraphIndent": {
-        "value": "0px",
+        "value": "{paragraphIndent.0}",
         "type": "paragraphIndent"
       },
       "textCase": {
-        "value": "none",
+        "value": "{textCase.none}",
         "type": "textCase"
       },
       "textDecoration": {
-        "value": "none",
+        "value": "{textDecoration.none}",
         "type": "textDecoration"
       }
     }
@@ -2411,191 +2411,191 @@
   "XSmall": {
     "Regular": {
       "fontFamily": {
-        "value": "\"Roboto'\", Frutiger, \"Frutiger Linotype\", Univers, Calibri, \"Gill Sans\", \"Gill Sans MT\", \"Myriad Pro\", Myriad, \"DejaVu Sans Condensed\", \"Liberation Sans\", \"Nimbus Sans L\", Tahoma, Geneva, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "value": "{fontFamilies.roboto}",
         "type": "fontFamilies"
       },
       "fontWeight": {
-        "value": "Regular",
+        "value": "{fontWeights.Regular}",
         "type": "fontWeights"
       },
       "lineHeight": {
-        "value": "120%",
+        "value": "{lineHeights.120}",
         "type": "lineHeight"
       },
       "fontSize": {
-        "value": "10px",
+        "value": "{fontSize.0}",
         "type": "fontSizes"
       },
       "letterSpacing": {
-        "value": "0%",
+        "value": "{letterSpacing.0}",
         "type": "letterSpacing"
       },
       "paragraphSpacing": {
-        "value": 0,
+        "value": "{paragraphSpacing.0}",
         "type": "paragraphSpacing"
       },
       "paragraphIndent": {
-        "value": "0px",
+        "value": "{paragraphIndent.0}",
         "type": "paragraphIndent"
       },
       "textCase": {
-        "value": "none",
+        "value": "{textCase.none}",
         "type": "textCase"
       },
       "textDecoration": {
-        "value": "none",
+        "value": "{textDecoration.none}",
         "type": "textDecoration"
       }
     },
     "Medium": {
       "fontFamily": {
-        "value": "\"Roboto'\", Frutiger, \"Frutiger Linotype\", Univers, Calibri, \"Gill Sans\", \"Gill Sans MT\", \"Myriad Pro\", Myriad, \"DejaVu Sans Condensed\", \"Liberation Sans\", \"Nimbus Sans L\", Tahoma, Geneva, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "value": "{fontFamilies.roboto}",
         "type": "fontFamilies"
       },
       "fontWeight": {
-        "value": "Medium",
+        "value": "{fontWeights.Medium}",
         "type": "fontWeights"
       },
       "lineHeight": {
-        "value": "120%",
+        "value": "{lineHeights.120}",
         "type": "lineHeight"
       },
       "fontSize": {
-        "value": "10px",
+        "value": "{fontSize.0}",
         "type": "fontSizes"
       },
       "letterSpacing": {
-        "value": "0%",
+        "value": "{letterSpacing.0}",
         "type": "letterSpacing"
       },
       "paragraphSpacing": {
-        "value": 0,
+        "value": "{paragraphSpacing.0}",
         "type": "paragraphSpacing"
       },
       "paragraphIndent": {
-        "value": "0px",
+        "value": "{paragraphIndent.0}",
         "type": "paragraphIndent"
       },
       "textCase": {
-        "value": "none",
+        "value": "{textCase.none}",
         "type": "textCase"
       },
       "textDecoration": {
-        "value": "none",
+        "value": "{textDecoration.none}",
         "type": "textDecoration"
       }
     },
     "Semi Bold": {
       "fontFamily": {
-        "value": "\"Roboto'\", Frutiger, \"Frutiger Linotype\", Univers, Calibri, \"Gill Sans\", \"Gill Sans MT\", \"Myriad Pro\", Myriad, \"DejaVu Sans Condensed\", \"Liberation Sans\", \"Nimbus Sans L\", Tahoma, Geneva, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "value": "{fontFamilies.roboto}",
         "type": "fontFamilies"
       },
       "fontWeight": {
-        "value": "SemiBold",
+        "value": "{fontWeights.SemiBold}",
         "type": "fontWeights"
       },
       "lineHeight": {
-        "value": "120%",
+        "value": "{lineHeights.120}",
         "type": "lineHeight"
       },
       "fontSize": {
-        "value": "10px",
+        "value": "{fontSize.0}",
         "type": "fontSizes"
       },
       "letterSpacing": {
-        "value": "0%",
+        "value": "{letterSpacing.0}",
         "type": "letterSpacing"
       },
       "paragraphSpacing": {
-        "value": 0,
+        "value": "{paragraphSpacing.0}",
         "type": "paragraphSpacing"
       },
       "paragraphIndent": {
-        "value": "0px",
+        "value": "{paragraphIndent.0}",
         "type": "paragraphIndent"
       },
       "textCase": {
-        "value": "none",
+        "value": "{textCase.none}",
         "type": "textCase"
       },
       "textDecoration": {
-        "value": "none",
+        "value": "{textDecoration.none}",
         "type": "textDecoration"
       }
     },
     "Bold": {
       "fontFamily": {
-        "value": "\"Roboto'\", Frutiger, \"Frutiger Linotype\", Univers, Calibri, \"Gill Sans\", \"Gill Sans MT\", \"Myriad Pro\", Myriad, \"DejaVu Sans Condensed\", \"Liberation Sans\", \"Nimbus Sans L\", Tahoma, Geneva, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "value": "{fontFamilies.roboto}",
         "type": "fontFamilies"
       },
       "fontWeight": {
-        "value": "Bold",
+        "value": "{fontWeights.Bold}",
         "type": "fontWeights"
       },
       "lineHeight": {
-        "value": "120%",
+        "value": "{lineHeights.120}",
         "type": "lineHeight"
       },
       "fontSize": {
-        "value": "10px",
+        "value": "{fontSize.0}",
         "type": "fontSizes"
       },
       "letterSpacing": {
-        "value": "0%",
+        "value": "{letterSpacing.0}",
         "type": "letterSpacing"
       },
       "paragraphSpacing": {
-        "value": 0,
+        "value": "{paragraphSpacing.0}",
         "type": "paragraphSpacing"
       },
       "paragraphIndent": {
-        "value": "0px",
+        "value": "{paragraphIndent.0}",
         "type": "paragraphIndent"
       },
       "textCase": {
-        "value": "none",
+        "value": "{textCase.none}",
         "type": "textCase"
       },
       "textDecoration": {
-        "value": "none",
+        "value": "{textDecoration.none}",
         "type": "textDecoration"
       }
     },
     "italic": {
       "fontFamily": {
-        "value": "\"Roboto'\", Frutiger, \"Frutiger Linotype\", Univers, Calibri, \"Gill Sans\", \"Gill Sans MT\", \"Myriad Pro\", Myriad, \"DejaVu Sans Condensed\", \"Liberation Sans\", \"Nimbus Sans L\", Tahoma, Geneva, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+        "value": "{fontFamilies.roboto}",
         "type": "fontFamilies"
       },
       "fontWeight": {
-        "value": "Italic",
+        "value": "{fontWeights.Italic}",
         "type": "fontWeights"
       },
       "lineHeight": {
-        "value": "120%",
+        "value": "{lineHeights.120}",
         "type": "lineHeight"
       },
       "fontSize": {
-        "value": "10px",
+        "value": "{fontSize.0}",
         "type": "fontSizes"
       },
       "letterSpacing": {
-        "value": "0%",
+        "value": "{letterSpacing.0}",
         "type": "letterSpacing"
       },
       "paragraphSpacing": {
-        "value": 0,
+        "value": "{paragraphSpacing.0}",
         "type": "paragraphSpacing"
       },
       "paragraphIndent": {
-        "value": "0px",
+        "value": "{paragraphIndent.0}",
         "type": "paragraphIndent"
       },
       "textCase": {
-        "value": "none",
+        "value": "{textCase.none}",
         "type": "textCase"
       },
       "textDecoration": {
-        "value": "none",
+        "value": "{textDecoration.none}",
         "type": "textDecoration"
       }
     }
