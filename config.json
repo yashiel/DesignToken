@@ -20,9 +20,6 @@
 					"format": "scss/variables"
 				}
 			]
-		},
-		"android": {
-			"transformGroup": "android"
 		}
 	}
 }
