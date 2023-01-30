@@ -1,17 +1,17 @@
 /**
  * Do not edit directly
- * Generated on Mon, 30 Jan 2023 16:49:18 GMT
+ * Generated on Mon, 30 Jan 2023 16:54:06 GMT
  */
 
 :root {
-  --figma-spacing-2: 2;
-  --figma-spacing-4: 4;
-  --figma-spacing-8: 8;
-  --figma-spacing-12: 12;
-  --figma-spacing-16: 16;
-  --figma-spacing-20: 20;
-  --figma-spacing-24: 24;
-  --figma-spacing-28: 28;
+  --figma-spacing-2: 2px;
+  --figma-spacing-4: 4px;
+  --figma-spacing-8: 8px;
+  --figma-spacing-12: 12px;
+  --figma-spacing-16: 16px;
+  --figma-spacing-20: 20px;
+  --figma-spacing-24: 24px;
+  --figma-spacing-28: 28px;
   --figma-spacing-32: 32px;
   --figma-spacing-36: 36px;
   --figma-spacing-40: 40px;
