@@ -5,14 +5,7 @@
 			"options": {
 				"basePxFontSize": 14
 			},
-			"transforms": [
-				"attribute/cti",
-				"name/cti/kebab",
-				"time/seconds",
-				"color/css",
-				"size/rem",
-				"content/icon"
-			],
+			"transformGroup": "css",
 			"buildPath": "build/css/",
 			"files": [
 				{
@@ -25,14 +18,7 @@
 			"options": {
 				"basePxFontSize": 14
 			},
-			"transforms": [
-				"attribute/cti",
-				"name/cti/kebab",
-				"time/seconds",
-				"color/css",
-				"size/rem",
-				"content/icon"
-			],
+			"transformGroup": "scss",
 			"buildPath": "build/scss/",
 			"files": [
 				{
