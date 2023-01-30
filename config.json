@@ -3,7 +3,6 @@
 	"platforms": {
 		"css": {
 			"transformGroup": "css",
-			"prefix": "figma",
 			"buildPath": "build/css/",
 			"files": [
 				{
@@ -14,7 +13,6 @@
 		},
 		"scss": {
 			"transformGroup": "scss",
-			"prefix": "figma",
 			"buildPath": "build/scss/",
 			"files": [
 				{
