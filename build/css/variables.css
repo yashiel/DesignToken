@@ -1,17 +1,17 @@
 /**
  * Do not edit directly
- * Generated on Mon, 30 Jan 2023 15:59:09 GMT
+ * Generated on Mon, 30 Jan 2023 16:07:22 GMT
  */
 
 :root {
-  --core-spacing-2: 2px;
-  --core-spacing-4: 4px;
-  --core-spacing-8: 8px;
-  --core-spacing-12: 12px;
-  --core-spacing-16: 16px;
-  --core-spacing-20: 20px;
-  --core-spacing-24: 24px;
-  --core-spacing-28: 28px;
+  --core-spacing-2: 2;
+  --core-spacing-4: 4;
+  --core-spacing-8: 8;
+  --core-spacing-12: 12;
+  --core-spacing-16: 16;
+  --core-spacing-20: 20;
+  --core-spacing-24: 24;
+  --core-spacing-28: 28;
   --core-spacing-32: 32px;
   --core-spacing-36: 36px;
   --core-spacing-40: 40px;
@@ -191,14 +191,14 @@
   --core-x-small-bold: [object Object];
   --core-x-small-italic: [object Object];
   --core-paragraph-indent-0: 0px;
-  --spacing-2: 2px;
-  --spacing-4: 4px;
-  --spacing-8: 8px;
-  --spacing-12: 12px;
-  --spacing-16: 16px;
-  --spacing-20: 20px;
-  --spacing-24: 24px;
-  --spacing-28: 28px;
+  --spacing-2: 2;
+  --spacing-4: 4;
+  --spacing-8: 8;
+  --spacing-12: 12;
+  --spacing-16: 16;
+  --spacing-20: 20;
+  --spacing-24: 24;
+  --spacing-28: 28;
   --spacing-32: 32px;
   --spacing-36: 36px;
   --spacing-40: 40px;
