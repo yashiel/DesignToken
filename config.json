@@ -1,5 +1,5 @@
 {
-	"source": ["**/*.json"],
+	"source": ["tokens/**/*.json"],
 	"platforms": {
 		"css": {
 			"options": {
