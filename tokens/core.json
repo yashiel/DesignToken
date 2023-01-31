@@ -1,4 +1,10 @@
 {
+  "primary": {
+    "background": {
+      "value": "{color.White}",
+      "type": "color"
+    }
+  },
   "spacing": {
     "2": {
       "value": "2px",
@@ -2609,6 +2615,10 @@
   "tokenSetOrder": {
     "0": {
       "value": "core",
+      "type": "other"
+    },
+    "1": {
+      "value": "_button",
       "type": "other"
     }
   }
