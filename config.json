@@ -10,7 +10,8 @@
 				"time/seconds",
 				"content/icon",
 				"color/css",
-				"size/rem"
+				"size/rem",
+				"size/pxToRem"
 			],
 			"files": [
 				{
@@ -28,7 +29,8 @@
 				"time/seconds",
 				"content/icon",
 				"color/css",
-				"size/rem"
+				"size/rem",
+				"size/pxToRem"
 			],
 			"files": [
 				{
@@ -36,9 +38,6 @@
 					"format": "scss/variables"
 				}
 			]
-		},
-		"android": {
-			"transformGroup": "android"
 		}
 	}
 }
