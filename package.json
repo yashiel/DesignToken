@@ -1,0 +1,22 @@
+{
+	"name": "loopdesigntoken",
+	"version": "1.0.0",
+	"description": "",
+	"main": "build.js",
+	"scripts": {
+		"build": "style-dictionary build --config config.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/yashiel/Loop-DesignToken.git"
+	},
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/yashiel/Loop-DesignToken/issues"
+	},
+	"homepage": "https://github.com/yashiel/Loop-DesignToken#readme",
+	"devDependencies": {
+		"style-dictionary": "^3.7.2"
+	}
+}
