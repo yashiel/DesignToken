@@ -4,16 +4,21 @@
 		"css": {
 			"transformGroup": "css",
 			"buildPath": "build/css/",
+			"basePxFontSize": 14,
 			"files": [
 				{
 					"destination": "variables.css",
-					"format": "css/variables"
+					"format": "css/variables",
+					"options": {
+						"outputReferences": true
+					}
 				}
 			]
 		},
 		"scss": {
 			"transformGroup": "scss",
 			"buildPath": "build/scss/",
+			"basePxFontSize": 14,
 			"files": [
 				{
 					"destination": "_variables.scss",
