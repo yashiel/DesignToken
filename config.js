@@ -30,7 +30,7 @@ StyleDictionary.registerTransform({
 			return '0';
 		}
 
-		return `${floatVal / baseFont}rem`;
+		return `${(floatVal / baseFont).toFixed(3)}rem`;
 	},
 });
 
