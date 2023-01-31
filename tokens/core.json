@@ -138,7 +138,7 @@
       "description": "borderRadius.24"
     }
   },
-  "fontWeights": {
+  "fontWeight": {
     "Bold": {
       "value": "Bold",
       "type": "fontWeights",
@@ -553,13 +553,13 @@
       }
     }
   },
-  "fontFamilies": {
+  "fontFamily": {
     "roboto": {
       "value": "Roboto",
       "type": "fontFamilies"
     }
   },
-  "lineHeights": {
+  "lineHeight": {
     "120": {
       "value": "120%",
       "type": "lineHeights",
@@ -643,15 +643,15 @@
   "H1": {
     "Regular": {
       "fontFamily": {
-        "value": "{fontFamilies.roboto}",
+        "value": "{fontFamily.roboto}",
         "type": "fontFamilies"
       },
       "fontWeight": {
-        "value": "{fontWeights.Regular}",
+        "value": "{fontWeight.Regular}",
         "type": "fontWeights"
       },
       "lineHeight": {
-        "value": "{lineHeights.120}",
+        "value": "{lineHeight.120}",
         "type": "lineHeight"
       },
       "fontSize": {
@@ -681,15 +681,15 @@
     },
     "Medium": {
       "fontFamily": {
-        "value": "{fontFamilies.roboto}",
+        "value": "{fontFamily.roboto}",
         "type": "fontFamilies"
       },
       "fontWeight": {
-        "value": "{fontWeights.Medium}",
+        "value": "{fontWeight.Medium}",
         "type": "fontWeights"
       },
       "lineHeight": {
-        "value": "{lineHeights.120}",
+        "value": "{lineHeight.120}",
         "type": "lineHeight"
       },
       "fontSize": {
@@ -719,15 +719,15 @@
     },
     "Semi Bold": {
       "fontFamily": {
-        "value": "{fontFamilies.roboto}",
+        "value": "{fontFamily.roboto}",
         "type": "fontFamilies"
       },
       "fontWeight": {
-        "value": "{fontWeights.SemiBold}",
+        "value": "{fontWeight.SemiBold}",
         "type": "fontWeights"
       },
       "lineHeight": {
-        "value": "{lineHeights.120}",
+        "value": "{lineHeight.120}",
         "type": "lineHeight"
       },
       "fontSize": {
@@ -757,15 +757,15 @@
     },
     "Bold": {
       "fontFamily": {
-        "value": "{fontFamilies.roboto}",
+        "value": "{fontFamily.roboto}",
         "type": "fontFamilies"
       },
       "fontWeight": {
-        "value": "{fontWeights.Bold}",
+        "value": "{fontWeight.Bold}",
         "type": "fontWeights"
       },
       "lineHeight": {
-        "value": "{lineHeights.120}",
+        "value": "{lineHeight.120}",
         "type": "lineHeight"
       },
       "fontSize": {
@@ -797,15 +797,15 @@
   "H2": {
     "Regular": {
       "fontFamily": {
-        "value": "{fontFamilies.roboto}",
+        "value": "{fontFamily.roboto}",
         "type": "fontFamilies"
       },
       "fontWeight": {
-        "value": "{fontWeights.Regular}",
+        "value": "{fontWeight.Regular}",
         "type": "fontWeights"
       },
       "lineHeight": {
-        "value": "{lineHeights.120}",
+        "value": "{lineHeight.120}",
         "type": "lineHeight"
       },
       "fontSize": {
@@ -835,15 +835,15 @@
     },
     "Medium": {
       "fontFamily": {
-        "value": "{fontFamilies.roboto}",
+        "value": "{fontFamily.roboto}",
         "type": "fontFamilies"
       },
       "fontWeight": {
-        "value": "{fontWeights.Medium}",
+        "value": "{fontWeight.Medium}",
         "type": "fontWeights"
       },
       "lineHeight": {
-        "value": "{lineHeights.120}",
+        "value": "{lineHeight.120}",
         "type": "lineHeight"
       },
       "fontSize": {
@@ -873,15 +873,15 @@
     },
     "Semi Bold": {
       "fontFamily": {
-        "value": "{fontFamilies.roboto}",
+        "value": "{fontFamily.roboto}",
         "type": "fontFamilies"
       },
       "fontWeight": {
-        "value": "{fontWeights.SemiBold}",
+        "value": "{fontWeight.SemiBold}",
         "type": "fontWeights"
       },
       "lineHeight": {
-        "value": "{lineHeights.120}",
+        "value": "{lineHeight.120}",
         "type": "lineHeight"
       },
       "fontSize": {
@@ -911,15 +911,15 @@
     },
     "Bold": {
       "fontFamily": {
-        "value": "{fontFamilies.roboto}",
+        "value": "{fontFamily.roboto}",
         "type": "fontFamilies"
       },
       "fontWeight": {
-        "value": "{fontWeights.Bold}",
+        "value": "{fontWeight.Bold}",
         "type": "fontWeights"
       },
       "lineHeight": {
-        "value": "{lineHeights.120}",
+        "value": "{lineHeight.120}",
         "type": "lineHeight"
       },
       "fontSize": {
@@ -951,15 +951,15 @@
   "H3": {
     "Regular": {
       "fontFamily": {
-        "value": "{fontFamilies.roboto}",
+        "value": "{fontFamily.roboto}",
         "type": "fontFamilies"
       },
       "fontWeight": {
-        "value": "{fontWeights.Regular}",
+        "value": "{fontWeight.Regular}",
         "type": "fontWeights"
       },
       "lineHeight": {
-        "value": "{lineHeights.120}",
+        "value": "{lineHeight.120}",
         "type": "lineHeight"
       },
       "fontSize": {
@@ -989,15 +989,15 @@
     },
     "Medium": {
       "fontFamily": {
-        "value": "{fontFamilies.roboto}",
+        "value": "{fontFamily.roboto}",
         "type": "fontFamilies"
       },
       "fontWeight": {
-        "value": "{fontWeights.Medium}",
+        "value": "{fontWeight.Medium}",
         "type": "fontWeights"
       },
       "lineHeight": {
-        "value": "{lineHeights.120}",
+        "value": "{lineHeight.120}",
         "type": "lineHeight"
       },
       "fontSize": {
@@ -1027,15 +1027,15 @@
     },
     "Semi Bold": {
       "fontFamily": {
-        "value": "{fontFamilies.roboto}",
+        "value": "{fontFamily.roboto}",
         "type": "fontFamilies"
       },
       "fontWeight": {
-        "value": "{fontWeights.SemiBold}",
+        "value": "{fontWeight.SemiBold}",
         "type": "fontWeights"
       },
       "lineHeight": {
-        "value": "{lineHeights.120}",
+        "value": "{lineHeight.120}",
         "type": "lineHeight"
       },
       "fontSize": {
@@ -1065,15 +1065,15 @@
     },
     "Bold": {
       "fontFamily": {
-        "value": "{fontFamilies.roboto}",
+        "value": "{fontFamily.roboto}",
         "type": "fontFamilies"
       },
       "fontWeight": {
-        "value": "{fontWeights.Bold}",
+        "value": "{fontWeight.Bold}",
         "type": "fontWeights"
       },
       "lineHeight": {
-        "value": "{lineHeights.120}",
+        "value": "{lineHeight.120}",
         "type": "lineHeight"
       },
       "fontSize": {
@@ -1105,15 +1105,15 @@
   "H4": {
     "Regular": {
       "fontFamily": {
-        "value": "{fontFamilies.roboto}",
+        "value": "{fontFamily.roboto}",
         "type": "fontFamilies"
       },
       "fontWeight": {
-        "value": "{fontWeights.Regular}",
+        "value": "{fontWeight.Regular}",
         "type": "fontWeights"
       },
       "lineHeight": {
-        "value": "{lineHeights.120}",
+        "value": "{lineHeight.120}",
         "type": "lineHeight"
       },
       "fontSize": {
@@ -1143,15 +1143,15 @@
     },
     "Medium": {
       "fontFamily": {
-        "value": "{fontFamilies.roboto}",
+        "value": "{fontFamily.roboto}",
         "type": "fontFamilies"
       },
       "fontWeight": {
-        "value": "{fontWeights.Medium}",
+        "value": "{fontWeight.Medium}",
         "type": "fontWeights"
       },
       "lineHeight": {
-        "value": "{lineHeights.120}",
+        "value": "{lineHeight.120}",
         "type": "lineHeight"
       },
       "fontSize": {
@@ -1181,15 +1181,15 @@
     },
     "Semi Bold": {
       "fontFamily": {
-        "value": "{fontFamilies.roboto}",
+        "value": "{fontFamily.roboto}",
         "type": "fontFamilies"
       },
       "fontWeight": {
-        "value": "{fontWeights.SemiBold}",
+        "value": "{fontWeight.SemiBold}",
         "type": "fontWeights"
       },
       "lineHeight": {
-        "value": "{lineHeights.120}",
+        "value": "{lineHeight.120}",
         "type": "lineHeight"
       },
       "fontSize": {
@@ -1219,15 +1219,15 @@
     },
     "Bold": {
       "fontFamily": {
-        "value": "{fontFamilies.roboto}",
+        "value": "{fontFamily.roboto}",
         "type": "fontFamilies"
       },
       "fontWeight": {
-        "value": "{fontWeights.Bold}",
+        "value": "{fontWeight.Bold}",
         "type": "fontWeights"
       },
       "lineHeight": {
-        "value": "{lineHeights.120}",
+        "value": "{lineHeight.120}",
         "type": "lineHeight"
       },
       "fontSize": {
@@ -1259,15 +1259,15 @@
   "H5": {
     "Regular": {
       "fontFamily": {
-        "value": "{fontFamilies.roboto}",
+        "value": "{fontFamily.roboto}",
         "type": "fontFamilies"
       },
       "fontWeight": {
-        "value": "{fontWeights.Regular}",
+        "value": "{fontWeight.Regular}",
         "type": "fontWeights"
       },
       "lineHeight": {
-        "value": "{lineHeights.120}",
+        "value": "{lineHeight.120}",
         "type": "lineHeight"
       },
       "fontSize": {
@@ -1297,15 +1297,15 @@
     },
     "Medium": {
       "fontFamily": {
-        "value": "{fontFamilies.roboto}",
+        "value": "{fontFamily.roboto}",
         "type": "fontFamilies"
       },
       "fontWeight": {
-        "value": "{fontWeights.Medium}",
+        "value": "{fontWeight.Medium}",
         "type": "fontWeights"
       },
       "lineHeight": {
-        "value": "{lineHeights.120}",
+        "value": "{lineHeight.120}",
         "type": "lineHeight"
       },
       "fontSize": {
@@ -1335,15 +1335,15 @@
     },
     "Semi Bold": {
       "fontFamily": {
-        "value": "{fontFamilies.roboto}",
+        "value": "{fontFamily.roboto}",
         "type": "fontFamilies"
       },
       "fontWeight": {
-        "value": "{fontWeights.SemiBold}",
+        "value": "{fontWeight.SemiBold}",
         "type": "fontWeights"
       },
       "lineHeight": {
-        "value": "{lineHeights.120}",
+        "value": "{lineHeight.120}",
         "type": "lineHeight"
       },
       "fontSize": {
@@ -1373,15 +1373,15 @@
     },
     "Bold": {
       "fontFamily": {
-        "value": "{fontFamilies.roboto}",
+        "value": "{fontFamily.roboto}",
         "type": "fontFamilies"
       },
       "fontWeight": {
-        "value": "{fontWeights.Bold}",
+        "value": "{fontWeight.Bold}",
         "type": "fontWeights"
       },
       "lineHeight": {
-        "value": "{lineHeights.120}",
+        "value": "{lineHeight.120}",
         "type": "lineHeight"
       },
       "fontSize": {
@@ -1411,15 +1411,15 @@
     },
     "italic": {
       "fontFamily": {
-        "value": "{fontFamilies.roboto}",
+        "value": "{fontFamily.roboto}",
         "type": "fontFamilies"
       },
       "fontWeight": {
-        "value": "{fontWeights.Italic}",
+        "value": "{fontWeight.Italic}",
         "type": "fontWeights"
       },
       "lineHeight": {
-        "value": "{lineHeights.120}",
+        "value": "{lineHeight.120}",
         "type": "lineHeight"
       },
       "fontSize": {
@@ -1451,15 +1451,15 @@
   "H6": {
     "Regular": {
       "fontFamily": {
-        "value": "{fontFamilies.roboto}",
+        "value": "{fontFamily.roboto}",
         "type": "fontFamilies"
       },
       "fontWeight": {
-        "value": "{fontWeights.Regular}",
+        "value": "{fontWeight.Regular}",
         "type": "fontWeights"
       },
       "lineHeight": {
-        "value": "{lineHeights.120}",
+        "value": "{lineHeight.120}",
         "type": "lineHeight"
       },
       "fontSize": {
@@ -1489,15 +1489,15 @@
     },
     "Medium": {
       "fontFamily": {
-        "value": "{fontFamilies.roboto}",
+        "value": "{fontFamily.roboto}",
         "type": "fontFamilies"
       },
       "fontWeight": {
-        "value": "{fontWeights.Medium}",
+        "value": "{fontWeight.Medium}",
         "type": "fontWeights"
       },
       "lineHeight": {
-        "value": "{lineHeights.120}",
+        "value": "{lineHeight.120}",
         "type": "lineHeight"
       },
       "fontSize": {
@@ -1527,15 +1527,15 @@
     },
     "Semi Bold": {
       "fontFamily": {
-        "value": "{fontFamilies.roboto}",
+        "value": "{fontFamily.roboto}",
         "type": "fontFamilies"
       },
       "fontWeight": {
-        "value": "{fontWeights.SemiBold}",
+        "value": "{fontWeight.SemiBold}",
         "type": "fontWeights"
       },
       "lineHeight": {
-        "value": "{lineHeights.120}",
+        "value": "{lineHeight.120}",
         "type": "lineHeight"
       },
       "fontSize": {
@@ -1565,15 +1565,15 @@
     },
     "Bold": {
       "fontFamily": {
-        "value": "{fontFamilies.roboto}",
+        "value": "{fontFamily.roboto}",
         "type": "fontFamilies"
       },
       "fontWeight": {
-        "value": "{fontWeights.Bold}",
+        "value": "{fontWeight.Bold}",
         "type": "fontWeights"
       },
       "lineHeight": {
-        "value": "{lineHeights.120}",
+        "value": "{lineHeight.120}",
         "type": "lineHeight"
       },
       "fontSize": {
@@ -1603,15 +1603,15 @@
     },
     "italic": {
       "fontFamily": {
-        "value": "{fontFamilies.roboto}",
+        "value": "{fontFamily.roboto}",
         "type": "fontFamilies"
       },
       "fontWeight": {
-        "value": "{fontWeights.Italic}",
+        "value": "{fontWeight.Italic}",
         "type": "fontWeights"
       },
       "lineHeight": {
-        "value": "{lineHeights.120}",
+        "value": "{lineHeight.120}",
         "type": "lineHeight"
       },
       "fontSize": {
@@ -1643,15 +1643,15 @@
   "Large": {
     "Regular": {
       "fontFamily": {
-        "value": "{fontFamilies.roboto}",
+        "value": "{fontFamily.roboto}",
         "type": "fontFamilies"
       },
       "fontWeight": {
-        "value": "{fontWeights.Regular}",
+        "value": "{fontWeight.Regular}",
         "type": "fontWeights"
       },
       "lineHeight": {
-        "value": "{lineHeights.120}",
+        "value": "{lineHeight.120}",
         "type": "lineHeight"
       },
       "fontSize": {
@@ -1681,15 +1681,15 @@
     },
     "Medium": {
       "fontFamily": {
-        "value": "{fontFamilies.roboto}",
+        "value": "{fontFamily.roboto}",
         "type": "fontFamilies"
       },
       "fontWeight": {
-        "value": "{fontWeights.Medium}",
+        "value": "{fontWeight.Medium}",
         "type": "fontWeights"
       },
       "lineHeight": {
-        "value": "{lineHeights.120}",
+        "value": "{lineHeight.120}",
         "type": "lineHeight"
       },
       "fontSize": {
@@ -1719,15 +1719,15 @@
     },
     "Semi Bold": {
       "fontFamily": {
-        "value": "{fontFamilies.roboto}",
+        "value": "{fontFamily.roboto}",
         "type": "fontFamilies"
       },
       "fontWeight": {
-        "value": "{fontWeights.SemiBold}",
+        "value": "{fontWeight.SemiBold}",
         "type": "fontWeights"
       },
       "lineHeight": {
-        "value": "{lineHeights.120}",
+        "value": "{lineHeight.120}",
         "type": "lineHeight"
       },
       "fontSize": {
@@ -1757,15 +1757,15 @@
     },
     "Bold": {
       "fontFamily": {
-        "value": "{fontFamilies.roboto}",
+        "value": "{fontFamily.roboto}",
         "type": "fontFamilies"
       },
       "fontWeight": {
-        "value": "{fontWeights.Bold}",
+        "value": "{fontWeight.Bold}",
         "type": "fontWeights"
       },
       "lineHeight": {
-        "value": "{lineHeights.120}",
+        "value": "{lineHeight.120}",
         "type": "lineHeight"
       },
       "fontSize": {
@@ -1795,15 +1795,15 @@
     },
     "italic": {
       "fontFamily": {
-        "value": "{fontFamilies.roboto}",
+        "value": "{fontFamily.roboto}",
         "type": "fontFamilies"
       },
       "fontWeight": {
-        "value": "{fontWeights.Italic}",
+        "value": "{fontWeight.Italic}",
         "type": "fontWeights"
       },
       "lineHeight": {
-        "value": "{lineHeights.120}",
+        "value": "{lineHeight.120}",
         "type": "lineHeight"
       },
       "fontSize": {
@@ -1835,15 +1835,15 @@
   "Base": {
     "Regular": {
       "fontFamily": {
-        "value": "{fontFamilies.roboto}",
+        "value": "{fontFamily.roboto}",
         "type": "fontFamilies"
       },
       "fontWeight": {
-        "value": "{fontWeights.Regular}",
+        "value": "{fontWeight.Regular}",
         "type": "fontWeights"
       },
       "lineHeight": {
-        "value": "{lineHeights.140}",
+        "value": "{lineHeight.140}",
         "type": "lineHeight"
       },
       "fontSize": {
@@ -1873,15 +1873,15 @@
     },
     "Medium": {
       "fontFamily": {
-        "value": "{fontFamilies.roboto}",
+        "value": "{fontFamily.roboto}",
         "type": "fontFamilies"
       },
       "fontWeight": {
-        "value": "{fontWeights.Medium}",
+        "value": "{fontWeight.Medium}",
         "type": "fontWeights"
       },
       "lineHeight": {
-        "value": "{lineHeights.140}",
+        "value": "{lineHeight.140}",
         "type": "lineHeight"
       },
       "fontSize": {
@@ -1911,15 +1911,15 @@
     },
     "Semi Bold": {
       "fontFamily": {
-        "value": "{fontFamilies.roboto}",
+        "value": "{fontFamily.roboto}",
         "type": "fontFamilies"
       },
       "fontWeight": {
-        "value": "{fontWeights.SemiBold}",
+        "value": "{fontWeight.SemiBold}",
         "type": "fontWeights"
       },
       "lineHeight": {
-        "value": "{lineHeights.140}",
+        "value": "{lineHeight.140}",
         "type": "lineHeight"
       },
       "fontSize": {
@@ -1949,15 +1949,15 @@
     },
     "Bold": {
       "fontFamily": {
-        "value": "{fontFamilies.roboto}",
+        "value": "{fontFamily.roboto}",
         "type": "fontFamilies"
       },
       "fontWeight": {
-        "value": "{fontWeights.Bold}",
+        "value": "{fontWeight.Bold}",
         "type": "fontWeights"
       },
       "lineHeight": {
-        "value": "{lineHeights.140}",
+        "value": "{lineHeight.140}",
         "type": "lineHeight"
       },
       "fontSize": {
@@ -1987,15 +1987,15 @@
     },
     "italic": {
       "fontFamily": {
-        "value": "{fontFamilies.roboto}",
+        "value": "{fontFamily.roboto}",
         "type": "fontFamilies"
       },
       "fontWeight": {
-        "value": "{fontWeights.Italic}",
+        "value": "{fontWeight.Italic}",
         "type": "fontWeights"
       },
       "lineHeight": {
-        "value": "{lineHeights.140}",
+        "value": "{lineHeight.140}",
         "type": "lineHeight"
       },
       "fontSize": {
@@ -2027,15 +2027,15 @@
   "Small": {
     "Regular": {
       "fontFamily": {
-        "value": "{fontFamilies.roboto}",
+        "value": "{fontFamily.roboto}",
         "type": "fontFamilies"
       },
       "fontWeight": {
-        "value": "{fontWeights.Regular}",
+        "value": "{fontWeight.Regular}",
         "type": "fontWeights"
       },
       "lineHeight": {
-        "value": "{lineHeights.140}",
+        "value": "{lineHeight.140}",
         "type": "lineHeight"
       },
       "fontSize": {
@@ -2065,15 +2065,15 @@
     },
     "Medium": {
       "fontFamily": {
-        "value": "{fontFamilies.roboto}",
+        "value": "{fontFamily.roboto}",
         "type": "fontFamilies"
       },
       "fontWeight": {
-        "value": "{fontWeights.Medium}",
+        "value": "{fontWeight.Medium}",
         "type": "fontWeights"
       },
       "lineHeight": {
-        "value": "{lineHeights.140}",
+        "value": "{lineHeight.140}",
         "type": "lineHeight"
       },
       "fontSize": {
@@ -2103,15 +2103,15 @@
     },
     "Semi Bold": {
       "fontFamily": {
-        "value": "{fontFamilies.roboto}",
+        "value": "{fontFamily.roboto}",
         "type": "fontFamilies"
       },
       "fontWeight": {
-        "value": "{fontWeights.SemiBold}",
+        "value": "{fontWeight.SemiBold}",
         "type": "fontWeights"
       },
       "lineHeight": {
-        "value": "{lineHeights.140}",
+        "value": "{lineHeight.140}",
         "type": "lineHeight"
       },
       "fontSize": {
@@ -2141,15 +2141,15 @@
     },
     "Bold": {
       "fontFamily": {
-        "value": "{fontFamilies.roboto}",
+        "value": "{fontFamily.roboto}",
         "type": "fontFamilies"
       },
       "fontWeight": {
-        "value": "{fontWeights.Bold}",
+        "value": "{fontWeight.Bold}",
         "type": "fontWeights"
       },
       "lineHeight": {
-        "value": "{lineHeights.140}",
+        "value": "{lineHeight.140}",
         "type": "lineHeight"
       },
       "fontSize": {
@@ -2179,15 +2179,15 @@
     },
     "italic": {
       "fontFamily": {
-        "value": "{fontFamilies.roboto}",
+        "value": "{fontFamily.roboto}",
         "type": "fontFamilies"
       },
       "fontWeight": {
-        "value": "{fontWeights.Italic}",
+        "value": "{fontWeight.Italic}",
         "type": "fontWeights"
       },
       "lineHeight": {
-        "value": "{lineHeights.140}",
+        "value": "{lineHeight.140}",
         "type": "lineHeight"
       },
       "fontSize": {
@@ -2219,15 +2219,15 @@
   "Label": {
     "Regular": {
       "fontFamily": {
-        "value": "{fontFamilies.roboto}",
+        "value": "{fontFamily.roboto}",
         "type": "fontFamilies"
       },
       "fontWeight": {
-        "value": "{fontWeights.Regular}",
+        "value": "{fontWeight.Regular}",
         "type": "fontWeights"
       },
       "lineHeight": {
-        "value": "{lineHeights.120}",
+        "value": "{lineHeight.120}",
         "type": "lineHeight"
       },
       "fontSize": {
@@ -2257,15 +2257,15 @@
     },
     "Medium": {
       "fontFamily": {
-        "value": "{fontFamilies.roboto}",
+        "value": "{fontFamily.roboto}",
         "type": "fontFamilies"
       },
       "fontWeight": {
-        "value": "{fontWeights.Medium}",
+        "value": "{fontWeight.Medium}",
         "type": "fontWeights"
       },
       "lineHeight": {
-        "value": "{lineHeights.120}",
+        "value": "{lineHeight.120}",
         "type": "lineHeight"
       },
       "fontSize": {
@@ -2295,15 +2295,15 @@
     },
     "Semi Bold": {
       "fontFamily": {
-        "value": "{fontFamilies.roboto}",
+        "value": "{fontFamily.roboto}",
         "type": "fontFamilies"
       },
       "fontWeight": {
-        "value": "{fontWeights.SemiBold}",
+        "value": "{fontWeight.SemiBold}",
         "type": "fontWeights"
       },
       "lineHeight": {
-        "value": "{lineHeights.120}",
+        "value": "{lineHeight.120}",
         "type": "lineHeight"
       },
       "fontSize": {
@@ -2333,15 +2333,15 @@
     },
     "Bold": {
       "fontFamily": {
-        "value": "{fontFamilies.roboto}",
+        "value": "{fontFamily.roboto}",
         "type": "fontFamilies"
       },
       "fontWeight": {
-        "value": "{fontWeights.Bold}",
+        "value": "{fontWeight.Bold}",
         "type": "fontWeights"
       },
       "lineHeight": {
-        "value": "{lineHeights.120}",
+        "value": "{lineHeight.120}",
         "type": "lineHeight"
       },
       "fontSize": {
@@ -2371,15 +2371,15 @@
     },
     "italic": {
       "fontFamily": {
-        "value": "{fontFamilies.roboto}",
+        "value": "{fontFamily.roboto}",
         "type": "fontFamilies"
       },
       "fontWeight": {
-        "value": "{fontWeights.Italic}",
+        "value": "{fontWeight.Italic}",
         "type": "fontWeights"
       },
       "lineHeight": {
-        "value": "{lineHeights.120}",
+        "value": "{lineHeight.120}",
         "type": "lineHeight"
       },
       "fontSize": {
@@ -2411,15 +2411,15 @@
   "XSmall": {
     "Regular": {
       "fontFamily": {
-        "value": "{fontFamilies.roboto}",
+        "value": "{fontFamily.roboto}",
         "type": "fontFamilies"
       },
       "fontWeight": {
-        "value": "{fontWeights.Regular}",
+        "value": "{fontWeight.Regular}",
         "type": "fontWeights"
       },
       "lineHeight": {
-        "value": "{lineHeights.120}",
+        "value": "{lineHeight.120}",
         "type": "lineHeight"
       },
       "fontSize": {
@@ -2449,15 +2449,15 @@
     },
     "Medium": {
       "fontFamily": {
-        "value": "{fontFamilies.roboto}",
+        "value": "{fontFamily.roboto}",
         "type": "fontFamilies"
       },
       "fontWeight": {
-        "value": "{fontWeights.Medium}",
+        "value": "{fontWeight.Medium}",
         "type": "fontWeights"
       },
       "lineHeight": {
-        "value": "{lineHeights.120}",
+        "value": "{lineHeight.120}",
         "type": "lineHeight"
       },
       "fontSize": {
@@ -2487,15 +2487,15 @@
     },
     "Semi Bold": {
       "fontFamily": {
-        "value": "{fontFamilies.roboto}",
+        "value": "{fontFamily.roboto}",
         "type": "fontFamilies"
       },
       "fontWeight": {
-        "value": "{fontWeights.SemiBold}",
+        "value": "{fontWeight.SemiBold}",
         "type": "fontWeights"
       },
       "lineHeight": {
-        "value": "{lineHeights.120}",
+        "value": "{lineHeight.120}",
         "type": "lineHeight"
       },
       "fontSize": {
@@ -2525,15 +2525,15 @@
     },
     "Bold": {
       "fontFamily": {
-        "value": "{fontFamilies.roboto}",
+        "value": "{fontFamily.roboto}",
         "type": "fontFamilies"
       },
       "fontWeight": {
-        "value": "{fontWeights.Bold}",
+        "value": "{fontWeight.Bold}",
         "type": "fontWeights"
       },
       "lineHeight": {
-        "value": "{lineHeights.120}",
+        "value": "{lineHeight.120}",
         "type": "lineHeight"
       },
       "fontSize": {
@@ -2563,15 +2563,15 @@
     },
     "italic": {
       "fontFamily": {
-        "value": "{fontFamilies.roboto}",
+        "value": "{fontFamily.roboto}",
         "type": "fontFamilies"
       },
       "fontWeight": {
-        "value": "{fontWeights.Italic}",
+        "value": "{fontWeight.Italic}",
         "type": "fontWeights"
       },
       "lineHeight": {
-        "value": "{lineHeights.120}",
+        "value": "{lineHeight.120}",
         "type": "lineHeight"
       },
       "fontSize": {
@@ -2606,7 +2606,7 @@
       "type": "dimension"
     }
   },
-  "sizes": {
+  "size": {
     "400": {
       "value": 400,
       "type": "sizing"

@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Tue, 31 Jan 2023 13:58:45 GMT
+ * Generated on Tue, 31 Jan 2023 14:01:34 GMT
  */
 
 :root {
@@ -31,11 +31,11 @@
   --border-radius-xl: 16px;
   --border-radius-xxl: 20px;
   --border-radius-xxxl: 24px;
-  --font-weights-bold: Bold;
-  --font-weights-regular: Regular;
-  --font-weights-semi-bold: SemiBold;
-  --font-weights-medium: Medium;
-  --font-weights-italic: Italic;
+  --font-weight-bold: Bold;
+  --font-weight-regular: Regular;
+  --font-weight-semi-bold: SemiBold;
+  --font-weight-medium: Medium;
+  --font-weight-italic: Italic;
   --border-width-1: 1;
   --border-width-2: 2;
   --opacity-10: 10%;
@@ -123,9 +123,9 @@
   --color-info-i300: #1eaaf9;
   --color-info-i400: #1577ae;
   --color-info-i500: #126898;
-  --font-families-roboto: Roboto;
-  --line-heights-120: 120%;
-  --line-heights-140: 140%;
+  --font-family-roboto: Roboto;
+  --line-height-120: 120%;
+  --line-height-140: 140%;
   --font-size-0: 0.7142857142857143rem;
   --font-size-1: 0.7857142857142857rem;
   --font-size-2: 0.8571428571428571rem;
@@ -599,11 +599,11 @@
   --x-small-italic-text-case: none;
   --x-small-italic-text-decoration: none;
   --paragraph-indent-0: 0px;
-  --sizes-400: 400;
-  --sizes-500: 500;
-  --sizes-600: 600;
-  --sizes-700: 700;
-  --sizes-800: 800;
-  --sizes-900: 900;
+  --size-400: 28.571428571428573rem;
+  --size-500: 35.714285714285715rem;
+  --size-600: 42.857142857142854rem;
+  --size-700: 50rem;
+  --size-800: 57.142857142857146rem;
+  --size-900: 64.28571428571429rem;
   --token-set-order-0: core;
 }
