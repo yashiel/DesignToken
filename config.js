@@ -1,4 +1,3 @@
-const StyleDictionary = require('style-dictionary');
 
 const { formatHelpers } = StyleDictionary;
 
