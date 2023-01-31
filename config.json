@@ -2,23 +2,34 @@
 	"source": ["tokens/**/*.json"],
 	"platforms": {
 		"css": {
-			"transformGroup": "css",
 			"buildPath": "build/css/",
 			"basePxFontSize": 14,
+			"transforms": [
+				"attribute/cti",
+				"name/cti/kebab",
+				"time/seconds",
+				"content/icon",
+				"color/css",
+				"size/rem"
+			],
 			"files": [
 				{
 					"destination": "variables.css",
-					"format": "css/variables",
-					"options": {
-						"outputReferences": true
-					}
+					"format": "css/variables"
 				}
 			]
 		},
 		"scss": {
-			"transformGroup": "scss",
 			"buildPath": "build/scss/",
 			"basePxFontSize": 14,
+			"transforms": [
+				"attribute/cti",
+				"name/cti/kebab",
+				"time/seconds",
+				"content/icon",
+				"color/css",
+				"size/rem"
+			],
 			"files": [
 				{
 					"destination": "_variables.scss",
