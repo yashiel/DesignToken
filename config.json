@@ -3,14 +3,7 @@
 	"platforms": {
 		"css": {
 			"basePxFontSize": 14,
-			"transforms": [
-				"attribute/cti",
-				"name/cti/kebab",
-				"time/seconds",
-				"content/icon",
-				"color/css",
-				"size/pxToRem"
-			],
+			"transformGroup": "css",
 			"buildPath": "build/css/",
 			"files": [
 				{
@@ -21,14 +14,7 @@
 		},
 		"scss": {
 			"basePxFontSize": 14,
-			"transforms": [
-				"attribute/cti",
-				"name/cti/kebab",
-				"time/seconds",
-				"content/icon",
-				"color/css",
-				"size/pxToRem"
-			],
+			"transformGroup": "scss",
 			"buildPath": "build/scss/",
 			"files": [
 				{
