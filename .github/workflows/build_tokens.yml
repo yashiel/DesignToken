@@ -22,7 +22,7 @@ jobs:
       - run: npx token-transformer tokens.json tokens/core.json --expandTypography true --expandShadow true --resolveReferences false
       # Convert tokens according to Style Dictionary config
       - run: npm install
-      - run: npm style-dictionary build --config config.js
+      - run: npm run build
       # Add files that were created during a run, e.g. created files from style dictionary or token-transformer.
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
