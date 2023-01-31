@@ -10,7 +10,6 @@
 				"time/seconds",
 				"content/icon",
 				"color/css",
-				"size/rem",
 				"size/pxToRem"
 			],
 			"files": [
@@ -29,7 +28,6 @@
 				"time/seconds",
 				"content/icon",
 				"color/css",
-				"size/rem",
 				"size/pxToRem"
 			],
 			"files": [
