@@ -37,12 +37,16 @@ jobs:
       #  run: echo "${{ toJSON(github)}}"
 
   push-to-remote-repo:
-    needs: build-token
     runs-on: ubuntu-latest
+    needs: build-token
     
     steps:
       - uses: actions/checkout@v3
-      - name: Copy files to another repository
+      - name: Setup Node.js environment
+        uses: actions/setup-node@v3
+        with:
+          node-version: latest
+      - name: Copy files to another remote repository
         uses: nkoppel/push-files-to-another-repository@v1.1.1
         env:
           API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
