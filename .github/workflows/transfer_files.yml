@@ -1,20 +1,18 @@
-name: Transfer Files
 on:
   push:
-#    branches: [ "main" ]
-#  pull_request:
-#    branches: [ "main" ]
-    
-  workflow_dispatch:
-
-
+  pull_request_target:
 jobs:
-  transfer_files:
+  move-code:
     runs-on: ubuntu-latest
     steps:
-    
       - uses: actions/checkout@v3
-      - name: Setup Node.js environment
-        uses: actions/setup-node@v3
         with:
-          node-version: latest
+          fetch-depth: 0
+
+      - uses: olivr/copybara-action@v1.2.3
+        with:
+          ssh_key: ${{ secrets.LoopDesignToken }}
+          access_token: ${{ secrets.PC }}
+          sot_repo: yashiel/Loop-DesignToken
+          destination_repo: yashilanka/testrepo
+          push_exclude: "tokens** README.md config.js config.json package-lock.json package.json tokens.json"
