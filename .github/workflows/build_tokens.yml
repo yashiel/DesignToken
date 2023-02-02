@@ -51,9 +51,9 @@ jobs:
         env:
           API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
         with:
-          source-files: 'build/'
-          destination-username: 'yashilanka'
-          destination-repository: 'testrepo'
-          destination-branch: 'main'
-          # destination-directory: 'testrepo/my-project'
+          source-files: 'tokens/'
+          destination-username: 'JanakaPrasadMMM'
+          destination-repository: 'loop-ux'
+          destination-branch: 'dev'
+          destination-directory: 'src/styles/'
           commit-email: 'hi@yashiel.com'
