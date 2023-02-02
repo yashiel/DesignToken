@@ -35,3 +35,26 @@ jobs:
       
       #- name: Output github information
       #  run: echo "${{ toJSON(github)}}"
+
+  push-to-remote-repo:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - uses: actions/checkout@v3
+      #  with:
+      #    fetch-depth: 0
+      #- uses: actions/setup-node@v3
+      #  with:
+      #    node-version: latest
+
+      - name: Copy files to another repository
+        uses: nkoppel/push-files-to-another-repository@v1.1.1
+        env:
+          API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
+        with:
+          source-files: 'build/'
+          destination-username: 'yashilanka'
+          destination-repository: 'testrepo'
+          destination-branch: 'main'
+          # destination-directory: 'testrepo/my-project'
+          commit-email: 'hi@yashiel.com'
