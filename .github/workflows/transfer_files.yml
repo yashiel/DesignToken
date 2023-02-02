@@ -14,8 +14,8 @@ jobs:
 
       - uses: olivr/copybara-action@v1.2.3
         with:
-          ssh_key: ${{ secrets.LoopDesignToken }}
-          access_token: ${{ secrets.PC }}
+          ssh_key: ${{ secrets.SSH_KEY }}
+          access_token: ${{ secrets.GH_TOKEN }}
           sot_repo: yashiel/Loop-DesignToken
           destination_repo: yashilanka/testrepo
           push_exclude: "tokens** README.md config.js config.json package-lock.json package.json tokens.json"
