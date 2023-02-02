@@ -33,5 +33,5 @@ jobs:
         with:
           commit_message: Update Design Tokens
       
-      - name: Output github information
-        run: echo "${{ toJSON(github)}}"
+      #- name: Output github information
+      #  run: echo "${{ toJSON(github)}}"
