@@ -37,16 +37,11 @@ jobs:
       #  run: echo "${{ toJSON(github)}}"
 
   push-to-remote-repo:
+    needs: build-token
     runs-on: ubuntu-latest
     
     steps:
       - uses: actions/checkout@v3
-      #  with:
-      #    fetch-depth: 0
-      #- uses: actions/setup-node@v3
-      #  with:
-      #    node-version: latest
-
       - name: Copy files to another repository
         uses: nkoppel/push-files-to-another-repository@v1.1.1
         env:
