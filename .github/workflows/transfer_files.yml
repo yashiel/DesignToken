@@ -12,10 +12,13 @@ jobs:
         with:
           node-version: latest
 
-      - uses: olivr/copybara-action@v1.2.3
+      - name: Push generated webpage to another repository
+        uses: nkoppel/push-files-to-another-repository@1.1.0
+        env:
+          API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
         with:
-          ssh_key: ${{ secrets.SSH_KEY }}
-          access_token: ${{ secrets.GH_TOKEN }}
-          sot_repo: yashiel/Loop-DesignToken
-          destination_repo: yashilanka/testrepo
-          push_exclude: "tokens** README.md config.js config.json package-lock.json package.json tokens.json"
+          source-files: 'build/'
+          destination-username: 'yashilanka'
+          destination-repository: 'testrepo'
+          destination-directory: 'testrepo/my-project'
+          commit-email: 'hi@yashiel.com'
