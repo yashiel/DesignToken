@@ -270,75 +270,75 @@
         "type": "color"
       },
       "N10": {
-        "value": "#fafbfb",
+        "value": "#fafafb",
         "type": "color"
       },
       "N20": {
-        "value": "#f5f7f8",
+        "value": "#f5f5f7",
         "type": "color"
       },
       "N30": {
-        "value": "#ebeff0",
+        "value": "#ebecef",
         "type": "color"
       },
       "N40": {
-        "value": "#dee5e7",
+        "value": "#dfe0e5",
         "type": "color"
       },
       "N50": {
-        "value": "#c0cdd1",
+        "value": "#c1c4ce",
         "type": "color"
       },
       "N60": {
-        "value": "#b1c1c6",
+        "value": "#b2b5c2",
         "type": "color"
       },
       "N70": {
-        "value": "#a4b7bd",
+        "value": "#a5a9b8",
         "type": "color"
       },
       "N80": {
-        "value": "#95abb2",
+        "value": "#969bac",
         "type": "color"
       },
       "N90": {
-        "value": "#869fa7",
+        "value": "#878da0",
         "type": "color"
       },
       "N100": {
-        "value": "#76939c",
+        "value": "#787e95",
         "type": "color"
       },
       "N200": {
-        "value": "#678791",
+        "value": "#697089",
         "type": "color"
       },
       "N300": {
-        "value": "#587b86",
+        "value": "#5a627d",
         "type": "color"
       },
       "N400": {
-        "value": "#4b717c",
+        "value": "#4e5673",
         "type": "color"
       },
       "N500": {
-        "value": "#3c6571",
+        "value": "#3f4867",
         "type": "color"
       },
       "N600": {
-        "value": "#305b68",
+        "value": "#323c5d",
         "type": "color"
       },
       "N700": {
-        "value": "#1e4d5b",
+        "value": "#212b50",
         "type": "color"
       },
       "N800": {
-        "value": "#0f4150",
+        "value": "#121d44",
         "type": "color"
       },
       "N900": {
-        "value": "#023747",
+        "value": "#05113a",
         "type": "color"
       }
     },
@@ -374,61 +374,61 @@
     },
     "Secondary": {
       "S50": {
-        "value": "#fdf3f1",
+        "value": "#fdf3f0",
         "type": "color"
       },
       "S75": {
-        "value": "#f8cfc5",
+        "value": "#f8cfc3",
         "type": "color"
       },
       "S100": {
-        "value": "#f5bcad",
+        "value": "#f6bcaa",
         "type": "color"
       },
       "S200": {
-        "value": "#f09f89",
+        "value": "#f29f86",
         "type": "color"
       },
       "S300": {
-        "value": "#ed8b71",
+        "value": "#ef8b6d",
         "type": "color"
       },
       "S400": {
-        "value": "#a6614f",
+        "value": "#a7614c",
         "type": "color"
       },
       "S500": {
-        "value": "#915545",
+        "value": "#925542",
         "type": "color"
       }
     },
     "Accent": {
       "A50": {
-        "value": "#ebf9f9",
+        "value": "#eef8f8",
         "type": "color"
       },
       "A75": {
-        "value": "#aee4e6",
+        "value": "#bae1e4",
         "type": "color"
       },
       "A100": {
-        "value": "#8dd9dc",
+        "value": "#9dd4d8",
         "type": "color"
       },
       "A200": {
-        "value": "#5bc9cc",
+        "value": "#73c2c7",
         "type": "color"
       },
       "A300": {
-        "value": "#3abec2",
+        "value": "#56b5bc",
         "type": "color"
       },
       "A400": {
-        "value": "#298588",
+        "value": "#3c7f84",
         "type": "color"
       },
       "A500": {
-        "value": "#237476",
+        "value": "#346e73",
         "type": "color"
       }
     },
