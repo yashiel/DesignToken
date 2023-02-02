@@ -1,5 +1,6 @@
 const StyleDictionary = require('style-dictionary');
 
+const baseFontSize = 14;
 // StyleDictionary.registerTransform({
 // 	type: `value`,
 // 	name: `typography/font`,
@@ -19,7 +20,7 @@ StyleDictionary.registerTransform({
 		return token.type === 'fontSizes' || token.type === 'spacing';
 	},
 	transformer: (token) => {
-		const baseFont = 14; // !important base font size
+		const baseFont = baseFontSize; // !important base font size
 		const floatVal = parseFloat(token.value);
 
 		if (isNaN(floatVal)) {
@@ -39,7 +40,7 @@ module.exports = {
 
 	platforms: {
 		scss: {
-			basePxFontSize: 14,
+			basePxFontSize: baseFontSize,
 			transforms: [
 				'attribute/cti',
 				'name/cti/kebab',
@@ -57,7 +58,7 @@ module.exports = {
 			],
 		},
 		css: {
-			basePxFontSize: 14,
+			basePxFontSize: baseFontSize,
 			transforms: [
 				'attribute/cti',
 				'name/cti/kebab',
