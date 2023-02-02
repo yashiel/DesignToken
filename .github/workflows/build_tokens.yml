@@ -1,4 +1,4 @@
-name: CI
+name: Build Figma Design Token
 on:
   # Triggers the workflow on push or pull request events but only for the "main" branch
   push:
@@ -10,24 +10,25 @@ on:
 
 
 jobs:
-  build:
+  build-token:
     runs-on: ubuntu-latest
 
 
     steps:
       - uses: actions/checkout@v3
       - name: Setup Node.js environment
-        uses: actions/setup-node@v2.4.0
+        uses: actions/setup-node@v3
+        with:
+          node-version: 18
+          
       # Transform Figma Tokens JSON to something Style Dictionary can read
       - run: npx token-transformer tokens.json tokens/core.json --expandTypography true --expandShadow true --resolveReferences false
+      
       # Convert tokens according to Style Dictionary config
       - run: npm ci
       - run: npm run build
+      
       # Add files that were created during a run, e.g. created files from style dictionary or token-transformer.
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: Update Tokens
-      #    push_options: --force
-      #    commit_user_name: Yashi
-      #    commit_user_email: hi@yashiel.com
-      #    commit_author: Author <hi@yashiel.com>
+          commit_message: Update Design Tokens
