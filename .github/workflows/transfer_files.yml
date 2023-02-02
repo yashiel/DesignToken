@@ -20,5 +20,6 @@ jobs:
           source-files: 'build/'
           destination-username: 'yashilanka'
           destination-repository: 'testrepo'
+          destination-branch: 'main'
           destination-directory: 'testrepo/my-project'
           commit-email: 'hi@yashiel.com'
