@@ -52,7 +52,7 @@ module.exports = {
 			],
 			files: [
 				{
-					destination: 'build/scss/_variables.scss',
+					destination: 'designTokens/scss/_variables.scss',
 					format: 'scss/variables',
 				},
 			],
@@ -70,7 +70,7 @@ module.exports = {
 			],
 			files: [
 				{
-					destination: 'build/css/variables.css',
+					destination: 'designTokens/css/variables.css',
 					format: 'css/variables',
 				},
 			],
