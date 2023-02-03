@@ -36,7 +36,7 @@ StyleDictionary.registerTransform({
 });
 
 module.exports = {
-	source: ['tokens/**/*.@(js|json)'],
+	source: ['tokens/transform/**/*.@(js|json)'],
 
 	platforms: {
 		scss: {
