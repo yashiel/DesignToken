@@ -22,7 +22,7 @@ jobs:
           node-version: latest
           
       # Transform Figma Tokens JSON to something Style Dictionary can read
-      - run: npx token-transformer tokens tokens/transform/designToken.json core,__buttons --expandTypography true --expandShadow true --resolveReferences false
+      - run: npx token-transformer tokens tokens/transform/designToken.json core,__buttons core --expandTypography true --expandShadow true --resolveReferences false
       
       # Convert tokens according to Style Dictionary config
       - run: npm ci
