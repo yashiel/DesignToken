@@ -1,0 +1,8 @@
+{
+  "primary": {
+    "background": {
+      "value": "{color.Accent.A300}",
+      "type": "color"
+    }
+  }
+}
