@@ -75,5 +75,126 @@ module.exports = {
 				},
 			],
 		},
+		android: {
+			transformGroup: 'android',
+			// buildPath: 'build/android/',
+			files: [
+				{
+					destination: 'designTokens/android/font_dimens.xml',
+					format: 'android/fontDimens',
+				},
+				{
+					destination: 'designTokens/android/colors.xml',
+					format: 'android/colors',
+				},
+			],
+		},
+		ios: {
+			transformGroup: 'ios',
+			// buildPath: 'build/ios/',
+			files: [
+				{
+					destination: 'designTokens/ios/DesignSystemColor.h',
+					format: 'ios/colors.h',
+					className: 'DesignSystemColor',
+					type: 'DesignSystemColorName',
+					filter: {
+						attributes: {
+							category: 'color',
+						},
+					},
+				},
+				{
+					destination: 'designTokens/ios/DesignSystemColor.m',
+					format: 'ios/colors.m',
+					className: 'DesignSystemColor',
+					type: 'DesignSystemColorName',
+					filter: {
+						attributes: {
+							category: 'color',
+						},
+					},
+				},
+				{
+					destination: 'designTokens/ios/DesignSystemSize.h',
+					format: 'ios/static.h',
+					className: 'DesignSystemSize',
+					type: 'float',
+					filter: {
+						attributes: {
+							category: 'size',
+						},
+					},
+				},
+				{
+					destination: 'designTokens/ios/DesignSystemSize.m',
+					format: 'ios/static.m',
+					className: 'DesignSystemSize',
+					type: 'float',
+					filter: {
+						attributes: {
+							category: 'size',
+						},
+					},
+				},
+			],
+		},
+		'ios-swift': {
+			transformGroup: 'ios-swift',
+			// buildPath: 'build/ios-swift/',
+			files: [
+				{
+					destination: 'designTokens/ios-swift/DesignSystem+Class.swift',
+					format: 'ios-swift/class.swift',
+					className: 'DesignSystemClass',
+					filter: {},
+				},
+				{
+					destination: 'designTokens/ios-swift/DesignSystem+Enum.swift',
+					format: 'ios-swift/enum.swift',
+					className: 'DesignSystemEnum',
+					filter: {},
+				},
+				{
+					destination: 'designTokens/ios-swift/DesignSystem+Struct.swift',
+					format: 'ios-swift/any.swift',
+					className: 'DesignSystemStruct',
+					filter: {},
+					options: {
+						imports: 'SwiftUI',
+						objectType: 'struct',
+						accessControl: 'internal',
+					},
+				},
+			],
+		},
+		'ios-swift-separate-enums': {
+			transformGroup: 'ios-swift-separate',
+			// buildPath: 'build/ios-swift/',
+			files: [
+				{
+					destination:
+						'designTokens/ios-swift-separate-enums/DesignSystemColor.swift',
+					format: 'ios-swift/enum.swift',
+					className: 'DesignSystemColor',
+					filter: {
+						attributes: {
+							category: 'color',
+						},
+					},
+				},
+				{
+					destination:
+						'designTokens/ios-swift-separate-enums/DesignSystemSize.swift',
+					format: 'ios-swift/enum.swift',
+					className: 'DesignSystemSize',
+					filter: {
+						attributes: {
+							category: 'size',
+						},
+					},
+				},
+			],
+		},
 	},
 };
