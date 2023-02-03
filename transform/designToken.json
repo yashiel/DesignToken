@@ -1,14 +1,4 @@
 {
-  "button": {
-    "primary": {
-      "background": {
-        "color": {
-          "value": "{color.Accent.A300}",
-          "type": "color"
-        }
-      }
-    }
-  },
   "spacing": {
     "2": {
       "value": 2,
@@ -2646,6 +2636,16 @@
     "0": {
       "value": "core",
       "type": "other"
+    }
+  },
+  "button": {
+    "primary": {
+      "background": {
+        "color": {
+          "value": "{color.Accent.A300}",
+          "type": "color"
+        }
+      }
     }
   }
 }

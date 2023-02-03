@@ -1,10 +1,9 @@
 /**
  * Do not edit directly
- * Generated on Fri, 03 Feb 2023 14:17:32 GMT
+ * Generated on Fri, 03 Feb 2023 14:19:14 GMT
  */
 
 :root {
-  --button-primary-background-color: #56b5bc;
   --spacing-2: 0.143rem;
   --spacing-4: 0.286rem;
   --spacing-8: 0.571rem;
@@ -607,4 +606,5 @@
   --size-800: 57.142857142857146rem;
   --size-900: 64.28571428571429rem;
   --token-set-order-0: core;
+  --button-primary-background-color: #56b5bc;
 }
