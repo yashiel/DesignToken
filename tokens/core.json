@@ -1,139 +1,139 @@
 {
   "spacing": {
     "2": {
-      "value": 2,
+      "value": "2",
       "type": "spacing",
       "description": "space-2"
     },
     "4": {
-      "value": 4,
+      "value": "4",
       "type": "spacing",
       "description": "space-4"
     },
     "8": {
-      "value": 8,
+      "value": "8",
       "type": "spacing",
       "description": "space-8"
     },
     "12": {
-      "value": 12,
+      "value": "12",
       "type": "spacing",
       "description": "space-12"
     },
     "16": {
-      "value": 16,
+      "value": "16",
       "type": "spacing",
       "description": "space-16"
     },
     "20": {
-      "value": 20,
+      "value": "20",
       "type": "spacing",
       "description": "space-20"
     },
     "24": {
-      "value": 24,
+      "value": "24",
       "type": "spacing",
       "description": "space-24"
     },
     "28": {
-      "value": 28,
+      "value": "28",
       "type": "spacing",
       "description": "space-28"
     },
     "32": {
-      "value": 32,
+      "value": "32",
       "type": "spacing",
       "description": "space-32"
     },
     "36": {
-      "value": 36,
+      "value": "36",
       "type": "spacing",
       "description": "space-36"
     },
     "40": {
-      "value": 40,
+      "value": "40",
       "type": "spacing",
       "description": "space-40"
     },
     "44": {
-      "value": 44,
+      "value": "44",
       "type": "spacing",
       "description": "space-44"
     },
     "48": {
-      "value": 48,
+      "value": "48",
       "type": "spacing",
       "description": "space-48"
     },
     "52": {
-      "value": 52,
+      "value": "52",
       "type": "spacing",
       "description": "space-52"
     },
     "56": {
-      "value": 56,
+      "value": "56",
       "type": "spacing",
       "description": "space-56"
     },
     "60": {
-      "value": 60,
+      "value": "60",
       "type": "spacing",
       "description": "space-60"
     },
     "64": {
-      "value": 64,
+      "value": "64",
       "type": "spacing",
       "description": "space-64"
     },
     "68": {
-      "value": 68,
+      "value": "68",
       "type": "spacing",
       "description": "space-68"
     },
     "72": {
-      "value": 72,
+      "value": "72",
       "type": "spacing",
       "description": "space-72"
     },
     "76": {
-      "value": 76,
+      "value": "76",
       "type": "spacing",
       "description": "space-76"
     },
     "80": {
-      "value": 80,
+      "value": "80",
       "type": "spacing",
       "description": "space-80"
     }
   },
   "borderRadius": {
     "sm": {
-      "value": 4,
+      "value": "4",
       "type": "borderRadius",
       "description": "borderRadius-4"
     },
     "md": {
-      "value": 8,
+      "value": "8",
       "type": "borderRadius",
       "description": "borderRadius-8"
     },
     "lg": {
-      "value": 12,
+      "value": "12",
       "type": "borderRadius",
       "description": "borderRadius- 12"
     },
     "xl": {
-      "value": 16,
+      "value": "16",
       "type": "borderRadius",
       "description": "borderRadius- 16"
     },
     "xxl": {
-      "value": 20,
+      "value": "20",
       "type": "borderRadius",
       "description": "borderRadius.20"
     },
     "xxxl": {
-      "value": 24,
+      "value": "24",
       "type": "borderRadius",
       "description": "borderRadius.24"
     }
@@ -167,12 +167,12 @@
   },
   "borderWidth": {
     "1": {
-      "value": 1,
+      "value": "1",
       "type": "borderWidth",
       "description": "borderWidth.1"
     },
     "2": {
-      "value": 2,
+      "value": "2",
       "type": "borderWidth",
       "description": "borderWidth.2"
     }
@@ -573,57 +573,57 @@
   },
   "fontSize": {
     "0": {
-      "value": 10,
+      "value": "10",
       "type": "fontSizes",
       "description": "XSmall"
     },
     "1": {
-      "value": 11,
+      "value": "11",
       "type": "fontSizes",
       "description": "Label"
     },
     "2": {
-      "value": 12,
+      "value": "12",
       "type": "fontSizes",
       "description": "Small"
     },
     "3": {
-      "value": 14,
+      "value": "14",
       "type": "fontSizes",
       "description": "Base"
     },
     "4": {
-      "value": 16,
+      "value": "16",
       "type": "fontSizes",
       "description": "Large"
     },
     "5": {
-      "value": 18,
+      "value": "18",
       "type": "fontSizes",
       "description": "Heading 6"
     },
     "6": {
-      "value": 20,
+      "value": "20",
       "type": "fontSizes",
       "description": "Heading 5"
     },
     "7": {
-      "value": 22,
+      "value": "22",
       "type": "fontSizes",
       "description": "Heading 4"
     },
     "8": {
-      "value": 25,
+      "value": "25",
       "type": "fontSizes",
       "description": "Heading 3"
     },
     "9": {
-      "value": 28,
+      "value": "28",
       "type": "fontSizes",
       "description": "Heading 2"
     },
     "10": {
-      "value": 32,
+      "value": "32",
       "type": "fontSizes",
       "description": "Heading 1"
     }
@@ -636,7 +636,7 @@
   },
   "paragraphSpacing": {
     "0": {
-      "value": 0,
+      "value": "0",
       "type": "paragraphSpacing"
     }
   },
@@ -2602,33 +2602,33 @@
   },
   "paragraphIndent": {
     "0": {
-      "value": 0,
+      "value": "0",
       "type": "dimension"
     }
   },
   "size": {
     "400": {
-      "value": 400,
+      "value": "400",
       "type": "sizing"
     },
     "500": {
-      "value": 500,
+      "value": "500",
       "type": "sizing"
     },
     "600": {
-      "value": 600,
+      "value": "600",
       "type": "sizing"
     },
     "700": {
-      "value": 700,
+      "value": "700",
       "type": "sizing"
     },
     "800": {
-      "value": 800,
+      "value": "800",
       "type": "sizing"
     },
     "900": {
-      "value": 900,
+      "value": "900",
       "type": "sizing"
     }
   },
