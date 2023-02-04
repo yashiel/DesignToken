@@ -23,6 +23,7 @@ jobs:
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: Update Design Tokens
+          commit_user_name: Design System Bot
 
 
   push-to-remote-repo:
