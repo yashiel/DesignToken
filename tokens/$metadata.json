@@ -1,7 +1,7 @@
 {
   "tokenSetOrder": [
-    "core",
-    "__buttons",
-    "__typography"
+    "globals",
+    "Core/__buttons",
+    "Core/__typography"
   ]
 }

@@ -3,9 +3,9 @@
     "id": "dcedf0c9b78070d7aea0a79b4565a6b45d227bfe",
     "name": "Default",
     "selectedTokenSets": {
-      "__buttons": "enabled",
-      "core": "source",
-      "__typography": "enabled"
+      "Core/__typography": "enabled",
+      "globals": "source",
+      "Core/__buttons": "enabled"
     },
     "$figmaStyleReferences": {
       "button.primary.background.color": "S:59c77a7cb7140d1754ce304e1ca8b24adb2548a7,",
