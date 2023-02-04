@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Sat, 04 Feb 2023 06:35:28 GMT
+// Generated on Sat, 04 Feb 2023 06:38:48 GMT
 
 
 import UIKit
@@ -19,6 +19,7 @@ public class DesignSystemClass {
     public static let borderWidth1 = 1
     public static let borderWidth2 = 2
     public static let buttonPrimaryBackgroundColor = UIColor(red: 0.337, green: 0.710, blue: 0.737, alpha: 1)
+    public static let buttonSecondaryBackgroundColor = UIColor(red: 0.937, green: 0.545, blue: 0.427, alpha: 1)
     public static let colorAccentA100 = UIColor(red: 0.616, green: 0.831, blue: 0.847, alpha: 1)
     public static let colorAccentA200 = UIColor(red: 0.451, green: 0.761, blue: 0.780, alpha: 1)
     public static let colorAccentA300 = UIColor(red: 0.337, green: 0.710, blue: 0.737, alpha: 1)
