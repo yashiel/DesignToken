@@ -813,6 +813,20 @@
       }
     }
   },
+  "font": {
+    "fill": {
+      "color": {
+        "value": "{color.Body}",
+        "type": "color"
+      }
+    },
+    "shade": {
+      "color": {
+        "value": "{color.Neutral.N50}",
+        "type": "color"
+      }
+    }
+  },
   "button": {
     "primary": {
       "background": {
