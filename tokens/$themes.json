@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "id": "f0107082ae2888a4ec4c499535135874a9593cd7",
+    "name": "Default",
+    "selectedTokenSets": {
+      "globals": "source",
+      "Core/__buttons": "enabled",
+      "Core/__typography": "enabled"
+    },
+    "$figmaStyleReferences": {}
+  }
+]
