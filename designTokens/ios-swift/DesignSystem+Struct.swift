@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Sat, 04 Feb 2023 13:49:09 GMT
+// Generated on Sat, 04 Feb 2023 16:15:31 GMT
 
 
 import UIKit
@@ -34,6 +34,8 @@ internal struct DesignSystemStruct {
     internal static let borderRadiusXxxl = 24
     internal static let borderWidth1 = 1
     internal static let borderWidth2 = 2
+    internal static let buttonBorderDangerActive = [object Object]
+    internal static let buttonBorderDangerHover = [object Object]
     internal static let buttonBorderPrimaryActive = [object Object]
     internal static let buttonBorderPrimaryHover = [object Object]
     internal static let buttonBorderRadiusSm = 4
@@ -43,17 +45,25 @@ internal struct DesignSystemStruct {
     internal static let buttonBorderSuccessActive = [object Object]
     internal static let buttonBorderSuccessHover = [object Object]
     internal static let buttonBorderWidthSm = 1
+    internal static let buttonDangerActive = UIColor(red: 0.929, green: 0.188, blue: 0.188, alpha: 1)
+    internal static let buttonDangerClick = UIColor(red: 0.973, green: 0.667, blue: 0.667, alpha: 1)
+    internal static let buttonDangerHover = UIColor(red: 0.651, green: 0.133, blue: 0.133, alpha: 1)
+    internal static let buttonDangerHoverAlt = UIColor(red: 0.992, green: 0.918, blue: 0.918, alpha: 1)
     internal static let buttonDisabled = UIColor(red: 0.757, green: 0.769, blue: 0.808, alpha: 1)
+    internal static let buttonInfoActive = UIColor(red: 0.118, green: 0.667, blue: 0.976, alpha: 1)
+    internal static let buttonInfoClick = UIColor(red: 0.639, green: 0.863, blue: 0.992, alpha: 1)
+    internal static let buttonInfoHover = UIColor(red: 0.082, green: 0.467, blue: 0.682, alpha: 1)
+    internal static let buttonInfoHoverAlt = UIColor(red: 0.914, green: 0.969, blue: 0.996, alpha: 1)
     internal static let buttonPrimaryActive = UIColor(red: 0.337, green: 0.710, blue: 0.737, alpha: 1)
-    internal static let buttonPrimaryClick = UIColor(red: 0.616, green: 0.831, blue: 0.847, alpha: 1)
+    internal static let buttonPrimaryClick = UIColor(red: 0.729, green: 0.882, blue: 0.894, alpha: 1)
     internal static let buttonPrimaryHover = UIColor(red: 0.235, green: 0.498, blue: 0.518, alpha: 1)
     internal static let buttonPrimaryHoverAlt = UIColor(red: 0.933, green: 0.973, blue: 0.973, alpha: 1)
     internal static let buttonSecondaryActive = UIColor(red: 0.937, green: 0.545, blue: 0.427, alpha: 1)
-    internal static let buttonSecondaryClick = UIColor(red: 0.965, green: 0.737, blue: 0.667, alpha: 1)
+    internal static let buttonSecondaryClick = UIColor(red: 0.973, green: 0.812, blue: 0.765, alpha: 1)
     internal static let buttonSecondaryHover = UIColor(red: 0.655, green: 0.380, blue: 0.298, alpha: 1)
     internal static let buttonSecondaryHoverAlt = UIColor(red: 0.992, green: 0.953, blue: 0.941, alpha: 1)
     internal static let buttonSuccessActive = UIColor(red: 0.475, green: 0.757, blue: 0.192, alpha: 1)
-    internal static let buttonSuccessClick = UIColor(red: 0.694, green: 0.859, blue: 0.533, alpha: 1)
+    internal static let buttonSuccessClick = UIColor(red: 0.784, green: 0.902, blue: 0.671, alpha: 1)
     internal static let buttonSuccessHover = UIColor(red: 0.333, green: 0.529, blue: 0.133, alpha: 1)
     internal static let buttonSuccessHoverAlt = UIColor(red: 0.949, green: 0.976, blue: 0.918, alpha: 1)
     internal static let buttonTextWhite = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)

@@ -1,6 +1,6 @@
 
 // Do not edit directly
-// Generated on Sat, 04 Feb 2023 13:49:09 GMT
+// Generated on Sat, 04 Feb 2023 16:15:31 GMT
 
 $h1-regular-font-family: Roboto;
 $h1-regular-font-weight: Regular;
@@ -183,11 +183,11 @@ $font-shade-color: #c1c4ce;
 $button-primary-active: #56b5bc;
 $button-primary-hover: #3c7f84;
 $button-primary-hover-alt: #eef8f8;
-$button-primary-click: #9dd4d8;
+$button-primary-click: #bae1e4;
 $button-secondary-active: #ef8b6d;
 $button-secondary-hover: #a7614c;
 $button-secondary-hover-alt: #fdf3f0;
-$button-secondary-click: #f6bcaa;
+$button-secondary-click: #f8cfc3;
 $button-disabled: #c1c4ce;
 $button-border-radius-sm: 4;
 $button-border-radius-xxxl: 24;
@@ -198,11 +198,21 @@ $button-border-secondary-active: [object Object];
 $button-border-secondary-hover: [object Object];
 $button-border-success-active: [object Object];
 $button-border-success-hover: [object Object];
+$button-border-danger-active: [object Object];
+$button-border-danger-hover: [object Object];
 $button-text-white: #ffffff;
 $button-success-active: #79c131;
 $button-success-hover: #558722;
 $button-success-hover-alt: #f2f9ea;
-$button-success-click: #b1db88;
+$button-success-click: #c8e6ab;
+$button-danger-active: #ed3030;
+$button-danger-hover: #a62222;
+$button-danger-hover-alt: #fdeaea;
+$button-danger-click: #f8aaaa;
+$button-info-active: #1eaaf9;
+$button-info-hover: #1577ae;
+$button-info-hover-alt: #e9f7fe;
+$button-info-click: #a3dcfd;
 $spacing-2: 0.143rem;
 $spacing-4: 0.286rem;
 $spacing-8: 0.571rem;
