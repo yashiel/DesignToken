@@ -4,17 +4,12 @@
 //
 
 // Do not edit directly
-// Generated on Fri, 03 Feb 2023 15:18:37 GMT
+// Generated on Sat, 04 Feb 2023 04:23:21 GMT
 
 
 import UIKit
 
 public enum DesignSystemEnum {
-    public static let baseBoldLineHeight = 140%
-    public static let baseItalicLineHeight = 140%
-    public static let baseMediumLineHeight = 140%
-    public static let baseRegularLineHeight = 140%
-    public static let baseSemiBoldLineHeight = 140%
     public static let borderRadiusLg = 12
     public static let borderRadiusMd = 8
     public static let borderRadiusSm = 4
@@ -112,42 +107,6 @@ public enum DesignSystemEnum {
     public static let fontWeightMedium = Medium
     public static let fontWeightRegular = Regular
     public static let fontWeightSemiBold = SemiBold
-    public static let h1BoldLineHeight = 120%
-    public static let h1MediumLineHeight = 120%
-    public static let h1RegularLineHeight = 120%
-    public static let h1SemiBoldLineHeight = 120%
-    public static let h2BoldLineHeight = 120%
-    public static let h2MediumLineHeight = 120%
-    public static let h2RegularLineHeight = 120%
-    public static let h2SemiBoldLineHeight = 120%
-    public static let h3BoldLineHeight = 120%
-    public static let h3MediumLineHeight = 120%
-    public static let h3RegularLineHeight = 120%
-    public static let h3SemiBoldLineHeight = 120%
-    public static let h4BoldLineHeight = 120%
-    public static let h4MediumLineHeight = 120%
-    public static let h4RegularLineHeight = 120%
-    public static let h4SemiBoldLineHeight = 120%
-    public static let h5BoldLineHeight = 120%
-    public static let h5ItalicLineHeight = 120%
-    public static let h5MediumLineHeight = 120%
-    public static let h5RegularLineHeight = 120%
-    public static let h5SemiBoldLineHeight = 120%
-    public static let h6BoldLineHeight = 120%
-    public static let h6ItalicLineHeight = 120%
-    public static let h6MediumLineHeight = 120%
-    public static let h6RegularLineHeight = 120%
-    public static let h6SemiBoldLineHeight = 120%
-    public static let labelBoldLineHeight = 120%
-    public static let labelItalicLineHeight = 120%
-    public static let labelMediumLineHeight = 120%
-    public static let labelRegularLineHeight = 120%
-    public static let labelSemiBoldLineHeight = 120%
-    public static let largeBoldLineHeight = 120%
-    public static let largeItalicLineHeight = 120%
-    public static let largeMediumLineHeight = 120%
-    public static let largeRegularLineHeight = 120%
-    public static let largeSemiBoldLineHeight = 120%
     public static let letterSpacing0 = 0%
     public static let lineHeight120 = 120%
     public static let lineHeight140 = 140%
@@ -167,11 +126,6 @@ public enum DesignSystemEnum {
     public static let size700 = CGFloat(11200.00)
     public static let size800 = CGFloat(12800.00)
     public static let size900 = CGFloat(14400.00)
-    public static let smallBoldLineHeight = 140%
-    public static let smallItalicLineHeight = 140%
-    public static let smallMediumLineHeight = 140%
-    public static let smallRegularLineHeight = 140%
-    public static let smallSemiBoldLineHeight = 140%
     public static let spacing12 = 12
     public static let spacing16 = 16
     public static let spacing2 = 2
@@ -197,9 +151,4 @@ public enum DesignSystemEnum {
     public static let textCaseUppercase = uppercase
     public static let textDecorationNone = none
     public static let textDecorationUnderline = underline
-    public static let xSmallBoldLineHeight = 120%
-    public static let xSmallItalicLineHeight = 120%
-    public static let xSmallMediumLineHeight = 120%
-    public static let xSmallRegularLineHeight = 120%
-    public static let xSmallSemiBoldLineHeight = 120%
 }

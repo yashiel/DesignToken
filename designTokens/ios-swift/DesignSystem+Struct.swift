@@ -4,17 +4,12 @@
 //
 
 // Do not edit directly
-// Generated on Fri, 03 Feb 2023 15:18:37 GMT
+// Generated on Sat, 04 Feb 2023 04:23:21 GMT
 
 
 import UIKit
 
 internal struct DesignSystemStruct {
-    internal static let baseBoldLineHeight = 140%
-    internal static let baseItalicLineHeight = 140%
-    internal static let baseMediumLineHeight = 140%
-    internal static let baseRegularLineHeight = 140%
-    internal static let baseSemiBoldLineHeight = 140%
     internal static let borderRadiusLg = 12
     internal static let borderRadiusMd = 8
     internal static let borderRadiusSm = 4
@@ -112,42 +107,6 @@ internal struct DesignSystemStruct {
     internal static let fontWeightMedium = Medium
     internal static let fontWeightRegular = Regular
     internal static let fontWeightSemiBold = SemiBold
-    internal static let h1BoldLineHeight = 120%
-    internal static let h1MediumLineHeight = 120%
-    internal static let h1RegularLineHeight = 120%
-    internal static let h1SemiBoldLineHeight = 120%
-    internal static let h2BoldLineHeight = 120%
-    internal static let h2MediumLineHeight = 120%
-    internal static let h2RegularLineHeight = 120%
-    internal static let h2SemiBoldLineHeight = 120%
-    internal static let h3BoldLineHeight = 120%
-    internal static let h3MediumLineHeight = 120%
-    internal static let h3RegularLineHeight = 120%
-    internal static let h3SemiBoldLineHeight = 120%
-    internal static let h4BoldLineHeight = 120%
-    internal static let h4MediumLineHeight = 120%
-    internal static let h4RegularLineHeight = 120%
-    internal static let h4SemiBoldLineHeight = 120%
-    internal static let h5BoldLineHeight = 120%
-    internal static let h5ItalicLineHeight = 120%
-    internal static let h5MediumLineHeight = 120%
-    internal static let h5RegularLineHeight = 120%
-    internal static let h5SemiBoldLineHeight = 120%
-    internal static let h6BoldLineHeight = 120%
-    internal static let h6ItalicLineHeight = 120%
-    internal static let h6MediumLineHeight = 120%
-    internal static let h6RegularLineHeight = 120%
-    internal static let h6SemiBoldLineHeight = 120%
-    internal static let labelBoldLineHeight = 120%
-    internal static let labelItalicLineHeight = 120%
-    internal static let labelMediumLineHeight = 120%
-    internal static let labelRegularLineHeight = 120%
-    internal static let labelSemiBoldLineHeight = 120%
-    internal static let largeBoldLineHeight = 120%
-    internal static let largeItalicLineHeight = 120%
-    internal static let largeMediumLineHeight = 120%
-    internal static let largeRegularLineHeight = 120%
-    internal static let largeSemiBoldLineHeight = 120%
     internal static let letterSpacing0 = 0%
     internal static let lineHeight120 = 120%
     internal static let lineHeight140 = 140%
@@ -167,11 +126,6 @@ internal struct DesignSystemStruct {
     internal static let size700 = CGFloat(11200.00)
     internal static let size800 = CGFloat(12800.00)
     internal static let size900 = CGFloat(14400.00)
-    internal static let smallBoldLineHeight = 140%
-    internal static let smallItalicLineHeight = 140%
-    internal static let smallMediumLineHeight = 140%
-    internal static let smallRegularLineHeight = 140%
-    internal static let smallSemiBoldLineHeight = 140%
     internal static let spacing12 = 12
     internal static let spacing16 = 16
     internal static let spacing2 = 2
@@ -197,9 +151,4 @@ internal struct DesignSystemStruct {
     internal static let textCaseUppercase = uppercase
     internal static let textDecorationNone = none
     internal static let textDecorationUnderline = underline
-    internal static let xSmallBoldLineHeight = 120%
-    internal static let xSmallItalicLineHeight = 120%
-    internal static let xSmallMediumLineHeight = 120%
-    internal static let xSmallRegularLineHeight = 120%
-    internal static let xSmallSemiBoldLineHeight = 120%
 }
