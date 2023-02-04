@@ -60,7 +60,12 @@
       "button.secondary.active": "S:1a0a001fa14d789b16091bfc7b9b58bc8eb0be6b,",
       "button.primary.hover": "S:c0e5b6c48352fca342cb02b3edef39768e986ad6,",
       "button.disabled": "S:2268aa4f862ff7a269796bd8d55275e2cc79625d,",
-      "button.secondary.hover": "S:a2ef111aec41cb40c0f91a38aa4d56116687bc5d,"
+      "button.secondary.hover": "S:a2ef111aec41cb40c0f91a38aa4d56116687bc5d,",
+      "button.primary.hover-alt": "S:74b418cefd918a79f70c1d7db8e607964b90f482,",
+      "button.primary.click": "S:78642f923e7b41bf1036902189137490b3d40f4c,",
+      "button.secondary.hover-alt": "S:e2ecb65881a387f6c946d63bd6b094fe47f8a5cd,",
+      "button.secondary.click": "S:8933a5bddf98f672ffcff3a264ac6593c11857b8,",
+      "button.text.white": "S:27882f019c319507f548dff2b3bc46109bae456a,"
     }
   }
 ]
