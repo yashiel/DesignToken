@@ -65,7 +65,11 @@
       "button.primary.click": "S:78642f923e7b41bf1036902189137490b3d40f4c,",
       "button.secondary.hover-alt": "S:e2ecb65881a387f6c946d63bd6b094fe47f8a5cd,",
       "button.secondary.click": "S:8933a5bddf98f672ffcff3a264ac6593c11857b8,",
-      "button.text.white": "S:27882f019c319507f548dff2b3bc46109bae456a,"
+      "button.text.white": "S:27882f019c319507f548dff2b3bc46109bae456a,",
+      "button.success.active": "S:ba221be1648d40ad95907a1730408c1ddb6fb1ba,",
+      "button.success.hover": "S:7a981c2030ff62c7c3923244f99f309e20cdda10,",
+      "button.success.hover-alt": "S:4b9f736baa89cbb22258f4931d60f7b7d6c97962,",
+      "button.success.click": "S:8aba68e431a0cdf6f85428a86f25444415c38cda,"
     }
   }
 ]
