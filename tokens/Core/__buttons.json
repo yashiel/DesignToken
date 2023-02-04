@@ -93,6 +93,12 @@
           "type": "border"
         }
       }
+    },
+    "text": {
+      "white": {
+        "value": "{color.White}",
+        "type": "color"
+      }
     }
   }
 }
