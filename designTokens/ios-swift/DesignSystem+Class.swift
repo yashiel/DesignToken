@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Sat, 04 Feb 2023 16:15:31 GMT
+// Generated on Sat, 04 Feb 2023 16:27:25 GMT
 
 
 import UIKit
@@ -138,8 +138,8 @@ public class DesignSystemClass {
     public static let colorWarningW500 = UIColor(red: 0.612, green: 0.463, blue: 0.110, alpha: 1)
     public static let colorWarningW75 = UIColor(red: 1.000, green: 0.902, blue: 0.663, alpha: 1)
     public static let colorWhite = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
+    public static let fontDefaultColor = UIColor(red: 0.024, green: 0.071, blue: 0.086, alpha: 1)
     public static let fontFamily = Roboto
-    public static let fontFillColor = UIColor(red: 0.024, green: 0.071, blue: 0.086, alpha: 1)
     public static let fontShadeColor = UIColor(red: 0.757, green: 0.769, blue: 0.808, alpha: 1)
     public static let fontSize0 = 10
     public static let fontSize1 = 11
