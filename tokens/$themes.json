@@ -7,6 +7,16 @@
       "core": "source",
       "__typography": "enabled"
     },
-    "$figmaStyleReferences": {}
+    "$figmaStyleReferences": {
+      "button.primary.background.color": "S:59c77a7cb7140d1754ce304e1ca8b24adb2548a7,",
+      "H1.Regular": "S:1180a36e374cc74251f517e3d82af0d5f7dfebf8,",
+      "H1.Medium": "S:10a0272494dd01c15d0eeb2a22004f4499381865,",
+      "H1.SemiBold": "S:bcae138003771b0faaceb62de82310aaca90ecbd,",
+      "H1.Bold": "S:7231d645b1a4257fbf404dcde8aa9b4d6f6c55b2,",
+      "H2.Regular": "S:52f3b4a02fb2cdcd5539c51d7018bf45b7c9a753,",
+      "H2.Medium": "S:178a55f5a2946028ca4d322672fc7142064f8cb0,",
+      "H2.SemiBold": "S:cdf841c736583311edb25c2d0251e0e7e4890843,",
+      "H2.Bold": "S:82485f56158e0f19f67cdb9d13348bc0b89c2283,"
+    }
   }
 ]
