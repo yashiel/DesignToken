@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Sat, 04 Feb 2023 13:24:59 GMT
+// Generated on Sat, 04 Feb 2023 13:36:19 GMT
 
 
 import UIKit
@@ -40,6 +40,8 @@ internal struct DesignSystemStruct {
     internal static let buttonBorderRadiusXxxl = 24
     internal static let buttonBorderSecondaryActive = [object Object]
     internal static let buttonBorderSecondaryHover = [object Object]
+    internal static let buttonBorderSuccessActive = [object Object]
+    internal static let buttonBorderSuccessHover = [object Object]
     internal static let buttonBorderWidthSm = 1
     internal static let buttonDisabled = UIColor(red: 0.757, green: 0.769, blue: 0.808, alpha: 1)
     internal static let buttonPrimaryActive = UIColor(red: 0.337, green: 0.710, blue: 0.737, alpha: 1)
@@ -50,6 +52,10 @@ internal struct DesignSystemStruct {
     internal static let buttonSecondaryClick = UIColor(red: 0.965, green: 0.737, blue: 0.667, alpha: 1)
     internal static let buttonSecondaryHover = UIColor(red: 0.655, green: 0.380, blue: 0.298, alpha: 1)
     internal static let buttonSecondaryHoverAlt = UIColor(red: 0.992, green: 0.953, blue: 0.941, alpha: 1)
+    internal static let buttonSuccessActive = UIColor(red: 0.475, green: 0.757, blue: 0.192, alpha: 1)
+    internal static let buttonSuccessClick = UIColor(red: 0.694, green: 0.859, blue: 0.533, alpha: 1)
+    internal static let buttonSuccessHover = UIColor(red: 0.333, green: 0.529, blue: 0.133, alpha: 1)
+    internal static let buttonSuccessHoverAlt = UIColor(red: 0.949, green: 0.976, blue: 0.918, alpha: 1)
     internal static let buttonTextWhite = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
     internal static let colorAccentA100 = UIColor(red: 0.616, green: 0.831, blue: 0.847, alpha: 1)
     internal static let colorAccentA200 = UIColor(red: 0.451, green: 0.761, blue: 0.780, alpha: 1)
