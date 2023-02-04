@@ -1,1 +1,78 @@
-{}
+{
+  "H1": {
+    "Regular": {
+      "value": {
+        "fontFamily": "{fontFamily.roboto}",
+        "fontWeight": "{fontWeight.Regular}",
+        "lineHeight": "{lineHeight.120}",
+        "fontSize": "{fontSize.10}"
+      },
+      "type": "typography"
+    },
+    "Medium": {
+      "value": {
+        "fontFamily": "{fontFamily.roboto}",
+        "fontWeight": "{fontWeight.Medium}",
+        "lineHeight": "{lineHeight.120}",
+        "fontSize": "{fontSize.10}"
+      },
+      "type": "typography"
+    },
+    "SemiBold": {
+      "value": {
+        "fontFamily": "{fontFamily.roboto}",
+        "fontWeight": "{fontWeight.SemiBold}",
+        "lineHeight": "{lineHeight.120}",
+        "fontSize": "{fontSize.10}"
+      },
+      "type": "typography"
+    },
+    "Bold": {
+      "value": {
+        "fontFamily": "{fontFamily.roboto}",
+        "fontWeight": "{fontWeight.Bold}",
+        "lineHeight": "{lineHeight.120}",
+        "fontSize": "{fontSize.10}"
+      },
+      "type": "typography"
+    }
+  },
+  "H2": {
+    "Regular": {
+      "value": {
+        "fontFamily": "{fontFamily.roboto}",
+        "fontWeight": "{fontWeight.Regular}",
+        "lineHeight": "{lineHeight.120}",
+        "fontSize": "{fontSize.9}"
+      },
+      "type": "typography"
+    },
+    "Medium": {
+      "value": {
+        "fontFamily": "{fontFamily.roboto}",
+        "fontWeight": "{fontWeight.Medium}",
+        "lineHeight": "{lineHeight.120}",
+        "fontSize": "{fontSize.9}"
+      },
+      "type": "typography"
+    },
+    "SemiBold": {
+      "value": {
+        "fontFamily": "{fontFamily.roboto}",
+        "fontWeight": "{fontWeight.SemiBold}",
+        "lineHeight": "{lineHeight.120}",
+        "fontSize": "{fontSize.9}"
+      },
+      "type": "typography"
+    },
+    "Bold": {
+      "value": {
+        "fontFamily": "{fontFamily.roboto}",
+        "fontWeight": "{fontWeight.Bold}",
+        "lineHeight": "{lineHeight.120}",
+        "fontSize": "{fontSize.9}"
+      },
+      "type": "typography"
+    }
+  }
+}
