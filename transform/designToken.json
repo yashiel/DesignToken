@@ -829,18 +829,96 @@
   },
   "button": {
     "primary": {
-      "background": {
-        "color": {
-          "value": "{color.Accent.A300}",
-          "type": "color"
-        }
+      "active": {
+        "value": "{color.Accent.A300}",
+        "type": "color"
+      },
+      "hover": {
+        "value": "{color.Accent.A400}",
+        "type": "color"
+      },
+      "hover-alt": {
+        "value": "{color.Accent.A50}",
+        "type": "color"
+      },
+      "click": {
+        "value": "{color.Accent.A100}",
+        "type": "color"
       }
     },
     "secondary": {
-      "background": {
-        "color": {
-          "value": "{color.Secondary.S300}",
-          "type": "color"
+      "active": {
+        "value": "{color.Secondary.S300}",
+        "type": "color"
+      },
+      "hover": {
+        "value": "{color.Secondary.S400}",
+        "type": "color"
+      },
+      "hover-alt": {
+        "value": "{color.Secondary.S50}",
+        "type": "color"
+      },
+      "click": {
+        "value": "{color.Secondary.S100}",
+        "type": "color"
+      }
+    },
+    "disabled": {
+      "value": "{color.Neutral.N50}",
+      "type": "color"
+    },
+    "borderRadius": {
+      "sm": {
+        "value": "{borderRadius.sm}",
+        "type": "borderRadius"
+      },
+      "xxxl": {
+        "value": "{borderRadius.xxxl}",
+        "type": "borderRadius"
+      }
+    },
+    "border": {
+      "width": {
+        "sm": {
+          "value": "{borderWidth.1}",
+          "type": "borderWidth"
+        }
+      },
+      "primary": {
+        "active": {
+          "value": {
+            "color": "#56b5bc",
+            "width": 1,
+            "style": "solid"
+          },
+          "type": "border"
+        },
+        "hover": {
+          "value": {
+            "color": "#3c7f84",
+            "width": 1,
+            "style": "solid"
+          },
+          "type": "border"
+        }
+      },
+      "secondary": {
+        "active": {
+          "value": {
+            "color": "#ef8b6d",
+            "width": 1,
+            "style": "solid"
+          },
+          "type": "border"
+        },
+        "hover": {
+          "value": {
+            "color": "#a7614c",
+            "width": 1,
+            "style": "solid"
+          },
+          "type": "border"
         }
       }
     }

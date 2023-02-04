@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Sat, 04 Feb 2023 10:09:55 GMT
+ * Generated on Sat, 04 Feb 2023 10:33:20 GMT
  */
 
 :root {
@@ -182,8 +182,22 @@
   --x-small-bold-font-size: 0.051rem;
   --font-fill-color: #061216;
   --font-shade-color: #c1c4ce;
-  --button-primary-background-color: #56b5bc;
-  --button-secondary-background-color: #ef8b6d;
+  --button-primary-active: #56b5bc;
+  --button-primary-hover: #3c7f84;
+  --button-primary-hover-alt: #eef8f8;
+  --button-primary-click: #9dd4d8;
+  --button-secondary-active: #ef8b6d;
+  --button-secondary-hover: #a7614c;
+  --button-secondary-hover-alt: #fdf3f0;
+  --button-secondary-click: #f6bcaa;
+  --button-disabled: #c1c4ce;
+  --button-border-radius-sm: 4;
+  --button-border-radius-xxxl: 24;
+  --button-border-width-sm: 1;
+  --button-border-primary-active: [object Object];
+  --button-border-primary-hover: [object Object];
+  --button-border-secondary-active: [object Object];
+  --button-border-secondary-hover: [object Object];
   --spacing-2: 0.143rem;
   --spacing-4: 0.286rem;
   --spacing-8: 0.571rem;
