@@ -418,7 +418,7 @@
     }
   },
   "font": {
-    "fill": {
+    "default": {
       "color": {
         "value": "{color.Body}",
         "type": "color"
