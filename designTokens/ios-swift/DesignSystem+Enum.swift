@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Sat, 04 Feb 2023 17:11:04 GMT
+// Generated on Sat, 04 Feb 2023 17:14:22 GMT
 
 
 import UIKit
@@ -346,10 +346,10 @@ public enum DesignSystemEnum {
     public static let textDecorationNone = none
     public static let textDecorationUnderline = underline
     public static let tokenSetOrder0 = globals
-    public static let tokenSetOrder1 = 0-core/__buttons
-    public static let tokenSetOrder2 = 0-core/__typography
-    public static let tokenSetOrder3 = 1-components
-    public static let tokenSetOrder4 = 0-core/__layout
+    public static let tokenSetOrder1 = 0-core/__layout
+    public static let tokenSetOrder2 = 0-core/__buttons
+    public static let tokenSetOrder3 = 0-core/__typography
+    public static let tokenSetOrder4 = 1-components
     public static let xSmallBoldFontFamily = Roboto
     public static let xSmallBoldFontSize = 10
     public static let xSmallBoldFontWeight = Bold

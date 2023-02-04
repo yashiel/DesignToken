@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Sat, 04 Feb 2023 17:11:04 GMT
+// Generated on Sat, 04 Feb 2023 17:14:22 GMT
 
 
 import UIKit
@@ -346,10 +346,10 @@ internal struct DesignSystemStruct {
     internal static let textDecorationNone = none
     internal static let textDecorationUnderline = underline
     internal static let tokenSetOrder0 = globals
-    internal static let tokenSetOrder1 = 0-core/__buttons
-    internal static let tokenSetOrder2 = 0-core/__typography
-    internal static let tokenSetOrder3 = 1-components
-    internal static let tokenSetOrder4 = 0-core/__layout
+    internal static let tokenSetOrder1 = 0-core/__layout
+    internal static let tokenSetOrder2 = 0-core/__buttons
+    internal static let tokenSetOrder3 = 0-core/__typography
+    internal static let tokenSetOrder4 = 1-components
     internal static let xSmallBoldFontFamily = Roboto
     internal static let xSmallBoldFontSize = 10
     internal static let xSmallBoldFontWeight = Bold
