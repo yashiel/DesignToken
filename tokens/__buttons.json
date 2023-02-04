@@ -7,6 +7,14 @@
           "type": "color"
         }
       }
+    },
+    "secondary": {
+      "background": {
+        "color": {
+          "value": "{color.Secondary.S300}",
+          "type": "color"
+        }
+      }
     }
   }
 }
