@@ -92,11 +92,47 @@
           },
           "type": "border"
         }
+      },
+      "success": {
+        "active": {
+          "value": {
+            "color": "{button.success.active}",
+            "width": "{button.border.width.sm}",
+            "style": "solid"
+          },
+          "type": "border"
+        },
+        "hover": {
+          "value": {
+            "color": "{button.success.hover}",
+            "width": "{button.border.width.sm}",
+            "style": "solid"
+          },
+          "type": "border"
+        }
       }
     },
     "text": {
       "white": {
         "value": "{color.White}",
+        "type": "color"
+      }
+    },
+    "success": {
+      "active": {
+        "value": "{color.Success.S300}",
+        "type": "color"
+      },
+      "hover": {
+        "value": "{color.Success.S400}",
+        "type": "color"
+      },
+      "hover-alt": {
+        "value": "{color.Success.S50}",
+        "type": "color"
+      },
+      "click": {
+        "value": "{color.Success.S100}",
         "type": "color"
       }
     }
