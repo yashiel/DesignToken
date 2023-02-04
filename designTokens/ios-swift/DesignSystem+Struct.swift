@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Sat, 04 Feb 2023 09:37:05 GMT
+// Generated on Sat, 04 Feb 2023 09:43:52 GMT
 
 
 import UIKit
@@ -314,9 +314,6 @@ internal struct DesignSystemStruct {
     internal static let textCaseUppercase = uppercase
     internal static let textDecorationNone = none
     internal static let textDecorationUnderline = underline
-    internal static let tokenSetOrder0 = core
-    internal static let tokenSetOrder1 = __buttons
-    internal static let tokenSetOrder2 = __typography
     internal static let xSmallBoldFontFamily = Roboto
     internal static let xSmallBoldFontSize = 10
     internal static let xSmallBoldFontWeight = Bold

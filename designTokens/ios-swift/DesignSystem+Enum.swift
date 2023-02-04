@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Sat, 04 Feb 2023 09:37:05 GMT
+// Generated on Sat, 04 Feb 2023 09:43:52 GMT
 
 
 import UIKit
@@ -314,9 +314,6 @@ public enum DesignSystemEnum {
     public static let textCaseUppercase = uppercase
     public static let textDecorationNone = none
     public static let textDecorationUnderline = underline
-    public static let tokenSetOrder0 = core
-    public static let tokenSetOrder1 = __buttons
-    public static let tokenSetOrder2 = __typography
     public static let xSmallBoldFontFamily = Roboto
     public static let xSmallBoldFontSize = 10
     public static let xSmallBoldFontWeight = Bold
