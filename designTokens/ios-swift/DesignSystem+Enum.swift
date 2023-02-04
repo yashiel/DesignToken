@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Sat, 04 Feb 2023 17:14:22 GMT
+// Generated on Sat, 04 Feb 2023 17:52:26 GMT
 
 
 import UIKit
@@ -285,6 +285,34 @@ public enum DesignSystemEnum {
     public static let largeSemiBoldFontSize = 16
     public static let largeSemiBoldFontWeight = SemiBold
     public static let largeSemiBoldLineHeight = 140%
+    public static let layoutBackgroundAccent = UIColor(red: 0.933, green: 0.973, blue: 0.973, alpha: 1)
+    public static let layoutBackgroundN10 = UIColor(red: 0.980, green: 0.980, blue: 0.984, alpha: 1)
+    public static let layoutBackgroundN20 = UIColor(red: 0.961, green: 0.961, blue: 0.969, alpha: 1)
+    public static let layoutBackgroundN30 = UIColor(red: 0.922, green: 0.925, blue: 0.937, alpha: 1)
+    public static let layoutBackgroundN40 = UIColor(red: 0.875, green: 0.878, blue: 0.898, alpha: 1)
+    public static let layoutBackgroundN50 = UIColor(red: 0.757, green: 0.769, blue: 0.808, alpha: 1)
+    public static let layoutBackgroundPrimary = UIColor(red: 0.902, green: 0.922, blue: 0.929, alpha: 1)
+    public static let layoutBackgroundSecondary = UIColor(red: 0.992, green: 0.953, blue: 0.941, alpha: 1)
+    public static let layoutBorderRadiusLg = 12
+    public static let layoutBorderRadiusMd = 8
+    public static let layoutBorderRadiusSm = 4
+    public static let layoutBorderRadiusXl = 16
+    public static let layoutSpacing12 = 12
+    public static let layoutSpacing16 = 16
+    public static let layoutSpacing2 = 2
+    public static let layoutSpacing20 = 20
+    public static let layoutSpacing24 = 24
+    public static let layoutSpacing28 = 28
+    public static let layoutSpacing32 = 32
+    public static let layoutSpacing36 = 36
+    public static let layoutSpacing4 = 4
+    public static let layoutSpacing40 = 40
+    public static let layoutSpacing44 = 44
+    public static let layoutSpacing48 = 48
+    public static let layoutSpacing52 = 52
+    public static let layoutSpacing56 = 56
+    public static let layoutSpacing60 = 60
+    public static let layoutSpacing8 = 8
     public static let letterSpacing0 = 0%
     public static let lineHeight120 = 120%
     public static let lineHeight140 = 140%

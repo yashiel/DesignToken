@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Sat, 04 Feb 2023 17:14:22 GMT
+// Generated on Sat, 04 Feb 2023 17:52:26 GMT
 
 
 import UIKit
@@ -285,6 +285,34 @@ internal struct DesignSystemStruct {
     internal static let largeSemiBoldFontSize = 16
     internal static let largeSemiBoldFontWeight = SemiBold
     internal static let largeSemiBoldLineHeight = 140%
+    internal static let layoutBackgroundAccent = UIColor(red: 0.933, green: 0.973, blue: 0.973, alpha: 1)
+    internal static let layoutBackgroundN10 = UIColor(red: 0.980, green: 0.980, blue: 0.984, alpha: 1)
+    internal static let layoutBackgroundN20 = UIColor(red: 0.961, green: 0.961, blue: 0.969, alpha: 1)
+    internal static let layoutBackgroundN30 = UIColor(red: 0.922, green: 0.925, blue: 0.937, alpha: 1)
+    internal static let layoutBackgroundN40 = UIColor(red: 0.875, green: 0.878, blue: 0.898, alpha: 1)
+    internal static let layoutBackgroundN50 = UIColor(red: 0.757, green: 0.769, blue: 0.808, alpha: 1)
+    internal static let layoutBackgroundPrimary = UIColor(red: 0.902, green: 0.922, blue: 0.929, alpha: 1)
+    internal static let layoutBackgroundSecondary = UIColor(red: 0.992, green: 0.953, blue: 0.941, alpha: 1)
+    internal static let layoutBorderRadiusLg = 12
+    internal static let layoutBorderRadiusMd = 8
+    internal static let layoutBorderRadiusSm = 4
+    internal static let layoutBorderRadiusXl = 16
+    internal static let layoutSpacing12 = 12
+    internal static let layoutSpacing16 = 16
+    internal static let layoutSpacing2 = 2
+    internal static let layoutSpacing20 = 20
+    internal static let layoutSpacing24 = 24
+    internal static let layoutSpacing28 = 28
+    internal static let layoutSpacing32 = 32
+    internal static let layoutSpacing36 = 36
+    internal static let layoutSpacing4 = 4
+    internal static let layoutSpacing40 = 40
+    internal static let layoutSpacing44 = 44
+    internal static let layoutSpacing48 = 48
+    internal static let layoutSpacing52 = 52
+    internal static let layoutSpacing56 = 56
+    internal static let layoutSpacing60 = 60
+    internal static let layoutSpacing8 = 8
     internal static let letterSpacing0 = 0%
     internal static let lineHeight120 = 120%
     internal static let lineHeight140 = 140%
