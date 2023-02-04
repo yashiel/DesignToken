@@ -1,18 +1,96 @@
 {
   "button": {
     "primary": {
-      "background": {
-        "color": {
-          "value": "{color.Accent.A300}",
-          "type": "color"
-        }
+      "active": {
+        "value": "{color.Accent.A300}",
+        "type": "color"
+      },
+      "hover": {
+        "value": "{color.Accent.A400}",
+        "type": "color"
+      },
+      "hover-alt": {
+        "value": "{color.Accent.A50}",
+        "type": "color"
+      },
+      "click": {
+        "value": "{color.Accent.A100}",
+        "type": "color"
       }
     },
     "secondary": {
-      "background": {
-        "color": {
-          "value": "{color.Secondary.S300}",
-          "type": "color"
+      "active": {
+        "value": "{color.Secondary.S300}",
+        "type": "color"
+      },
+      "hover": {
+        "value": "{color.Secondary.S400}",
+        "type": "color"
+      },
+      "hover-alt": {
+        "value": "{color.Secondary.S50}",
+        "type": "color"
+      },
+      "click": {
+        "value": "{color.Secondary.S100}",
+        "type": "color"
+      }
+    },
+    "disabled": {
+      "value": "{color.Neutral.N50}",
+      "type": "color"
+    },
+    "borderRadius": {
+      "sm": {
+        "value": "{borderRadius.sm}",
+        "type": "borderRadius"
+      },
+      "xxxl": {
+        "value": "{borderRadius.xxxl}",
+        "type": "borderRadius"
+      }
+    },
+    "border": {
+      "width": {
+        "sm": {
+          "value": "{borderWidth.1}",
+          "type": "borderWidth"
+        }
+      },
+      "primary": {
+        "active": {
+          "value": {
+            "color": "{button.primary.active}",
+            "width": "{button.border.width.sm}",
+            "style": "solid"
+          },
+          "type": "border"
+        },
+        "hover": {
+          "value": {
+            "color": "{button.primary.hover}",
+            "width": "{button.border.width.sm}",
+            "style": "solid"
+          },
+          "type": "border"
+        }
+      },
+      "secondary": {
+        "active": {
+          "value": {
+            "color": "{button.secondary.active}",
+            "width": "{button.border.width.sm}",
+            "style": "solid"
+          },
+          "type": "border"
+        },
+        "hover": {
+          "value": {
+            "color": "{button.secondary.hover}",
+            "width": "{button.border.width.sm}",
+            "style": "solid"
+          },
+          "type": "border"
         }
       }
     }

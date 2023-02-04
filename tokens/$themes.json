@@ -55,7 +55,12 @@
       "XSmall.Regular": "S:d143b1458510a5845762ec3c45ddb82463a89faf,",
       "XSmall.Medium": "S:8bb41c5ad0ef7e31a209baadf36096da776b13f1,",
       "XSmall.SemiBold": "S:7385b7b40a19e07b2ea9b726468b5d3408c5b86c,",
-      "XSmall.Bold": "S:a1191f193a484a865f518562d6db1cb943eff585,"
+      "XSmall.Bold": "S:a1191f193a484a865f518562d6db1cb943eff585,",
+      "button.primary.active": "S:f023437b3c20985a6002c61170e684fc33b5b6f2,",
+      "button.secondary.active": "S:1a0a001fa14d789b16091bfc7b9b58bc8eb0be6b,",
+      "button.primary.hover": "S:c0e5b6c48352fca342cb02b3edef39768e986ad6,",
+      "button.disabled": "S:2268aa4f862ff7a269796bd8d55275e2cc79625d,",
+      "button.secondary.hover": "S:a2ef111aec41cb40c0f91a38aa4d56116687bc5d,"
     }
   }
 ]
