@@ -69,7 +69,15 @@
       "button.success.active": "S:ba221be1648d40ad95907a1730408c1ddb6fb1ba,",
       "button.success.hover": "S:7a981c2030ff62c7c3923244f99f309e20cdda10,",
       "button.success.hover-alt": "S:4b9f736baa89cbb22258f4931d60f7b7d6c97962,",
-      "button.success.click": "S:8aba68e431a0cdf6f85428a86f25444415c38cda,"
+      "button.success.click": "S:8aba68e431a0cdf6f85428a86f25444415c38cda,",
+      "button.danger.active": "S:f89409c0f1d863781414e59c9635a184390382a6,",
+      "button.danger.hover": "S:6d8035e7d03d5b854176ec6901e096d6185bf6ca,",
+      "button.danger.hover-alt": "S:1ec3fc80a8b7924483634fc88bf79b338760200e,",
+      "button.danger.click": "S:15825390244799a43ebd14e4e2a4853fa0c6adec,",
+      "button.info.active": "S:15b06f12ec79815ae6234e46e94deb7574b1cef6,",
+      "button.info.hover": "S:a585a818a8cf06cf8fe10d1b58194e1a198162fd,",
+      "button.info.hover-alt": "S:dd0893a038f28e18451dcc412325bb28276a23ad,",
+      "button.info.click": "S:7d56206f0106dd956f853c115a840e0adef4fe68,"
     }
   }
 ]

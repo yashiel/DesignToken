@@ -14,7 +14,7 @@
         "type": "color"
       },
       "click": {
-        "value": "{color.Accent.A100}",
+        "value": "{color.Accent.A75}",
         "type": "color"
       }
     },
@@ -32,7 +32,7 @@
         "type": "color"
       },
       "click": {
-        "value": "{color.Secondary.S100}",
+        "value": "{color.Secondary.S75}",
         "type": "color"
       }
     },
@@ -110,6 +110,24 @@
           },
           "type": "border"
         }
+      },
+      "danger": {
+        "active": {
+          "value": {
+            "color": "{button.danger.active}",
+            "width": "{button.border.width.sm}",
+            "style": "solid"
+          },
+          "type": "border"
+        },
+        "hover": {
+          "value": {
+            "color": "{button.danger.hover}",
+            "width": "{button.border.width.sm}",
+            "style": "solid"
+          },
+          "type": "border"
+        }
       }
     },
     "text": {
@@ -132,7 +150,43 @@
         "type": "color"
       },
       "click": {
-        "value": "{color.Success.S100}",
+        "value": "{color.Success.S75}",
+        "type": "color"
+      }
+    },
+    "danger": {
+      "active": {
+        "value": "{color.Danger.D300}",
+        "type": "color"
+      },
+      "hover": {
+        "value": "{color.Danger.D400}",
+        "type": "color"
+      },
+      "hover-alt": {
+        "value": "{color.Danger.D50}",
+        "type": "color"
+      },
+      "click": {
+        "value": "{color.Danger.D75}",
+        "type": "color"
+      }
+    },
+    "info": {
+      "active": {
+        "value": "{color.Info.I300}",
+        "type": "color"
+      },
+      "hover": {
+        "value": "{color.Info.I400}",
+        "type": "color"
+      },
+      "hover-alt": {
+        "value": "{color.Info.I50}",
+        "type": "color"
+      },
+      "click": {
+        "value": "{color.Info.I75}",
         "type": "color"
       }
     }
