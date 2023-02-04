@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Sat, 04 Feb 2023 10:33:20 GMT
+ * Generated on Sat, 04 Feb 2023 10:37:45 GMT
  */
 
 :root {
@@ -198,6 +198,7 @@
   --button-border-primary-hover: [object Object];
   --button-border-secondary-active: [object Object];
   --button-border-secondary-hover: [object Object];
+  --button-text-white: #ffffff;
   --spacing-2: 0.143rem;
   --spacing-4: 0.286rem;
   --spacing-8: 0.571rem;

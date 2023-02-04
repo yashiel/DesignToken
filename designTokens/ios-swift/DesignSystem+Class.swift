@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Sat, 04 Feb 2023 10:33:20 GMT
+// Generated on Sat, 04 Feb 2023 10:37:45 GMT
 
 
 import UIKit
@@ -50,6 +50,7 @@ public class DesignSystemClass {
     public static let buttonSecondaryClick = UIColor(red: 0.965, green: 0.737, blue: 0.667, alpha: 1)
     public static let buttonSecondaryHover = UIColor(red: 0.655, green: 0.380, blue: 0.298, alpha: 1)
     public static let buttonSecondaryHoverAlt = UIColor(red: 0.992, green: 0.953, blue: 0.941, alpha: 1)
+    public static let buttonTextWhite = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
     public static let colorAccentA100 = UIColor(red: 0.616, green: 0.831, blue: 0.847, alpha: 1)
     public static let colorAccentA200 = UIColor(red: 0.451, green: 0.761, blue: 0.780, alpha: 1)
     public static let colorAccentA300 = UIColor(red: 0.337, green: 0.710, blue: 0.737, alpha: 1)
