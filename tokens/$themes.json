@@ -5,7 +5,8 @@
     "selectedTokenSets": {
       "globals": "source",
       "0-core/__buttons": "enabled",
-      "0-core/__typography": "enabled"
+      "0-core/__typography": "enabled",
+      "0-core/__layout": "enabled"
     },
     "$figmaStyleReferences": {
       "font.fill.color": "S:1ef2fc8b8082de6ee24f766d0e101440d59adc0c,",
