@@ -1,1 +1,122 @@
-{}
+{
+  "layout": {
+    "spacing": {
+      "2": {
+        "value": "{spacing.2}",
+        "type": "spacing"
+      },
+      "4": {
+        "value": "{spacing.4}",
+        "type": "spacing"
+      },
+      "8": {
+        "value": "{spacing.8}",
+        "type": "spacing"
+      },
+      "12": {
+        "value": "{spacing.12}",
+        "type": "spacing"
+      },
+      "16": {
+        "value": "{spacing.16}",
+        "type": "spacing"
+      },
+      "20": {
+        "value": "{spacing.20}",
+        "type": "spacing"
+      },
+      "24": {
+        "value": "{spacing.24}",
+        "type": "spacing"
+      },
+      "28": {
+        "value": "{spacing.28}",
+        "type": "spacing"
+      },
+      "32": {
+        "value": "{spacing.32}",
+        "type": "spacing"
+      },
+      "36": {
+        "value": "{spacing.36}",
+        "type": "spacing"
+      },
+      "40": {
+        "value": "{spacing.40}",
+        "type": "spacing"
+      },
+      "44": {
+        "value": "{spacing.44}",
+        "type": "spacing"
+      },
+      "48": {
+        "value": "{spacing.48}",
+        "type": "spacing"
+      },
+      "52": {
+        "value": "{spacing.52}",
+        "type": "spacing"
+      },
+      "56": {
+        "value": "{spacing.56}",
+        "type": "spacing"
+      },
+      "60": {
+        "value": "{spacing.60}",
+        "type": "spacing"
+      }
+    },
+    "borderRadius": {
+      "sm": {
+        "value": "{borderRadius.sm}",
+        "type": "borderRadius"
+      },
+      "md": {
+        "value": "{borderRadius.md}",
+        "type": "borderRadius"
+      },
+      "lg": {
+        "value": "{borderRadius.lg}",
+        "type": "borderRadius"
+      },
+      "xl": {
+        "value": "{borderRadius.xl}",
+        "type": "borderRadius"
+      }
+    },
+    "background": {
+      "N10": {
+        "value": "{color.Neutral.N10}",
+        "type": "color"
+      },
+      "N20": {
+        "value": "{color.Neutral.N20}",
+        "type": "color"
+      },
+      "N30": {
+        "value": "{color.Neutral.N30}",
+        "type": "color"
+      },
+      "N40": {
+        "value": "{color.Neutral.N40}",
+        "type": "color"
+      },
+      "N50": {
+        "value": "{color.Neutral.N50}",
+        "type": "color"
+      },
+      "primary": {
+        "value": "{color.Primary.P50}",
+        "type": "color"
+      },
+      "secondary": {
+        "value": "{color.Secondary.S50}",
+        "type": "color"
+      },
+      "accent": {
+        "value": "{color.Accent.A50}",
+        "type": "color"
+      }
+    }
+  }
+}

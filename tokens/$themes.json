@@ -78,7 +78,16 @@
       "button.info.active": "S:15b06f12ec79815ae6234e46e94deb7574b1cef6,",
       "button.info.hover": "S:a585a818a8cf06cf8fe10d1b58194e1a198162fd,",
       "button.info.hover-alt": "S:dd0893a038f28e18451dcc412325bb28276a23ad,",
-      "button.info.click": "S:7d56206f0106dd956f853c115a840e0adef4fe68,"
+      "button.info.click": "S:7d56206f0106dd956f853c115a840e0adef4fe68,",
+      "font.default.color": "S:11345ddc94794465b29a601f26af39b7a492aed6,",
+      "layout.background.N10": "S:14c4ea5d0a466364d7d71c15f839eff8ecfce124,",
+      "layout.background.N20": "S:71224da350a7a9e7fa7460f65adcfb7da1fffa2c,",
+      "layout.background.N30": "S:0d009944915b48c362e52a64dfcc2bdb853ef134,",
+      "layout.background.N40": "S:fbaf15e2fdfcafc3baad8f5982809e6790313fd6,",
+      "layout.background.N50": "S:ccfc252bcae33bb5c98e4a8ddf559137bc53cdeb,",
+      "layout.background.primary": "S:cf42a17f033c4666ee321dae8eb6e911d7cf1f73,",
+      "layout.background.secondary": "S:1b3f5d8ecf34da9f8245b0b65591df7cc55f86bd,",
+      "layout.background.accent": "S:d7ea0a8cb47524094da7cace26a53efe9791be7b,"
     }
   }
 ]
