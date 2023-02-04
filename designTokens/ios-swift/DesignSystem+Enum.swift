@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Sat, 04 Feb 2023 13:41:18 GMT
+// Generated on Sat, 04 Feb 2023 13:49:09 GMT
 
 
 import UIKit
@@ -128,7 +128,7 @@ public enum DesignSystemEnum {
     public static let colorWarningW500 = UIColor(red: 0.612, green: 0.463, blue: 0.110, alpha: 1)
     public static let colorWarningW75 = UIColor(red: 1.000, green: 0.902, blue: 0.663, alpha: 1)
     public static let colorWhite = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
-    public static let fontFamilyRoboto = Roboto
+    public static let fontFamily = Roboto
     public static let fontFillColor = UIColor(red: 0.024, green: 0.071, blue: 0.086, alpha: 1)
     public static let fontShadeColor = UIColor(red: 0.757, green: 0.769, blue: 0.808, alpha: 1)
     public static let fontSize0 = 10
@@ -336,8 +336,9 @@ public enum DesignSystemEnum {
     public static let textDecorationNone = none
     public static let textDecorationUnderline = underline
     public static let tokenSetOrder0 = globals
-    public static let tokenSetOrder1 = Core/__buttons
-    public static let tokenSetOrder2 = Core/__typography
+    public static let tokenSetOrder1 = 0-core/__buttons
+    public static let tokenSetOrder2 = 0-core/__typography
+    public static let tokenSetOrder3 = 1-components
     public static let xSmallBoldFontFamily = Roboto
     public static let xSmallBoldFontSize = 10
     public static let xSmallBoldFontWeight = Bold

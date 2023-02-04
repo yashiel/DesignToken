@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Sat, 04 Feb 2023 13:41:18 GMT
+// Generated on Sat, 04 Feb 2023 13:49:09 GMT
 
 
 import UIKit
@@ -128,7 +128,7 @@ internal struct DesignSystemStruct {
     internal static let colorWarningW500 = UIColor(red: 0.612, green: 0.463, blue: 0.110, alpha: 1)
     internal static let colorWarningW75 = UIColor(red: 1.000, green: 0.902, blue: 0.663, alpha: 1)
     internal static let colorWhite = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
-    internal static let fontFamilyRoboto = Roboto
+    internal static let fontFamily = Roboto
     internal static let fontFillColor = UIColor(red: 0.024, green: 0.071, blue: 0.086, alpha: 1)
     internal static let fontShadeColor = UIColor(red: 0.757, green: 0.769, blue: 0.808, alpha: 1)
     internal static let fontSize0 = 10
@@ -336,8 +336,9 @@ internal struct DesignSystemStruct {
     internal static let textDecorationNone = none
     internal static let textDecorationUnderline = underline
     internal static let tokenSetOrder0 = globals
-    internal static let tokenSetOrder1 = Core/__buttons
-    internal static let tokenSetOrder2 = Core/__typography
+    internal static let tokenSetOrder1 = 0-core/__buttons
+    internal static let tokenSetOrder2 = 0-core/__typography
+    internal static let tokenSetOrder3 = 1-components
     internal static let xSmallBoldFontFamily = Roboto
     internal static let xSmallBoldFontSize = 10
     internal static let xSmallBoldFontWeight = Bold
