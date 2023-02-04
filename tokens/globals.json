@@ -554,10 +554,8 @@
     }
   },
   "fontFamily": {
-    "roboto": {
-      "value": "Roboto",
-      "type": "fontFamilies"
-    }
+    "value": "Roboto",
+    "type": "fontFamilies"
   },
   "lineHeight": {
     "120": {
