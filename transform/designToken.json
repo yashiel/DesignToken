@@ -1694,6 +1694,10 @@
     "3": {
       "value": "1-components",
       "type": "other"
+    },
+    "4": {
+      "value": "0-core/__layout",
+      "type": "other"
     }
   }
 }
