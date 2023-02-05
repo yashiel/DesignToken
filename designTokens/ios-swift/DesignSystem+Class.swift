@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Sun, 05 Feb 2023 17:26:14 GMT
+// Generated on Sun, 05 Feb 2023 17:30:13 GMT
 
 
 import UIKit
@@ -66,7 +66,7 @@ public class DesignSystemClass {
     public static let buttonSuccessClick = UIColor(red: 0.784, green: 0.902, blue: 0.671, alpha: 1)
     public static let buttonSuccessHover = UIColor(red: 0.333, green: 0.529, blue: 0.133, alpha: 1)
     public static let buttonSuccessHoverAlt = UIColor(red: 0.949, green: 0.976, blue: 0.918, alpha: 1)
-    public static let buttonTextWhite = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
+    public static let buttonTextWhite = UIColor(red: 0.573, green: 0.000, blue: 1.000, alpha: 1)
     public static let colorAccentA100 = UIColor(red: 0.616, green: 0.831, blue: 0.847, alpha: 1)
     public static let colorAccentA200 = UIColor(red: 0.451, green: 0.761, blue: 0.780, alpha: 1)
     public static let colorAccentA300 = UIColor(red: 0.337, green: 0.710, blue: 0.737, alpha: 1)
@@ -137,7 +137,7 @@ public class DesignSystemClass {
     public static let colorWarningW50 = UIColor(red: 1.000, green: 0.976, blue: 0.918, alpha: 1)
     public static let colorWarningW500 = UIColor(red: 0.612, green: 0.463, blue: 0.110, alpha: 1)
     public static let colorWarningW75 = UIColor(red: 1.000, green: 0.902, blue: 0.663, alpha: 1)
-    public static let colorWhite = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
+    public static let colorWhite = UIColor(red: 0.573, green: 0.000, blue: 1.000, alpha: 1)
     public static let fontDefaultColor = UIColor(red: 0.024, green: 0.071, blue: 0.086, alpha: 1)
     public static let fontFamily = Roboto
     public static let fontShadeColor = UIColor(red: 0.757, green: 0.769, blue: 0.808, alpha: 1)

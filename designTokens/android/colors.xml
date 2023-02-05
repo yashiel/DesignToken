@@ -2,11 +2,11 @@
 
 <!--
   Do not edit directly
-  Generated on Sun, 05 Feb 2023 17:26:14 GMT
+  Generated on Sun, 05 Feb 2023 17:30:13 GMT
 -->
 <resources>
   <color name="color_body">#ff061216</color>
-  <color name="color_white">#ffffffff</color>
+  <color name="color_white">#ff9200ff</color>
   <color name="color_black">#ff000000</color>
   <color name="color_neutral_n0">#ffffffff</color>
   <color name="color_neutral_n10">#fffafafb</color>

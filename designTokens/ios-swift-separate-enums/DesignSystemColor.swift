@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Sun, 05 Feb 2023 17:26:14 GMT
+// Generated on Sun, 05 Feb 2023 17:30:13 GMT
 
 
 import UIKit
@@ -80,5 +80,5 @@ public enum DesignSystemColor {
     public static let warningW50 = UIColor(red: 1.000, green: 0.976, blue: 0.918, alpha: 1)
     public static let warningW500 = UIColor(red: 0.612, green: 0.463, blue: 0.110, alpha: 1)
     public static let warningW75 = UIColor(red: 1.000, green: 0.902, blue: 0.663, alpha: 1)
-    public static let white = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
+    public static let white = UIColor(red: 0.573, green: 0.000, blue: 1.000, alpha: 1)
 }

@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Sun, 05 Feb 2023 17:26:14 GMT
+// Generated on Sun, 05 Feb 2023 17:30:13 GMT
 
 
 #import "DesignSystemColor.h"
@@ -22,7 +22,7 @@
   dispatch_once(&onceToken, ^{
     colorArray = @[
 [UIColor colorWithRed:0.024f green:0.071f blue:0.086f alpha:1.000f],
-[UIColor colorWithRed:1.000f green:1.000f blue:1.000f alpha:1.000f],
+[UIColor colorWithRed:0.573f green:0.000f blue:1.000f alpha:1.000f],
 [UIColor colorWithRed:0.000f green:0.000f blue:0.000f alpha:1.000f],
 [UIColor colorWithRed:1.000f green:1.000f blue:1.000f alpha:1.000f],
 [UIColor colorWithRed:0.980f green:0.980f blue:0.984f alpha:1.000f],
