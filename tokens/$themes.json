@@ -89,5 +89,16 @@
       "layout.background.secondary": "S:e0f5bc6b9095f416397c369728d2d3d2071262b6,",
       "layout.background.accent": "S:6127c2f04d2786b16021a467dc07aab9b4832037,"
     }
+  },
+  {
+    "id": "3a49516c670f162d27f31fbc114c593e825190fa",
+    "name": "Dark",
+    "selectedTokenSets": {
+      "globals": "source",
+      "0-core/__layout": "enabled",
+      "0-core/__buttons": "enabled",
+      "0-core/__typography": "enabled"
+    },
+    "$figmaStyleReferences": {}
   }
 ]
