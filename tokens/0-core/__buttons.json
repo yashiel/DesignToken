@@ -2,7 +2,7 @@
   "button": {
     "primary": {
       "active": {
-        "value": "{color.Accent.A300}",
+        "value": "{color.Info.I500}",
         "type": "color"
       },
       "hover": {
