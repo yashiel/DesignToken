@@ -44,6 +44,6 @@ jobs:
           source-files: 'designTokens/'
           destination-username: 'JanakaPrasadMMM'
           destination-repository: 'loop-ux'
-          destination-branch: 'dev'
+          destination-branch: 'supun-dev'
           destination-directory: 'src/styles/'
           commit-email: 'hi@yashiel.com'
