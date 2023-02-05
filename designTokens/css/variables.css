@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Sun, 05 Feb 2023 17:30:13 GMT
+ * Generated on Sun, 05 Feb 2023 17:33:04 GMT
  */
 
 :root {
@@ -202,7 +202,7 @@
   --button-border-success-hover: [object Object];
   --button-border-danger-active: [object Object];
   --button-border-danger-hover: [object Object];
-  --button-text-white: #9200ff;
+  --button-text-white: #ffffff;
   --button-success-active: #79c131;
   --button-success-hover: #558722;
   --button-success-hover-alt: #f2f9ea;
@@ -292,7 +292,7 @@
   --text-decoration-none: none;
   --text-decoration-underline: underline;
   --color-body: #061216;
-  --color-white: #9200ff;
+  --color-white: #ffffff;
   --color-black: #000000;
   --color-neutral-n0: #ffffff;
   --color-neutral-n10: #fafafb;
