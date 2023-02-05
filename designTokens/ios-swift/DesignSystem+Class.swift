@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Sun, 05 Feb 2023 17:20:33 GMT
+// Generated on Sun, 05 Feb 2023 17:23:17 GMT
 
 
 import UIKit
@@ -54,7 +54,7 @@ public class DesignSystemClass {
     public static let buttonInfoClick = UIColor(red: 0.639, green: 0.863, blue: 0.992, alpha: 1)
     public static let buttonInfoHover = UIColor(red: 0.082, green: 0.467, blue: 0.682, alpha: 1)
     public static let buttonInfoHoverAlt = UIColor(red: 0.914, green: 0.969, blue: 0.996, alpha: 1)
-    public static let buttonPrimaryActive = UIColor(red: 0.071, green: 0.408, blue: 0.596, alpha: 1)
+    public static let buttonPrimaryActive = UIColor(red: 0.337, green: 0.710, blue: 0.737, alpha: 1)
     public static let buttonPrimaryClick = UIColor(red: 0.729, green: 0.882, blue: 0.894, alpha: 1)
     public static let buttonPrimaryHover = UIColor(red: 0.235, green: 0.498, blue: 0.518, alpha: 1)
     public static let buttonPrimaryHoverAlt = UIColor(red: 0.933, green: 0.973, blue: 0.973, alpha: 1)

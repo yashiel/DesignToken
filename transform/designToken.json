@@ -830,7 +830,7 @@
   "button": {
     "primary": {
       "active": {
-        "value": "{color.Info.I500}",
+        "value": "{color.Accent.A300}",
         "type": "color"
       },
       "hover": {
@@ -888,7 +888,7 @@
       "primary": {
         "active": {
           "value": {
-            "color": "#126898",
+            "color": "#56b5bc",
             "width": 1,
             "style": "solid"
           },
