@@ -1139,6 +1139,14 @@
       }
     }
   },
+  "color": {
+    "neutral": {
+      "10": {
+        "value": "{neutral.N10}",
+        "type": "color"
+      }
+    }
+  },
   "spacing": {
     "2": {
       "value": 2,

@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Mon, 06 Feb 2023 08:42:45 GMT
+// Generated on Mon, 06 Feb 2023 15:57:59 GMT
 
 
 import UIKit
@@ -94,6 +94,7 @@ internal struct DesignSystemStruct {
     internal static let buttonSuccessHover = #558722
     internal static let buttonSuccessHoverAlt = #f2f9ea
     internal static let buttonTextWhite = #fff
+    internal static let colorNeutral10 = #fafafb
     internal static let dangerD100 = #f58787
     internal static let dangerD200 = #f05353
     internal static let dangerD300 = #ed3030

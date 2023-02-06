@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Mon, 06 Feb 2023 08:42:45 GMT
+// Generated on Mon, 06 Feb 2023 15:57:59 GMT
 
 
 import UIKit
@@ -94,6 +94,7 @@ public class DesignSystemClass {
     public static let buttonSuccessHover = #558722
     public static let buttonSuccessHoverAlt = #f2f9ea
     public static let buttonTextWhite = #fff
+    public static let colorNeutral10 = #fafafb
     public static let dangerD100 = #f58787
     public static let dangerD200 = #f05353
     public static let dangerD300 = #ed3030
