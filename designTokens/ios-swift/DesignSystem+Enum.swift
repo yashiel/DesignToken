@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Mon, 06 Feb 2023 19:19:58 GMT
+// Generated on Mon, 06 Feb 2023 19:37:30 GMT
 
 
 import UIKit
@@ -81,7 +81,7 @@ public enum DesignSystemEnum {
     public static let buttonInfoClick = #a3dcfd
     public static let buttonInfoHover = #1577ae
     public static let buttonInfoHoverAlt = #e9f7fe
-    public static let buttonPrimaryActive = #8d1df2
+    public static let buttonPrimaryActive = #56b5bc
     public static let buttonPrimaryClick = #bae1e4
     public static let buttonPrimaryHover = #3c7f84
     public static let buttonPrimaryHoverAlt = #eef8f8
