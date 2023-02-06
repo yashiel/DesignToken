@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Mon, 06 Feb 2023 15:57:59 GMT
+// Generated on Mon, 06 Feb 2023 19:09:56 GMT
 
 
 import UIKit
@@ -81,7 +81,7 @@ internal struct DesignSystemStruct {
     internal static let buttonInfoClick = #a3dcfd
     internal static let buttonInfoHover = #1577ae
     internal static let buttonInfoHoverAlt = #e9f7fe
-    internal static let buttonPrimaryActive = #56b5bc
+    internal static let buttonPrimaryActive = #710ff2
     internal static let buttonPrimaryClick = #bae1e4
     internal static let buttonPrimaryHover = #3c7f84
     internal static let buttonPrimaryHoverAlt = #eef8f8

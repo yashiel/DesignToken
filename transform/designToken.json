@@ -830,7 +830,7 @@
   "button": {
     "primary": {
       "active": {
-        "value": "{accent.A300}",
+        "value": "#710ff2",
         "type": "color"
       },
       "hover": {
@@ -888,7 +888,7 @@
       "primary": {
         "active": {
           "value": {
-            "color": "#56b5bc",
+            "color": "#710ff2",
             "width": 1,
             "style": "solid"
           },
