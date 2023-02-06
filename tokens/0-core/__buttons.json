@@ -2,42 +2,42 @@
   "button": {
     "primary": {
       "active": {
-        "value": "{color.Accent.A300}",
+        "value": "{accent.A300}",
         "type": "color"
       },
       "hover": {
-        "value": "{color.Accent.A400}",
+        "value": "{accent.A400}",
         "type": "color"
       },
       "hover-alt": {
-        "value": "{color.Accent.A50}",
+        "value": "{accent.A50}",
         "type": "color"
       },
       "click": {
-        "value": "{color.Accent.A75}",
+        "value": "{accent.A75}",
         "type": "color"
       }
     },
     "secondary": {
       "active": {
-        "value": "{color.Secondary.S300}",
+        "value": "{secondary.S300}",
         "type": "color"
       },
       "hover": {
-        "value": "{color.Secondary.S400}",
+        "value": "{secondary.S400}",
         "type": "color"
       },
       "hover-alt": {
-        "value": "{color.Secondary.S50}",
+        "value": "{secondary.S50}",
         "type": "color"
       },
       "click": {
-        "value": "{color.Secondary.S75}",
+        "value": "{secondary.S75}",
         "type": "color"
       }
     },
     "disabled": {
-      "value": "{color.Neutral.N50}",
+      "value": "{neutral.N50}",
       "type": "color"
     },
     "borderRadius": {
@@ -132,61 +132,61 @@
     },
     "text": {
       "white": {
-        "value": "{color.White}",
+        "value": "{white}",
         "type": "color"
       }
     },
     "success": {
       "active": {
-        "value": "{color.Success.S300}",
+        "value": "{success.S300}",
         "type": "color"
       },
       "hover": {
-        "value": "{color.Success.S400}",
+        "value": "{success.S400}",
         "type": "color"
       },
       "hover-alt": {
-        "value": "{color.Success.S50}",
+        "value": "{success.S50}",
         "type": "color"
       },
       "click": {
-        "value": "{color.Success.S75}",
+        "value": "{success.S75}",
         "type": "color"
       }
     },
     "danger": {
       "active": {
-        "value": "{color.Danger.D300}",
+        "value": "{danger.D300}",
         "type": "color"
       },
       "hover": {
-        "value": "{color.Danger.D400}",
+        "value": "{danger.D400}",
         "type": "color"
       },
       "hover-alt": {
-        "value": "{color.Danger.D50}",
+        "value": "{danger.D50}",
         "type": "color"
       },
       "click": {
-        "value": "{color.Danger.D75}",
+        "value": "{danger.D75}",
         "type": "color"
       }
     },
     "info": {
       "active": {
-        "value": "{color.Info.I300}",
+        "value": "{Info.I300}",
         "type": "color"
       },
       "hover": {
-        "value": "{color.Info.I400}",
+        "value": "{Info.I400}",
         "type": "color"
       },
       "hover-alt": {
-        "value": "{color.Info.I50}",
+        "value": "{Info.I50}",
         "type": "color"
       },
       "click": {
-        "value": "{color.Info.I75}",
+        "value": "{Info.I75}",
         "type": "color"
       }
     }

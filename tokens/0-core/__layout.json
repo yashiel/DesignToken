@@ -86,35 +86,35 @@
     },
     "background": {
       "N10": {
-        "value": "{color.Neutral.N10}",
+        "value": "{neutral.N10}",
         "type": "color"
       },
       "N20": {
-        "value": "{color.Neutral.N20}",
+        "value": "{neutral.N20}",
         "type": "color"
       },
       "N30": {
-        "value": "{color.Neutral.N30}",
+        "value": "{neutral.N30}",
         "type": "color"
       },
       "N40": {
-        "value": "{color.Neutral.N40}",
+        "value": "{neutral.N40}",
         "type": "color"
       },
       "N50": {
-        "value": "{color.Neutral.N50}",
+        "value": "{neutral.N50}",
         "type": "color"
       },
       "primary": {
-        "value": "{color.Primary.P50}",
+        "value": "{primary.P50}",
         "type": "color"
       },
       "secondary": {
-        "value": "{color.Secondary.S50}",
+        "value": "{secondary.S50}",
         "type": "color"
       },
       "accent": {
-        "value": "{color.Accent.A50}",
+        "value": "{accent.A50}",
         "type": "color"
       }
     }

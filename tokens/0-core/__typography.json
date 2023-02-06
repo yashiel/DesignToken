@@ -420,13 +420,13 @@
   "font": {
     "default": {
       "color": {
-        "value": "{color.Body}",
+        "value": "{body}",
         "type": "color"
       }
     },
     "shade": {
       "color": {
-        "value": "{color.Neutral.N50}",
+        "value": "{neutral.N50}",
         "type": "color"
       }
     }
