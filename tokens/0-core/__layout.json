@@ -68,19 +68,19 @@
     },
     "borderRadius": {
       "sm": {
-        "value": "{borderRadius.sm}",
+        "value": "{sm}",
         "type": "borderRadius"
       },
       "md": {
-        "value": "{borderRadius.md}",
+        "value": "{md}",
         "type": "borderRadius"
       },
       "lg": {
-        "value": "{borderRadius.lg}",
+        "value": "{lg}",
         "type": "borderRadius"
       },
       "xl": {
-        "value": "{borderRadius.xl}",
+        "value": "{xl}",
         "type": "borderRadius"
       }
     },
