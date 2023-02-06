@@ -1,22 +1,9 @@
 /**
  * Do not edit directly
- * Generated on Mon, 06 Feb 2023 08:29:47 GMT
+ * Generated on Mon, 06 Feb 2023 08:42:45 GMT
  */
 
 :root {
-  --10: 0.714rem;
-  --11: 0.786rem;
-  --12: 0.857rem;
-  --14: 1.000rem;
-  --16: 1.143rem;
-  --18: 1.286rem;
-  --20: 1.429rem;
-  --22: 1.571rem;
-  --25: 1.786rem;
-  --28: 2.000rem;
-  --32: 2.286rem;
-  --140: 140%;
-  --150: 150%;
   --h1-regular-font-family: Roboto;
   --h1-regular-font-weight: Regular;
   --h1-regular-line-height: 140%;
@@ -374,6 +361,19 @@
   --info-i400: #1577ae;
   --info-i500: #126898;
   --font-family: Roboto;
+  --140: 140%;
+  --150: 150%;
+  --10px: 0.714rem;
+  --11px: 0.786rem;
+  --12px: 0.857rem;
+  --14px: 1.000rem;
+  --16px: 1.143rem;
+  --18px: 1.286rem;
+  --20px: 1.429rem;
+  --22px: 1.571rem;
+  --25px: 1.786rem;
+  --28px: 2.000rem;
+  --32px: 2.286rem;
   --letter-spacing-0: 0%;
   --size-400: 28.571428571428573rem;
   --size-500: 35.714285714285715rem;

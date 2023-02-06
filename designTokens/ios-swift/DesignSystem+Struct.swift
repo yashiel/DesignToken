@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Mon, 06 Feb 2023 08:29:47 GMT
+// Generated on Mon, 06 Feb 2023 08:42:45 GMT
 
 
 import UIKit
@@ -12,23 +12,23 @@ import UIKit
 internal struct DesignSystemStruct {
     internal static let 01 = 1
     internal static let 02 = 2
-    internal static let 10 = 10
     internal static let 10 = 10%
     internal static let 100 = 100%
-    internal static let 11 = 11
-    internal static let 12 = 12
-    internal static let 14 = 14
+    internal static let 10px = 10
+    internal static let 11px = 11
+    internal static let 12px = 12
     internal static let 140 = 140%
+    internal static let 14px = 14
     internal static let 150 = 150%
-    internal static let 16 = 16
-    internal static let 18 = 18
-    internal static let 20 = 20
+    internal static let 16px = 16
+    internal static let 18px = 18
     internal static let 20 = 20%
-    internal static let 22 = 22
-    internal static let 25 = 25
-    internal static let 28 = 28
+    internal static let 20px = 20
+    internal static let 22px = 22
+    internal static let 25px = 25
+    internal static let 28px = 28
     internal static let 30 = 30%
-    internal static let 32 = 32
+    internal static let 32px = 32
     internal static let 40 = 40%
     internal static let 50 = 50%
     internal static let 60 = 60%

@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Mon, 06 Feb 2023 08:29:47 GMT
+// Generated on Mon, 06 Feb 2023 08:42:45 GMT
 
 
 import UIKit
@@ -12,23 +12,23 @@ import UIKit
 public enum DesignSystemEnum {
     public static let 01 = 1
     public static let 02 = 2
-    public static let 10 = 10
     public static let 10 = 10%
     public static let 100 = 100%
-    public static let 11 = 11
-    public static let 12 = 12
-    public static let 14 = 14
+    public static let 10px = 10
+    public static let 11px = 11
+    public static let 12px = 12
     public static let 140 = 140%
+    public static let 14px = 14
     public static let 150 = 150%
-    public static let 16 = 16
-    public static let 18 = 18
-    public static let 20 = 20
+    public static let 16px = 16
+    public static let 18px = 18
     public static let 20 = 20%
-    public static let 22 = 22
-    public static let 25 = 25
-    public static let 28 = 28
+    public static let 20px = 20
+    public static let 22px = 22
+    public static let 25px = 25
+    public static let 28px = 28
     public static let 30 = 30%
-    public static let 32 = 32
+    public static let 32px = 32
     public static let 40 = 40%
     public static let 50 = 50%
     public static let 60 = 60%
