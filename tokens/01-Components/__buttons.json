@@ -42,11 +42,11 @@
     },
     "borderRadius": {
       "sm": {
-        "value": "{sm}",
+        "value": "{4}",
         "type": "borderRadius"
       },
       "xxxl": {
-        "value": "{xxxl}",
+        "value": "{24}",
         "type": "borderRadius"
       }
     },

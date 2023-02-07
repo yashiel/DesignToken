@@ -1,4 +1,42 @@
 {
+  "4": {
+    "value": "4",
+    "type": "borderRadius",
+    "description": "borderRadius-4"
+  },
+  "8": {
+    "value": "8",
+    "type": "borderRadius",
+    "description": "borderRadius-8"
+  },
+  "12": {
+    "value": "12",
+    "type": "borderRadius",
+    "description": "borderRadius- 12"
+  },
+  "16": {
+    "value": "16",
+    "type": "borderRadius",
+    "description": "borderRadius- 16"
+  },
+  "20": {
+    "value": "20",
+    "type": "borderRadius",
+    "description": "borderRadius.20"
+  },
+  "24": {
+    "value": "24",
+    "type": "borderRadius",
+    "description": "borderRadius.24"
+  },
+  "28": {
+    "value": "28",
+    "type": "borderRadius"
+  },
+  "32": {
+    "value": "32",
+    "type": "borderRadius"
+  },
   "spacing": {
     "2": {
       "value": "2",
@@ -105,36 +143,6 @@
       "type": "spacing",
       "description": "space-80"
     }
-  },
-  "sm": {
-    "value": "4",
-    "type": "borderRadius",
-    "description": "borderRadius-4"
-  },
-  "md": {
-    "value": "8",
-    "type": "borderRadius",
-    "description": "borderRadius-8"
-  },
-  "lg": {
-    "value": "12",
-    "type": "borderRadius",
-    "description": "borderRadius- 12"
-  },
-  "xl": {
-    "value": "16",
-    "type": "borderRadius",
-    "description": "borderRadius- 16"
-  },
-  "xxl": {
-    "value": "20",
-    "type": "borderRadius",
-    "description": "borderRadius.20"
-  },
-  "xxxl": {
-    "value": "24",
-    "type": "borderRadius",
-    "description": "borderRadius.24"
   },
   "Bold": {
     "value": "Bold",

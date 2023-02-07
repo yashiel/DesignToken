@@ -67,28 +67,36 @@
       }
     },
     "borderRadius": {
-      "sm": {
-        "value": "{sm}",
+      "4": {
+        "value": "{4}",
         "type": "borderRadius"
       },
-      "md": {
-        "value": "{md}",
+      "8": {
+        "value": "{8}",
         "type": "borderRadius"
       },
-      "lg": {
-        "value": "{lg}",
+      "12": {
+        "value": "{12}",
         "type": "borderRadius"
       },
-      "xl": {
-        "value": "{xl}",
+      "16": {
+        "value": "{16}",
         "type": "borderRadius"
       },
-      "xxl": {
-        "value": "{xxl}",
+      "20": {
+        "value": "{20}",
         "type": "borderRadius"
       },
-      "xxxl": {
-        "value": "{xxxl}",
+      "24": {
+        "value": "{24}",
+        "type": "borderRadius"
+      },
+      "28": {
+        "value": "{28}",
+        "type": "borderRadius"
+      },
+      "32": {
+        "value": "{32}",
         "type": "borderRadius"
       }
     },
