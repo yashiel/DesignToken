@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 07 Feb 2023 04:24:14 GMT
+// Generated on Tue, 07 Feb 2023 04:50:38 GMT
 
 
 import UIKit
@@ -94,7 +94,73 @@ internal struct DesignSystemStruct {
     internal static let buttonSuccessHover = #558722
     internal static let buttonSuccessHoverAlt = #f2f9ea
     internal static let buttonTextWhite = #fff
+    internal static let colorAccent100 = #9dd4d8
+    internal static let colorAccent200 = #73c2c7
+    internal static let colorAccent300 = #56b5bc
+    internal static let colorAccent400 = #3c7f84
+    internal static let colorAccent50 = #eef8f8
+    internal static let colorAccent500 = #346e73
+    internal static let colorAccent75 = #bae1e4
+    internal static let colorDanger100 = #f58787
+    internal static let colorDanger200 = #f05353
+    internal static let colorDanger300 = #ed3030
+    internal static let colorDanger400 = #a62222
+    internal static let colorDanger50 = #fdeaea
+    internal static let colorDanger500 = #911d1d
+    internal static let colorDanger75 = #f8aaaa
+    internal static let colorInfo100 = #7dcefc
+    internal static let colorInfo200 = #44b8fa
+    internal static let colorInfo300 = #1eaaf9
+    internal static let colorInfo400 = #1577ae
+    internal static let colorInfo50 = #e9f7fe
+    internal static let colorInfo500 = #126898
+    internal static let colorInfo75 = #a3dcfd
     internal static let colorNeutral10 = #fafafb
+    internal static let colorNeutral100 = #787e95
+    internal static let colorNeutral20 = #f5f5f7
+    internal static let colorNeutral200 = #697089
+    internal static let colorNeutral30 = #ebecef
+    internal static let colorNeutral300 = #5a627d
+    internal static let colorNeutral40 = #dfe0e5
+    internal static let colorNeutral400 = #4e5673
+    internal static let colorNeutral50 = #c1c4ce
+    internal static let colorNeutral500 = #3f4867
+    internal static let colorNeutral60 = #b2b5c2
+    internal static let colorNeutral600 = #323c5d
+    internal static let colorNeutral70 = #a5a9b8
+    internal static let colorNeutral700 = #212b50
+    internal static let colorNeutral80 = #969bac
+    internal static let colorNeutral800 = #121d44
+    internal static let colorNeutral90 = #878da0
+    internal static let colorNeutral900 = #05113a
+    internal static let colorPrimary100 = #6c8b94
+    internal static let colorPrimary200 = #2d5966
+    internal static let colorPrimary300 = #023747
+    internal static let colorPrimary400 = #012732
+    internal static let colorPrimary50 = #e6ebed
+    internal static let colorPrimary500 = #01222b
+    internal static let colorPrimary75 = #97adb4
+    internal static let colorSecondary100 = #f6bcaa
+    internal static let colorSecondary200 = #f29f86
+    internal static let colorSecondary300 = #ef8b6d
+    internal static let colorSecondary400 = #a7614c
+    internal static let colorSecondary50 = #fdf3f0
+    internal static let colorSecondary500 = #925542
+    internal static let colorSecondary75 = #f8cfc3
+    internal static let colorSuccess100 = #b1db88
+    internal static let colorSuccess200 = #90cc54
+    internal static let colorSuccess300 = #79c131
+    internal static let colorSuccess400 = #558722
+    internal static let colorSuccess50 = #f2f9ea
+    internal static let colorSuccess500 = #4a761e
+    internal static let colorSuccess75 = #c8e6ab
+    internal static let colorWarning100 = #ffdb86
+    internal static let colorWarning200 = #ffcc52
+    internal static let colorWarning300 = #ffc12e
+    internal static let colorWarning400 = #b38720
+    internal static let colorWarning50 = #fff9ea
+    internal static let colorWarning500 = #9c761c
+    internal static let colorWarning75 = #ffe6a9
     internal static let dangerD100 = #f58787
     internal static let dangerD200 = #f05353
     internal static let dangerD300 = #ed3030
@@ -109,7 +175,9 @@ internal struct DesignSystemStruct {
     internal static let fontColorShadeSecondary = #a7614c
     internal static let fontColorShadeSuccess = #558722
     internal static let fontColorShadeWarning = #b38720
+    internal static let fontDefaultBlack = #000000
     internal static let fontDefaultColor = #061216
+    internal static let fontDefaultWhite = #fff
     internal static let fontFamily = Roboto
     internal static let fontTint01 = #c1c4ce
     internal static let fontTint02 = #b2b5c2

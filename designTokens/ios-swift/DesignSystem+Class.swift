@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 07 Feb 2023 04:24:14 GMT
+// Generated on Tue, 07 Feb 2023 04:50:38 GMT
 
 
 import UIKit
@@ -94,7 +94,73 @@ public class DesignSystemClass {
     public static let buttonSuccessHover = #558722
     public static let buttonSuccessHoverAlt = #f2f9ea
     public static let buttonTextWhite = #fff
+    public static let colorAccent100 = #9dd4d8
+    public static let colorAccent200 = #73c2c7
+    public static let colorAccent300 = #56b5bc
+    public static let colorAccent400 = #3c7f84
+    public static let colorAccent50 = #eef8f8
+    public static let colorAccent500 = #346e73
+    public static let colorAccent75 = #bae1e4
+    public static let colorDanger100 = #f58787
+    public static let colorDanger200 = #f05353
+    public static let colorDanger300 = #ed3030
+    public static let colorDanger400 = #a62222
+    public static let colorDanger50 = #fdeaea
+    public static let colorDanger500 = #911d1d
+    public static let colorDanger75 = #f8aaaa
+    public static let colorInfo100 = #7dcefc
+    public static let colorInfo200 = #44b8fa
+    public static let colorInfo300 = #1eaaf9
+    public static let colorInfo400 = #1577ae
+    public static let colorInfo50 = #e9f7fe
+    public static let colorInfo500 = #126898
+    public static let colorInfo75 = #a3dcfd
     public static let colorNeutral10 = #fafafb
+    public static let colorNeutral100 = #787e95
+    public static let colorNeutral20 = #f5f5f7
+    public static let colorNeutral200 = #697089
+    public static let colorNeutral30 = #ebecef
+    public static let colorNeutral300 = #5a627d
+    public static let colorNeutral40 = #dfe0e5
+    public static let colorNeutral400 = #4e5673
+    public static let colorNeutral50 = #c1c4ce
+    public static let colorNeutral500 = #3f4867
+    public static let colorNeutral60 = #b2b5c2
+    public static let colorNeutral600 = #323c5d
+    public static let colorNeutral70 = #a5a9b8
+    public static let colorNeutral700 = #212b50
+    public static let colorNeutral80 = #969bac
+    public static let colorNeutral800 = #121d44
+    public static let colorNeutral90 = #878da0
+    public static let colorNeutral900 = #05113a
+    public static let colorPrimary100 = #6c8b94
+    public static let colorPrimary200 = #2d5966
+    public static let colorPrimary300 = #023747
+    public static let colorPrimary400 = #012732
+    public static let colorPrimary50 = #e6ebed
+    public static let colorPrimary500 = #01222b
+    public static let colorPrimary75 = #97adb4
+    public static let colorSecondary100 = #f6bcaa
+    public static let colorSecondary200 = #f29f86
+    public static let colorSecondary300 = #ef8b6d
+    public static let colorSecondary400 = #a7614c
+    public static let colorSecondary50 = #fdf3f0
+    public static let colorSecondary500 = #925542
+    public static let colorSecondary75 = #f8cfc3
+    public static let colorSuccess100 = #b1db88
+    public static let colorSuccess200 = #90cc54
+    public static let colorSuccess300 = #79c131
+    public static let colorSuccess400 = #558722
+    public static let colorSuccess50 = #f2f9ea
+    public static let colorSuccess500 = #4a761e
+    public static let colorSuccess75 = #c8e6ab
+    public static let colorWarning100 = #ffdb86
+    public static let colorWarning200 = #ffcc52
+    public static let colorWarning300 = #ffc12e
+    public static let colorWarning400 = #b38720
+    public static let colorWarning50 = #fff9ea
+    public static let colorWarning500 = #9c761c
+    public static let colorWarning75 = #ffe6a9
     public static let dangerD100 = #f58787
     public static let dangerD200 = #f05353
     public static let dangerD300 = #ed3030
@@ -109,7 +175,9 @@ public class DesignSystemClass {
     public static let fontColorShadeSecondary = #a7614c
     public static let fontColorShadeSuccess = #558722
     public static let fontColorShadeWarning = #b38720
+    public static let fontDefaultBlack = #000000
     public static let fontDefaultColor = #061216
+    public static let fontDefaultWhite = #fff
     public static let fontFamily = Roboto
     public static let fontTint01 = #c1c4ce
     public static let fontTint02 = #b2b5c2
