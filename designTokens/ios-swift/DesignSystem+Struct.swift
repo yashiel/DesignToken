@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 07 Feb 2023 04:57:10 GMT
+// Generated on Tue, 07 Feb 2023 05:57:40 GMT
 
 
 import UIKit
@@ -61,6 +61,12 @@ internal struct DesignSystemStruct {
     internal static let black = #000000
     internal static let body = #061216
     internal static let bold = Bold
+    internal static let btnSpacing12 = 12
+    internal static let btnSpacing16 = 16
+    internal static let btnSpacing20 = 20
+    internal static let btnSpacing24 = 24
+    internal static let btnSpacing4 = 4
+    internal static let btnSpacing8 = 8
     internal static let buttonBorderDangerActive = [object Object]
     internal static let buttonBorderDangerHover = [object Object]
     internal static let buttonBorderPrimaryActive = [object Object]
@@ -325,10 +331,19 @@ internal struct DesignSystemStruct {
     internal static let layoutBackgroundN50 = #c1c4ce
     internal static let layoutBackgroundPrimary = #e6ebed
     internal static let layoutBackgroundSecondary = #fdf3f0
+    internal static let layoutBackgroundWhite = #fff
     internal static let layoutBorderRadiusLg = 12
     internal static let layoutBorderRadiusMd = 8
     internal static let layoutBorderRadiusSm = 4
     internal static let layoutBorderRadiusXl = 16
+    internal static let layoutSize12 = CGFloat(192.00)
+    internal static let layoutSize16 = CGFloat(256.00)
+    internal static let layoutSize20 = CGFloat(320.00)
+    internal static let layoutSize24 = CGFloat(384.00)
+    internal static let layoutSize28 = CGFloat(448.00)
+    internal static let layoutSize32 = CGFloat(512.00)
+    internal static let layoutSize4 = CGFloat(64.00)
+    internal static let layoutSize8 = CGFloat(128.00)
     internal static let layoutSpacing12 = 12
     internal static let layoutSpacing16 = 16
     internal static let layoutSpacing2 = 2
@@ -384,10 +399,18 @@ internal struct DesignSystemStruct {
     internal static let secondaryS500 = #925542
     internal static let secondaryS75 = #f8cfc3
     internal static let semiBold = SemiBold
+    internal static let size12 = CGFloat(192.00)
+    internal static let size16 = CGFloat(256.00)
+    internal static let size20 = CGFloat(320.00)
+    internal static let size24 = CGFloat(384.00)
+    internal static let size28 = CGFloat(448.00)
+    internal static let size32 = CGFloat(512.00)
+    internal static let size4 = CGFloat(64.00)
     internal static let size400 = CGFloat(6400.00)
     internal static let size500 = CGFloat(8000.00)
     internal static let size600 = CGFloat(9600.00)
     internal static let size700 = CGFloat(11200.00)
+    internal static let size8 = CGFloat(128.00)
     internal static let size800 = CGFloat(12800.00)
     internal static let size900 = CGFloat(14400.00)
     internal static let sm = 4
@@ -436,11 +459,10 @@ internal struct DesignSystemStruct {
     internal static let successS500 = #4a761e
     internal static let successS75 = #c8e6ab
     internal static let tokenSetOrder0 = globals
-    internal static let tokenSetOrder1 = 0-core/__colors
-    internal static let tokenSetOrder2 = 0-core/__layout
-    internal static let tokenSetOrder3 = 0-core/__buttons
-    internal static let tokenSetOrder4 = 0-core/__typography
-    internal static let tokenSetOrder5 = 1-components
+    internal static let tokenSetOrder1 = 00-Core/__colors
+    internal static let tokenSetOrder2 = 00-Core/__layout
+    internal static let tokenSetOrder3 = 00-Core/__typography
+    internal static let tokenSetOrder4 = 01-Components/__buttons
     internal static let underline = underline
     internal static let uppercase = uppercase
     internal static let warningW100 = #ffdb86

@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 07 Feb 2023 04:57:10 GMT
+// Generated on Tue, 07 Feb 2023 05:57:40 GMT
 
 
 import UIKit
@@ -61,6 +61,12 @@ public enum DesignSystemEnum {
     public static let black = #000000
     public static let body = #061216
     public static let bold = Bold
+    public static let btnSpacing12 = 12
+    public static let btnSpacing16 = 16
+    public static let btnSpacing20 = 20
+    public static let btnSpacing24 = 24
+    public static let btnSpacing4 = 4
+    public static let btnSpacing8 = 8
     public static let buttonBorderDangerActive = [object Object]
     public static let buttonBorderDangerHover = [object Object]
     public static let buttonBorderPrimaryActive = [object Object]
@@ -325,10 +331,19 @@ public enum DesignSystemEnum {
     public static let layoutBackgroundN50 = #c1c4ce
     public static let layoutBackgroundPrimary = #e6ebed
     public static let layoutBackgroundSecondary = #fdf3f0
+    public static let layoutBackgroundWhite = #fff
     public static let layoutBorderRadiusLg = 12
     public static let layoutBorderRadiusMd = 8
     public static let layoutBorderRadiusSm = 4
     public static let layoutBorderRadiusXl = 16
+    public static let layoutSize12 = CGFloat(192.00)
+    public static let layoutSize16 = CGFloat(256.00)
+    public static let layoutSize20 = CGFloat(320.00)
+    public static let layoutSize24 = CGFloat(384.00)
+    public static let layoutSize28 = CGFloat(448.00)
+    public static let layoutSize32 = CGFloat(512.00)
+    public static let layoutSize4 = CGFloat(64.00)
+    public static let layoutSize8 = CGFloat(128.00)
     public static let layoutSpacing12 = 12
     public static let layoutSpacing16 = 16
     public static let layoutSpacing2 = 2
@@ -384,10 +399,18 @@ public enum DesignSystemEnum {
     public static let secondaryS500 = #925542
     public static let secondaryS75 = #f8cfc3
     public static let semiBold = SemiBold
+    public static let size12 = CGFloat(192.00)
+    public static let size16 = CGFloat(256.00)
+    public static let size20 = CGFloat(320.00)
+    public static let size24 = CGFloat(384.00)
+    public static let size28 = CGFloat(448.00)
+    public static let size32 = CGFloat(512.00)
+    public static let size4 = CGFloat(64.00)
     public static let size400 = CGFloat(6400.00)
     public static let size500 = CGFloat(8000.00)
     public static let size600 = CGFloat(9600.00)
     public static let size700 = CGFloat(11200.00)
+    public static let size8 = CGFloat(128.00)
     public static let size800 = CGFloat(12800.00)
     public static let size900 = CGFloat(14400.00)
     public static let sm = 4
@@ -436,11 +459,10 @@ public enum DesignSystemEnum {
     public static let successS500 = #4a761e
     public static let successS75 = #c8e6ab
     public static let tokenSetOrder0 = globals
-    public static let tokenSetOrder1 = 0-core/__colors
-    public static let tokenSetOrder2 = 0-core/__layout
-    public static let tokenSetOrder3 = 0-core/__buttons
-    public static let tokenSetOrder4 = 0-core/__typography
-    public static let tokenSetOrder5 = 1-components
+    public static let tokenSetOrder1 = 00-Core/__colors
+    public static let tokenSetOrder2 = 00-Core/__layout
+    public static let tokenSetOrder3 = 00-Core/__typography
+    public static let tokenSetOrder4 = 01-Components/__buttons
     public static let underline = underline
     public static let uppercase = uppercase
     public static let warningW100 = #ffdb86
