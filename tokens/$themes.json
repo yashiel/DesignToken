@@ -4,9 +4,10 @@
     "name": "Dark",
     "selectedTokenSets": {
       "globals": "source",
-      "0-core/__layout": "enabled",
-      "0-core/__buttons": "enabled",
-      "0-core/__typography": "enabled"
+      "01-Components/__buttons": "enabled",
+      "00-Core/__colors": "disabled",
+      "00-Core/__layout": "enabled",
+      "00-Core/__typography": "enabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -15,10 +16,10 @@
     "name": "Default",
     "selectedTokenSets": {
       "globals": "source",
-      "0-core/__buttons": "enabled",
-      "0-core/__typography": "enabled",
-      "0-core/__layout": "enabled",
-      "0-core/__colors": "enabled"
+      "01-Components/__buttons": "enabled",
+      "00-Core/__colors": "enabled",
+      "00-Core/__layout": "enabled",
+      "00-Core/__typography": "enabled"
     },
     "$figmaStyleReferences": {
       "font.fill.color": "S:1ef2fc8b8082de6ee24f766d0e101440d59adc0c,",

@@ -116,6 +116,44 @@
       "accent": {
         "value": "{accent.A50}",
         "type": "color"
+      },
+      "white": {
+        "value": "{white}",
+        "type": "color"
+      }
+    },
+    "size": {
+      "4": {
+        "value": "{size.4}",
+        "type": "sizing"
+      },
+      "8": {
+        "value": "{size.8}",
+        "type": "sizing"
+      },
+      "12": {
+        "value": "{size.12}",
+        "type": "sizing"
+      },
+      "16": {
+        "value": "{size.16}",
+        "type": "sizing"
+      },
+      "20": {
+        "value": "{size.20}",
+        "type": "sizing"
+      },
+      "24": {
+        "value": "{size.24}",
+        "type": "sizing"
+      },
+      "28": {
+        "value": "{size.28}",
+        "type": "sizing"
+      },
+      "32": {
+        "value": "{size.32}",
+        "type": "sizing"
       }
     }
   }

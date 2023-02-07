@@ -607,6 +607,38 @@
     }
   },
   "size": {
+    "4": {
+      "value": "4",
+      "type": "sizing"
+    },
+    "8": {
+      "value": "8",
+      "type": "sizing"
+    },
+    "12": {
+      "value": "12",
+      "type": "sizing"
+    },
+    "16": {
+      "value": "16",
+      "type": "sizing"
+    },
+    "20": {
+      "value": "20",
+      "type": "sizing"
+    },
+    "24": {
+      "value": "24",
+      "type": "sizing"
+    },
+    "28": {
+      "value": "28",
+      "type": "sizing"
+    },
+    "32": {
+      "value": "32",
+      "type": "sizing"
+    },
     "400": {
       "value": "400",
       "type": "sizing"
