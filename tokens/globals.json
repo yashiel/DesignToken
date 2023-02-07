@@ -663,5 +663,13 @@
       "value": "900",
       "type": "sizing"
     }
+  },
+  "03": {
+    "value": "3",
+    "type": "borderWidth"
+  },
+  "04": {
+    "value": "4",
+    "type": "borderWidth"
   }
 }

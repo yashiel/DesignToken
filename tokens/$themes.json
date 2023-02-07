@@ -177,7 +177,11 @@
       "color.info.300": "S:f1cd2b94b3be0c00502278b1a829f3ef35ad0d1f,",
       "color.info.400": "S:445c20d912a829ea06e0a842bb182adbc809fd58,",
       "color.info.500": "S:3b2ae0f3a6be2377b262efe4c6de211379e0ba28,",
-      "layout.background.white": "S:c24e00579eb3964ac006812a4c22d1482eff3b71,"
+      "layout.background.white": "S:c24e00579eb3964ac006812a4c22d1482eff3b71,",
+      "font.tint.03": "S:c3bd3e843e48384abf64b7cdbcb6aab86a4e0ea1,",
+      "font.tint.04": "S:a2dc5e7555ec8657d6cc3345f25fd68de01fef3b,",
+      "color.white": "S:0a4e64fe6285b71936385b7eab19e10e2fdb1f4b,",
+      "color.black": "S:5b8f2f156e06b1b9453b688a7cad9b78caf73f7f,"
     }
   }
 ]

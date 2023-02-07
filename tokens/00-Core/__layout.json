@@ -82,6 +82,14 @@
       "xl": {
         "value": "{xl}",
         "type": "borderRadius"
+      },
+      "xxl": {
+        "value": "{xxl}",
+        "type": "borderRadius"
+      },
+      "xxxl": {
+        "value": "{xxxl}",
+        "type": "borderRadius"
       }
     },
     "background": {
@@ -154,6 +162,24 @@
       "32": {
         "value": "{size.32}",
         "type": "sizing"
+      }
+    },
+    "borderWidth": {
+      "01": {
+        "value": "{01}",
+        "type": "borderWidth"
+      },
+      "02": {
+        "value": "{02}",
+        "type": "borderWidth"
+      },
+      "03": {
+        "value": "{03}",
+        "type": "borderWidth"
+      },
+      "04": {
+        "value": "{04}",
+        "type": "borderWidth"
       }
     }
   }

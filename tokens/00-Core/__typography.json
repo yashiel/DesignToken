@@ -440,6 +440,14 @@
       "02": {
         "value": "{neutral.N60}",
         "type": "color"
+      },
+      "03": {
+        "value": "{neutral.N70}",
+        "type": "color"
+      },
+      "04": {
+        "value": "{neutral.N80}",
+        "type": "color"
       }
     },
     "color": {

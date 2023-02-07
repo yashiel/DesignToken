@@ -283,6 +283,14 @@
         "value": "{Info.I500}",
         "type": "color"
       }
+    },
+    "white": {
+      "value": "{white}",
+      "type": "color"
+    },
+    "black": {
+      "value": "{black}",
+      "type": "color"
     }
   }
 }
