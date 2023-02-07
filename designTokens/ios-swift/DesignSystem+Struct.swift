@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Mon, 06 Feb 2023 19:37:30 GMT
+// Generated on Tue, 07 Feb 2023 04:24:14 GMT
 
 
 import UIKit
@@ -102,9 +102,17 @@ internal struct DesignSystemStruct {
     internal static let dangerD50 = #fdeaea
     internal static let dangerD500 = #911d1d
     internal static let dangerD75 = #f8aaaa
+    internal static let fontColorShadeAccent = #3c7f84
+    internal static let fontColorShadeDanger = #a62222
+    internal static let fontColorShadeInfo = #1577ae
+    internal static let fontColorShadePrimary = #012732
+    internal static let fontColorShadeSecondary = #a7614c
+    internal static let fontColorShadeSuccess = #558722
+    internal static let fontColorShadeWarning = #b38720
     internal static let fontDefaultColor = #061216
     internal static let fontFamily = Roboto
-    internal static let fontShadeColor = #c1c4ce
+    internal static let fontTint01 = #c1c4ce
+    internal static let fontTint02 = #b2b5c2
     internal static let h1BoldFontFamily = Roboto
     internal static let h1BoldFontSize = 32
     internal static let h1BoldFontWeight = Bold

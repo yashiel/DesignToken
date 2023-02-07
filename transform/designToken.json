@@ -820,10 +820,46 @@
         "type": "color"
       }
     },
-    "shade": {
-      "color": {
+    "tint": {
+      "01": {
         "value": "{neutral.N50}",
         "type": "color"
+      },
+      "02": {
+        "value": "{neutral.N60}",
+        "type": "color"
+      }
+    },
+    "color": {
+      "shade": {
+        "primary": {
+          "value": "{primary.P400}",
+          "type": "color"
+        },
+        "secondary": {
+          "value": "{secondary.S400}",
+          "type": "color"
+        },
+        "accent": {
+          "value": "{accent.A400}",
+          "type": "color"
+        },
+        "success": {
+          "value": "{success.S400}",
+          "type": "color"
+        },
+        "danger": {
+          "value": "{danger.D400}",
+          "type": "color"
+        },
+        "warning": {
+          "value": "{warning.W400}",
+          "type": "color"
+        },
+        "info": {
+          "value": "{Info.I400}",
+          "type": "color"
+        }
       }
     }
   },

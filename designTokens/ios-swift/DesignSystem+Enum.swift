@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Mon, 06 Feb 2023 19:37:30 GMT
+// Generated on Tue, 07 Feb 2023 04:24:14 GMT
 
 
 import UIKit
@@ -102,9 +102,17 @@ public enum DesignSystemEnum {
     public static let dangerD50 = #fdeaea
     public static let dangerD500 = #911d1d
     public static let dangerD75 = #f8aaaa
+    public static let fontColorShadeAccent = #3c7f84
+    public static let fontColorShadeDanger = #a62222
+    public static let fontColorShadeInfo = #1577ae
+    public static let fontColorShadePrimary = #012732
+    public static let fontColorShadeSecondary = #a7614c
+    public static let fontColorShadeSuccess = #558722
+    public static let fontColorShadeWarning = #b38720
     public static let fontDefaultColor = #061216
     public static let fontFamily = Roboto
-    public static let fontShadeColor = #c1c4ce
+    public static let fontTint01 = #c1c4ce
+    public static let fontTint02 = #b2b5c2
     public static let h1BoldFontFamily = Roboto
     public static let h1BoldFontSize = 32
     public static let h1BoldFontWeight = Bold
