@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 07 Feb 2023 06:02:44 GMT
+// Generated on Tue, 07 Feb 2023 06:54:13 GMT
 
 
 import UIKit
@@ -12,6 +12,8 @@ import UIKit
 public enum DesignSystemEnum {
     public static let 01 = 1
     public static let 02 = 2
+    public static let 03 = 3
+    public static let 04 = 4
     public static let 10 = 10%
     public static let 100 = 100%
     public static let 10px = 10
@@ -107,6 +109,7 @@ public enum DesignSystemEnum {
     public static let colorAccent50 = #eef8f8
     public static let colorAccent500 = #346e73
     public static let colorAccent75 = #bae1e4
+    public static let colorBlack = #000000
     public static let colorDanger100 = #f58787
     public static let colorDanger200 = #f05353
     public static let colorDanger300 = #ed3030
@@ -167,6 +170,7 @@ public enum DesignSystemEnum {
     public static let colorWarning50 = #fff9ea
     public static let colorWarning500 = #9c761c
     public static let colorWarning75 = #ffe6a9
+    public static let colorWhite = #fff
     public static let dangerD100 = #f58787
     public static let dangerD200 = #f05353
     public static let dangerD300 = #ed3030
@@ -187,6 +191,8 @@ public enum DesignSystemEnum {
     public static let fontFamily = Roboto
     public static let fontTint01 = #c1c4ce
     public static let fontTint02 = #b2b5c2
+    public static let fontTint03 = #a5a9b8
+    public static let fontTint04 = #969bac
     public static let h1BoldFontFamily = Roboto
     public static let h1BoldFontSize = 32
     public static let h1BoldFontWeight = Bold
@@ -336,6 +342,12 @@ public enum DesignSystemEnum {
     public static let layoutBorderRadiusMd = 8
     public static let layoutBorderRadiusSm = 4
     public static let layoutBorderRadiusXl = 16
+    public static let layoutBorderRadiusXxl = 20
+    public static let layoutBorderRadiusXxxl = 24
+    public static let layoutBorderWidth01 = 1
+    public static let layoutBorderWidth02 = 2
+    public static let layoutBorderWidth03 = 3
+    public static let layoutBorderWidth04 = 4
     public static let layoutSize12 = CGFloat(192.00)
     public static let layoutSize16 = CGFloat(256.00)
     public static let layoutSize20 = CGFloat(320.00)

@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Tue, 07 Feb 2023 06:02:44 GMT
+ * Generated on Tue, 07 Feb 2023 06:54:13 GMT
  */
 
 :root {
@@ -224,6 +224,8 @@
   --font-default-black: #000000;
   --font-tint-01: #c1c4ce;
   --font-tint-02: #b2b5c2;
+  --font-tint-03: #a5a9b8;
+  --font-tint-04: #969bac;
   --font-color-shade-primary: #012732;
   --font-color-shade-secondary: #a7614c;
   --font-color-shade-accent: #3c7f84;
@@ -251,6 +253,8 @@
   --layout-border-radius-md: 8;
   --layout-border-radius-lg: 12;
   --layout-border-radius-xl: 16;
+  --layout-border-radius-xxl: 20;
+  --layout-border-radius-xxxl: 24;
   --layout-background-n10: #fafafb;
   --layout-background-n20: #f5f5f7;
   --layout-background-n30: #ebecef;
@@ -268,6 +272,10 @@
   --layout-size-24: 1.7142857142857142rem;
   --layout-size-28: 2rem;
   --layout-size-32: 2.2857142857142856rem;
+  --layout-border-width-01: 1;
+  --layout-border-width-02: 2;
+  --layout-border-width-03: 3;
+  --layout-border-width-04: 4;
   --color-neutral-10: #fafafb;
   --color-neutral-20: #f5f5f7;
   --color-neutral-30: #ebecef;
@@ -335,6 +343,8 @@
   --color-info-300: #1eaaf9;
   --color-info-400: #1577ae;
   --color-info-500: #126898;
+  --color-white: #fff;
+  --color-black: #000000;
   --spacing-2: 0.143rem;
   --spacing-4: 0.286rem;
   --spacing-8: 0.571rem;
@@ -481,6 +491,8 @@
   --size-700: 50rem;
   --size-800: 57.142857142857146rem;
   --size-900: 64.28571428571429rem;
+  --03: 3;
+  --04: 4;
   --token-set-order-0: globals;
   --token-set-order-1: 00-Core/__colors;
   --token-set-order-2: 00-Core/__layout;

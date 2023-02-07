@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 07 Feb 2023 06:02:44 GMT
+// Generated on Tue, 07 Feb 2023 06:54:13 GMT
 
 
 import UIKit
@@ -12,6 +12,8 @@ import UIKit
 internal struct DesignSystemStruct {
     internal static let 01 = 1
     internal static let 02 = 2
+    internal static let 03 = 3
+    internal static let 04 = 4
     internal static let 10 = 10%
     internal static let 100 = 100%
     internal static let 10px = 10
@@ -107,6 +109,7 @@ internal struct DesignSystemStruct {
     internal static let colorAccent50 = #eef8f8
     internal static let colorAccent500 = #346e73
     internal static let colorAccent75 = #bae1e4
+    internal static let colorBlack = #000000
     internal static let colorDanger100 = #f58787
     internal static let colorDanger200 = #f05353
     internal static let colorDanger300 = #ed3030
@@ -167,6 +170,7 @@ internal struct DesignSystemStruct {
     internal static let colorWarning50 = #fff9ea
     internal static let colorWarning500 = #9c761c
     internal static let colorWarning75 = #ffe6a9
+    internal static let colorWhite = #fff
     internal static let dangerD100 = #f58787
     internal static let dangerD200 = #f05353
     internal static let dangerD300 = #ed3030
@@ -187,6 +191,8 @@ internal struct DesignSystemStruct {
     internal static let fontFamily = Roboto
     internal static let fontTint01 = #c1c4ce
     internal static let fontTint02 = #b2b5c2
+    internal static let fontTint03 = #a5a9b8
+    internal static let fontTint04 = #969bac
     internal static let h1BoldFontFamily = Roboto
     internal static let h1BoldFontSize = 32
     internal static let h1BoldFontWeight = Bold
@@ -336,6 +342,12 @@ internal struct DesignSystemStruct {
     internal static let layoutBorderRadiusMd = 8
     internal static let layoutBorderRadiusSm = 4
     internal static let layoutBorderRadiusXl = 16
+    internal static let layoutBorderRadiusXxl = 20
+    internal static let layoutBorderRadiusXxxl = 24
+    internal static let layoutBorderWidth01 = 1
+    internal static let layoutBorderWidth02 = 2
+    internal static let layoutBorderWidth03 = 3
+    internal static let layoutBorderWidth04 = 4
     internal static let layoutSize12 = CGFloat(192.00)
     internal static let layoutSize16 = CGFloat(256.00)
     internal static let layoutSize20 = CGFloat(320.00)

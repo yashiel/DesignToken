@@ -1056,6 +1056,14 @@
       "02": {
         "value": "{neutral.N60}",
         "type": "color"
+      },
+      "03": {
+        "value": "{neutral.N70}",
+        "type": "color"
+      },
+      "04": {
+        "value": "{neutral.N80}",
+        "type": "color"
       }
     },
     "color": {
@@ -1174,6 +1182,14 @@
       "xl": {
         "value": "{xl}",
         "type": "borderRadius"
+      },
+      "xxl": {
+        "value": "{xxl}",
+        "type": "borderRadius"
+      },
+      "xxxl": {
+        "value": "{xxxl}",
+        "type": "borderRadius"
       }
     },
     "background": {
@@ -1246,6 +1262,24 @@
       "32": {
         "value": "{size.32}",
         "type": "sizing"
+      }
+    },
+    "borderWidth": {
+      "01": {
+        "value": "{01}",
+        "type": "borderWidth"
+      },
+      "02": {
+        "value": "{02}",
+        "type": "borderWidth"
+      },
+      "03": {
+        "value": "{03}",
+        "type": "borderWidth"
+      },
+      "04": {
+        "value": "{04}",
+        "type": "borderWidth"
       }
     }
   },
@@ -1533,6 +1567,14 @@
         "value": "{Info.I500}",
         "type": "color"
       }
+    },
+    "white": {
+      "value": "{white}",
+      "type": "color"
+    },
+    "black": {
+      "value": "{black}",
+      "type": "color"
     }
   },
   "spacing": {
@@ -2199,6 +2241,14 @@
       "value": 900,
       "type": "sizing"
     }
+  },
+  "03": {
+    "value": 3,
+    "type": "borderWidth"
+  },
+  "04": {
+    "value": 4,
+    "type": "borderWidth"
   },
   "tokenSetOrder": {
     "0": {

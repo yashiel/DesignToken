@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 07 Feb 2023 06:02:44 GMT
+// Generated on Tue, 07 Feb 2023 06:54:13 GMT
 
 
 import UIKit
@@ -17,6 +17,7 @@ public enum DesignSystemColor {
     public static let accent50 = #eef8f8
     public static let accent500 = #346e73
     public static let accent75 = #bae1e4
+    public static let black = #000000
     public static let danger100 = #f58787
     public static let danger200 = #f05353
     public static let danger300 = #ed3030
@@ -77,4 +78,5 @@ public enum DesignSystemColor {
     public static let warning50 = #fff9ea
     public static let warning500 = #9c761c
     public static let warning75 = #ffe6a9
+    public static let white = #fff
 }
