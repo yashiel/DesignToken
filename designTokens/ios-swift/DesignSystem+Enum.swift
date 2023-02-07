@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 07 Feb 2023 07:49:17 GMT
+// Generated on Tue, 07 Feb 2023 14:52:25 GMT
 
 
 import UIKit
@@ -185,6 +185,12 @@ public enum DesignSystemEnum {
     public static let colorWarning500 = #9c761c
     public static let colorWarning75 = #ffe6a9
     public static let colorWhite = #fff
+    public static let danger20Blur = 18
+    public static let danger20Color = rgba(#f58787, 20%)
+    public static let danger20Spread = 50
+    public static let danger20Type = dropShadow
+    public static let danger20X = 0
+    public static let danger20Y = 8
     public static let dangerD100 = #f58787
     public static let dangerD200 = #f05353
     public static let dangerD300 = #ed3030
@@ -303,6 +309,12 @@ public enum DesignSystemEnum {
     public static let h6SemiBoldFontSize = 18
     public static let h6SemiBoldFontWeight = SemiBold
     public static let h6SemiBoldLineHeight = 140%
+    public static let info20Blur = 18
+    public static let info20Color = rgba(#7dcefc, 20%)
+    public static let info20Spread = 50
+    public static let info20Type = dropShadow
+    public static let info20X = 0
+    public static let info20Y = 8
     public static let infoI100 = #7dcefc
     public static let infoI200 = #44b8fa
     public static let infoI300 = #1eaaf9
@@ -370,6 +382,18 @@ public enum DesignSystemEnum {
     public static let layoutBoxShadowAccentType = dropShadow
     public static let layoutBoxShadowAccentX = 0
     public static let layoutBoxShadowAccentY = 8
+    public static let layoutBoxShadowDangerBlur = 18
+    public static let layoutBoxShadowDangerColor = #f5878733
+    public static let layoutBoxShadowDangerSpread = 50
+    public static let layoutBoxShadowDangerType = dropShadow
+    public static let layoutBoxShadowDangerX = 0
+    public static let layoutBoxShadowDangerY = 8
+    public static let layoutBoxShadowInfoBlur = 18
+    public static let layoutBoxShadowInfoColor = #7dcefc33
+    public static let layoutBoxShadowInfoSpread = 50
+    public static let layoutBoxShadowInfoType = dropShadow
+    public static let layoutBoxShadowInfoX = 0
+    public static let layoutBoxShadowInfoY = 8
     public static let layoutBoxShadowPrimaryBlur = 18
     public static let layoutBoxShadowPrimaryColor = #2d59660d
     public static let layoutBoxShadowPrimarySpread = 50
@@ -382,6 +406,18 @@ public enum DesignSystemEnum {
     public static let layoutBoxShadowSecondaryType = dropShadow
     public static let layoutBoxShadowSecondaryX = 0
     public static let layoutBoxShadowSecondaryY = 8
+    public static let layoutBoxShadowSuccessBlur = 18
+    public static let layoutBoxShadowSuccessColor = #b1db8833
+    public static let layoutBoxShadowSuccessSpread = 50
+    public static let layoutBoxShadowSuccessType = dropShadow
+    public static let layoutBoxShadowSuccessX = 0
+    public static let layoutBoxShadowSuccessY = 8
+    public static let layoutBoxShadowWarningBlur = 18
+    public static let layoutBoxShadowWarningColor = #ffdb8633
+    public static let layoutBoxShadowWarningSpread = 50
+    public static let layoutBoxShadowWarningType = dropShadow
+    public static let layoutBoxShadowWarningX = 0
+    public static let layoutBoxShadowWarningY = 8
     public static let layoutSize12 = CGFloat(192.00)
     public static let layoutSize16 = CGFloat(256.00)
     public static let layoutSize20 = CGFloat(320.00)
@@ -533,6 +569,12 @@ public enum DesignSystemEnum {
     public static let spacing76 = 76
     public static let spacing8 = 8
     public static let spacing80 = 80
+    public static let success20Blur = 18
+    public static let success20Color = rgba(#b1db88, 20%)
+    public static let success20Spread = 50
+    public static let success20Type = dropShadow
+    public static let success20X = 0
+    public static let success20Y = 8
     public static let successS100 = #b1db88
     public static let successS200 = #90cc54
     public static let successS300 = #79c131
@@ -547,6 +589,12 @@ public enum DesignSystemEnum {
     public static let tokenSetOrder4 = 01-Components/__buttons
     public static let underline = underline
     public static let uppercase = uppercase
+    public static let warning20Blur = 18
+    public static let warning20Color = rgba(#ffdb86, 20%)
+    public static let warning20Spread = 50
+    public static let warning20Type = dropShadow
+    public static let warning20X = 0
+    public static let warning20Y = 8
     public static let warningW100 = #ffdb86
     public static let warningW200 = #ffcc52
     public static let warningW300 = #ffc12e

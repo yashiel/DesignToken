@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 07 Feb 2023 07:49:17 GMT
+// Generated on Tue, 07 Feb 2023 14:52:25 GMT
 
 
 import UIKit
@@ -185,6 +185,12 @@ internal struct DesignSystemStruct {
     internal static let colorWarning500 = #9c761c
     internal static let colorWarning75 = #ffe6a9
     internal static let colorWhite = #fff
+    internal static let danger20Blur = 18
+    internal static let danger20Color = rgba(#f58787, 20%)
+    internal static let danger20Spread = 50
+    internal static let danger20Type = dropShadow
+    internal static let danger20X = 0
+    internal static let danger20Y = 8
     internal static let dangerD100 = #f58787
     internal static let dangerD200 = #f05353
     internal static let dangerD300 = #ed3030
@@ -303,6 +309,12 @@ internal struct DesignSystemStruct {
     internal static let h6SemiBoldFontSize = 18
     internal static let h6SemiBoldFontWeight = SemiBold
     internal static let h6SemiBoldLineHeight = 140%
+    internal static let info20Blur = 18
+    internal static let info20Color = rgba(#7dcefc, 20%)
+    internal static let info20Spread = 50
+    internal static let info20Type = dropShadow
+    internal static let info20X = 0
+    internal static let info20Y = 8
     internal static let infoI100 = #7dcefc
     internal static let infoI200 = #44b8fa
     internal static let infoI300 = #1eaaf9
@@ -370,6 +382,18 @@ internal struct DesignSystemStruct {
     internal static let layoutBoxShadowAccentType = dropShadow
     internal static let layoutBoxShadowAccentX = 0
     internal static let layoutBoxShadowAccentY = 8
+    internal static let layoutBoxShadowDangerBlur = 18
+    internal static let layoutBoxShadowDangerColor = #f5878733
+    internal static let layoutBoxShadowDangerSpread = 50
+    internal static let layoutBoxShadowDangerType = dropShadow
+    internal static let layoutBoxShadowDangerX = 0
+    internal static let layoutBoxShadowDangerY = 8
+    internal static let layoutBoxShadowInfoBlur = 18
+    internal static let layoutBoxShadowInfoColor = #7dcefc33
+    internal static let layoutBoxShadowInfoSpread = 50
+    internal static let layoutBoxShadowInfoType = dropShadow
+    internal static let layoutBoxShadowInfoX = 0
+    internal static let layoutBoxShadowInfoY = 8
     internal static let layoutBoxShadowPrimaryBlur = 18
     internal static let layoutBoxShadowPrimaryColor = #2d59660d
     internal static let layoutBoxShadowPrimarySpread = 50
@@ -382,6 +406,18 @@ internal struct DesignSystemStruct {
     internal static let layoutBoxShadowSecondaryType = dropShadow
     internal static let layoutBoxShadowSecondaryX = 0
     internal static let layoutBoxShadowSecondaryY = 8
+    internal static let layoutBoxShadowSuccessBlur = 18
+    internal static let layoutBoxShadowSuccessColor = #b1db8833
+    internal static let layoutBoxShadowSuccessSpread = 50
+    internal static let layoutBoxShadowSuccessType = dropShadow
+    internal static let layoutBoxShadowSuccessX = 0
+    internal static let layoutBoxShadowSuccessY = 8
+    internal static let layoutBoxShadowWarningBlur = 18
+    internal static let layoutBoxShadowWarningColor = #ffdb8633
+    internal static let layoutBoxShadowWarningSpread = 50
+    internal static let layoutBoxShadowWarningType = dropShadow
+    internal static let layoutBoxShadowWarningX = 0
+    internal static let layoutBoxShadowWarningY = 8
     internal static let layoutSize12 = CGFloat(192.00)
     internal static let layoutSize16 = CGFloat(256.00)
     internal static let layoutSize20 = CGFloat(320.00)
@@ -533,6 +569,12 @@ internal struct DesignSystemStruct {
     internal static let spacing76 = 76
     internal static let spacing8 = 8
     internal static let spacing80 = 80
+    internal static let success20Blur = 18
+    internal static let success20Color = rgba(#b1db88, 20%)
+    internal static let success20Spread = 50
+    internal static let success20Type = dropShadow
+    internal static let success20X = 0
+    internal static let success20Y = 8
     internal static let successS100 = #b1db88
     internal static let successS200 = #90cc54
     internal static let successS300 = #79c131
@@ -547,6 +589,12 @@ internal struct DesignSystemStruct {
     internal static let tokenSetOrder4 = 01-Components/__buttons
     internal static let underline = underline
     internal static let uppercase = uppercase
+    internal static let warning20Blur = 18
+    internal static let warning20Color = rgba(#ffdb86, 20%)
+    internal static let warning20Spread = 50
+    internal static let warning20Type = dropShadow
+    internal static let warning20X = 0
+    internal static let warning20Y = 8
     internal static let warningW100 = #ffdb86
     internal static let warningW200 = #ffcc52
     internal static let warningW300 = #ffc12e

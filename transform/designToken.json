@@ -1434,6 +1434,110 @@
           "value": "dropShadow",
           "type": "type"
         }
+      },
+      "warning": {
+        "x": {
+          "value": 0,
+          "type": "x"
+        },
+        "y": {
+          "value": 8,
+          "type": "y"
+        },
+        "blur": {
+          "value": 18,
+          "type": "blur"
+        },
+        "spread": {
+          "value": 50,
+          "type": "spread"
+        },
+        "color": {
+          "value": "#ffdb8633",
+          "type": "color"
+        },
+        "type": {
+          "value": "dropShadow",
+          "type": "type"
+        }
+      },
+      "info": {
+        "x": {
+          "value": 0,
+          "type": "x"
+        },
+        "y": {
+          "value": 8,
+          "type": "y"
+        },
+        "blur": {
+          "value": 18,
+          "type": "blur"
+        },
+        "spread": {
+          "value": 50,
+          "type": "spread"
+        },
+        "color": {
+          "value": "#7dcefc33",
+          "type": "color"
+        },
+        "type": {
+          "value": "dropShadow",
+          "type": "type"
+        }
+      },
+      "danger": {
+        "x": {
+          "value": 0,
+          "type": "x"
+        },
+        "y": {
+          "value": 8,
+          "type": "y"
+        },
+        "blur": {
+          "value": 18,
+          "type": "blur"
+        },
+        "spread": {
+          "value": 50,
+          "type": "spread"
+        },
+        "color": {
+          "value": "#f5878733",
+          "type": "color"
+        },
+        "type": {
+          "value": "dropShadow",
+          "type": "type"
+        }
+      },
+      "success": {
+        "x": {
+          "value": 0,
+          "type": "x"
+        },
+        "y": {
+          "value": 8,
+          "type": "y"
+        },
+        "blur": {
+          "value": 18,
+          "type": "blur"
+        },
+        "spread": {
+          "value": 50,
+          "type": "spread"
+        },
+        "color": {
+          "value": "#b1db8833",
+          "type": "color"
+        },
+        "type": {
+          "value": "dropShadow",
+          "type": "type"
+        }
       }
     }
   },
@@ -2192,6 +2296,32 @@
     }
   },
   "danger": {
+    "20": {
+      "x": {
+        "value": 0,
+        "type": "x"
+      },
+      "y": {
+        "value": 8,
+        "type": "y"
+      },
+      "blur": {
+        "value": 18,
+        "type": "blur"
+      },
+      "spread": {
+        "value": 50,
+        "type": "spread"
+      },
+      "color": {
+        "value": "rgba({danger.D100}, 20%)",
+        "type": "color"
+      },
+      "type": {
+        "value": "dropShadow",
+        "type": "type"
+      }
+    },
     "D50": {
       "value": "#fdeaea",
       "type": "color"
@@ -2222,6 +2352,32 @@
     }
   },
   "warning": {
+    "20": {
+      "x": {
+        "value": 0,
+        "type": "x"
+      },
+      "y": {
+        "value": 8,
+        "type": "y"
+      },
+      "blur": {
+        "value": 18,
+        "type": "blur"
+      },
+      "spread": {
+        "value": 50,
+        "type": "spread"
+      },
+      "color": {
+        "value": "rgba({warning.W100}, 20%)",
+        "type": "color"
+      },
+      "type": {
+        "value": "dropShadow",
+        "type": "type"
+      }
+    },
     "W50": {
       "value": "#fff9ea",
       "type": "color"
@@ -2251,7 +2407,61 @@
       "type": "color"
     }
   },
+  "info": {
+    "20": {
+      "x": {
+        "value": 0,
+        "type": "x"
+      },
+      "y": {
+        "value": 8,
+        "type": "y"
+      },
+      "blur": {
+        "value": 18,
+        "type": "blur"
+      },
+      "spread": {
+        "value": 50,
+        "type": "spread"
+      },
+      "color": {
+        "value": "rgba({Info.I100}, 20%)",
+        "type": "color"
+      },
+      "type": {
+        "value": "dropShadow",
+        "type": "type"
+      }
+    }
+  },
   "success": {
+    "20": {
+      "x": {
+        "value": 0,
+        "type": "x"
+      },
+      "y": {
+        "value": 8,
+        "type": "y"
+      },
+      "blur": {
+        "value": 18,
+        "type": "blur"
+      },
+      "spread": {
+        "value": 50,
+        "type": "spread"
+      },
+      "color": {
+        "value": "rgba({success.S100}, 20%)",
+        "type": "color"
+      },
+      "type": {
+        "value": "dropShadow",
+        "type": "type"
+      }
+    },
     "S50": {
       "value": "#f2f9ea",
       "type": "color"
