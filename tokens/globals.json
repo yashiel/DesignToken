@@ -680,6 +680,82 @@
       "value": "32",
       "type": "sizing"
     },
+    "36": {
+      "value": "36",
+      "type": "sizing"
+    },
+    "40": {
+      "value": "40",
+      "type": "sizing"
+    },
+    "44": {
+      "value": "44",
+      "type": "sizing"
+    },
+    "48": {
+      "value": "48",
+      "type": "sizing"
+    },
+    "52": {
+      "value": "52",
+      "type": "sizing"
+    },
+    "56": {
+      "value": "56",
+      "type": "sizing"
+    },
+    "60": {
+      "value": "60",
+      "type": "sizing"
+    },
+    "64": {
+      "value": "64",
+      "type": "sizing"
+    },
+    "68": {
+      "value": "68",
+      "type": "sizing"
+    },
+    "72": {
+      "value": "72",
+      "type": "sizing"
+    },
+    "76": {
+      "value": "76",
+      "type": "sizing"
+    },
+    "80": {
+      "value": "80",
+      "type": "sizing"
+    },
+    "84": {
+      "value": "84",
+      "type": "sizing"
+    },
+    "88": {
+      "value": "88",
+      "type": "sizing"
+    },
+    "92": {
+      "value": "92",
+      "type": "sizing"
+    },
+    "96": {
+      "value": "96",
+      "type": "sizing"
+    },
+    "100": {
+      "value": "100",
+      "type": "sizing"
+    },
+    "200": {
+      "value": "200",
+      "type": "sizing"
+    },
+    "300": {
+      "value": "300",
+      "type": "sizing"
+    },
     "400": {
       "value": "400",
       "type": "sizing"
@@ -702,6 +778,10 @@
     },
     "900": {
       "value": "900",
+      "type": "sizing"
+    },
+    "1000": {
+      "value": "1000",
       "type": "sizing"
     }
   },
