@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 07 Feb 2023 07:43:43 GMT
+// Generated on Tue, 07 Feb 2023 07:49:17 GMT
 
 
 import UIKit
@@ -388,7 +388,14 @@ internal struct DesignSystemStruct {
     internal static let layoutSize24 = CGFloat(384.00)
     internal static let layoutSize28 = CGFloat(448.00)
     internal static let layoutSize32 = CGFloat(512.00)
+    internal static let layoutSize36 = CGFloat(576.00)
     internal static let layoutSize4 = CGFloat(64.00)
+    internal static let layoutSize40 = CGFloat(640.00)
+    internal static let layoutSize44 = CGFloat(704.00)
+    internal static let layoutSize48 = CGFloat(768.00)
+    internal static let layoutSize52 = CGFloat(832.00)
+    internal static let layoutSize56 = CGFloat(896.00)
+    internal static let layoutSize60 = CGFloat(960.00)
     internal static let layoutSize8 = CGFloat(128.00)
     internal static let layoutSpacing12 = 12
     internal static let layoutSpacing16 = 16

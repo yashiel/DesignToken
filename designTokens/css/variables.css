@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Tue, 07 Feb 2023 07:43:43 GMT
+ * Generated on Tue, 07 Feb 2023 07:49:17 GMT
  */
 
 :root {
@@ -282,6 +282,13 @@
   --layout-size-24: 1.7142857142857142rem;
   --layout-size-28: 2rem;
   --layout-size-32: 2.2857142857142856rem;
+  --layout-size-36: 2.5714285714285716rem;
+  --layout-size-40: 2.857142857142857rem;
+  --layout-size-44: 3.142857142857143rem;
+  --layout-size-48: 3.4285714285714284rem;
+  --layout-size-52: 3.7142857142857144rem;
+  --layout-size-56: 4rem;
+  --layout-size-60: 4.285714285714286rem;
   --layout-border-width-01: 1;
   --layout-border-width-02: 2;
   --layout-border-width-03: 3;
