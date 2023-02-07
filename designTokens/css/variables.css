@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Tue, 07 Feb 2023 07:09:02 GMT
+ * Generated on Tue, 07 Feb 2023 07:31:57 GMT
  */
 
 :root {
@@ -417,6 +417,12 @@
   --neutral-n700: #212b50;
   --neutral-n800: #121d44;
   --neutral-n900: #05113a;
+  --primary-5-x: 0;
+  --primary-5-y: 8;
+  --primary-5-blur: 18;
+  --primary-5-spread: 50;
+  --primary-5-color: rgba(#2d5966, 5%);
+  --primary-5-type: dropShadow;
   --primary-p50: #e6ebed;
   --primary-p75: #97adb4;
   --primary-p100: #6c8b94;
@@ -424,6 +430,12 @@
   --primary-p300: #023747;
   --primary-p400: #012732;
   --primary-p500: #01222b;
+  --secondary-20-x: 0;
+  --secondary-20-y: 8;
+  --secondary-20-blur: 18;
+  --secondary-20-spread: 50;
+  --secondary-20-color: rgba(#f6bcaa, 20%);
+  --secondary-20-type: dropShadow;
   --secondary-s50: #fdf3f0;
   --secondary-s75: #f8cfc3;
   --secondary-s100: #f6bcaa;
@@ -431,6 +443,12 @@
   --secondary-s300: #ef8b6d;
   --secondary-s400: #a7614c;
   --secondary-s500: #925542;
+  --accent-20-x: 0;
+  --accent-20-y: 8;
+  --accent-20-blur: 18;
+  --accent-20-spread: 50;
+  --accent-20-color: rgba(#9dd4d8, 20%);
+  --accent-20-type: dropShadow;
   --accent-a50: #eef8f8;
   --accent-a75: #bae1e4;
   --accent-a100: #9dd4d8;

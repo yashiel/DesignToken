@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 07 Feb 2023 07:09:02 GMT
+// Generated on Tue, 07 Feb 2023 07:31:57 GMT
 
 
 import UIKit
@@ -45,6 +45,12 @@ internal struct DesignSystemStruct {
     internal static let 8 = 8
     internal static let 80 = 80%
     internal static let 90 = 90%
+    internal static let accent20Blur = 18
+    internal static let accent20Color = rgba(#9dd4d8, 20%)
+    internal static let accent20Spread = 50
+    internal static let accent20Type = dropShadow
+    internal static let accent20X = 0
+    internal static let accent20Y = 8
     internal static let accentA100 = #9dd4d8
     internal static let accentA200 = #73c2c7
     internal static let accentA300 = #56b5bc
@@ -403,6 +409,12 @@ internal struct DesignSystemStruct {
     internal static let neutralN800 = #121d44
     internal static let neutralN90 = #878da0
     internal static let neutralN900 = #05113a
+    internal static let primary5Blur = 18
+    internal static let primary5Color = rgba(#2d5966, 5%)
+    internal static let primary5Spread = 50
+    internal static let primary5Type = dropShadow
+    internal static let primary5X = 0
+    internal static let primary5Y = 8
     internal static let primaryP100 = #6c8b94
     internal static let primaryP200 = #2d5966
     internal static let primaryP300 = #023747
@@ -411,6 +423,12 @@ internal struct DesignSystemStruct {
     internal static let primaryP500 = #01222b
     internal static let primaryP75 = #97adb4
     internal static let regular = Regular
+    internal static let secondary20Blur = 18
+    internal static let secondary20Color = rgba(#f6bcaa, 20%)
+    internal static let secondary20Spread = 50
+    internal static let secondary20Type = dropShadow
+    internal static let secondary20X = 0
+    internal static let secondary20Y = 8
     internal static let secondaryS100 = #f6bcaa
     internal static let secondaryS200 = #f29f86
     internal static let secondaryS300 = #ef8b6d

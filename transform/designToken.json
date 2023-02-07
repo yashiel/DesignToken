@@ -1916,6 +1916,32 @@
     }
   },
   "primary": {
+    "5": {
+      "x": {
+        "value": 0,
+        "type": "x"
+      },
+      "y": {
+        "value": 8,
+        "type": "y"
+      },
+      "blur": {
+        "value": 18,
+        "type": "blur"
+      },
+      "spread": {
+        "value": 50,
+        "type": "spread"
+      },
+      "color": {
+        "value": "rgba({primary.P200}, 5%)",
+        "type": "color"
+      },
+      "type": {
+        "value": "dropShadow",
+        "type": "type"
+      }
+    },
     "P50": {
       "value": "#e6ebed",
       "type": "color"
@@ -1946,6 +1972,32 @@
     }
   },
   "secondary": {
+    "20": {
+      "x": {
+        "value": 0,
+        "type": "x"
+      },
+      "y": {
+        "value": 8,
+        "type": "y"
+      },
+      "blur": {
+        "value": 18,
+        "type": "blur"
+      },
+      "spread": {
+        "value": 50,
+        "type": "spread"
+      },
+      "color": {
+        "value": "rgba({secondary.S100}, 20%)",
+        "type": "color"
+      },
+      "type": {
+        "value": "dropShadow",
+        "type": "type"
+      }
+    },
     "S50": {
       "value": "#fdf3f0",
       "type": "color"
@@ -1976,6 +2028,32 @@
     }
   },
   "accent": {
+    "20": {
+      "x": {
+        "value": 0,
+        "type": "x"
+      },
+      "y": {
+        "value": 8,
+        "type": "y"
+      },
+      "blur": {
+        "value": 18,
+        "type": "blur"
+      },
+      "spread": {
+        "value": 50,
+        "type": "spread"
+      },
+      "color": {
+        "value": "rgba({accent.A100}, 20%)",
+        "type": "color"
+      },
+      "type": {
+        "value": "dropShadow",
+        "type": "type"
+      }
+    },
     "A50": {
       "value": "#eef8f8",
       "type": "color"
