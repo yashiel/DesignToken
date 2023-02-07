@@ -422,6 +422,14 @@
       "color": {
         "value": "{body}",
         "type": "color"
+      },
+      "white": {
+        "value": "{white}",
+        "type": "color"
+      },
+      "black": {
+        "value": "{black}",
+        "type": "color"
       }
     },
     "tint": {
