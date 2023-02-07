@@ -189,6 +189,20 @@
         "value": "{04}",
         "type": "borderWidth"
       }
+    },
+    "boxShadow": {
+      "accent": {
+        "value": "{accent.20}",
+        "type": "boxShadow"
+      },
+      "primary": {
+        "value": "{primary.5}",
+        "type": "boxShadow"
+      },
+      "secondary": {
+        "value": "{secondary.20}",
+        "type": "boxShadow"
+      }
     }
   }
 }

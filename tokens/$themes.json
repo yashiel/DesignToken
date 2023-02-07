@@ -181,7 +181,10 @@
       "font.tint.03": "S:c3bd3e843e48384abf64b7cdbcb6aab86a4e0ea1,",
       "font.tint.04": "S:a2dc5e7555ec8657d6cc3345f25fd68de01fef3b,",
       "color.white": "S:0a4e64fe6285b71936385b7eab19e10e2fdb1f4b,",
-      "color.black": "S:5b8f2f156e06b1b9453b688a7cad9b78caf73f7f,"
+      "color.black": "S:5b8f2f156e06b1b9453b688a7cad9b78caf73f7f,",
+      "layout.boxShadow.accent": "S:d58240239322dce8ce51500333a5d46b65f9f224,",
+      "layout.boxShadow.primary": "S:8d7c02abe8f95b8f186323f289617bd470d63c6c,",
+      "layout.boxShadow.secondary": "S:f4eecf4b704e88f2fbbd0b87f23a166bd1983e35,"
     }
   }
 ]
