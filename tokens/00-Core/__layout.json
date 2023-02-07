@@ -170,6 +170,34 @@
       "32": {
         "value": "{size.32}",
         "type": "sizing"
+      },
+      "36": {
+        "value": "{size.36}",
+        "type": "sizing"
+      },
+      "40": {
+        "value": "{size.40}",
+        "type": "sizing"
+      },
+      "44": {
+        "value": "{size.44}",
+        "type": "sizing"
+      },
+      "48": {
+        "value": "{size.48}",
+        "type": "sizing"
+      },
+      "52": {
+        "value": "{size.52}",
+        "type": "sizing"
+      },
+      "56": {
+        "value": "{size.56}",
+        "type": "sizing"
+      },
+      "60": {
+        "value": "{size.60}",
+        "type": "sizing"
       }
     },
     "borderWidth": {
