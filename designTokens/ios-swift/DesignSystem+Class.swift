@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 07 Feb 2023 06:54:13 GMT
+// Generated on Tue, 07 Feb 2023 07:09:02 GMT
 
 
 import UIKit
@@ -18,23 +18,31 @@ public class DesignSystemClass {
     public static let 100 = 100%
     public static let 10px = 10
     public static let 11px = 11
+    public static let 12 = 12
     public static let 12px = 12
     public static let 140 = 140%
     public static let 14px = 14
     public static let 150 = 150%
+    public static let 16 = 16
     public static let 16px = 16
     public static let 18px = 18
+    public static let 20 = 20
     public static let 20 = 20%
     public static let 20px = 20
     public static let 22px = 22
+    public static let 24 = 24
     public static let 25px = 25
+    public static let 28 = 28
     public static let 28px = 28
     public static let 30 = 30%
+    public static let 32 = 32
     public static let 32px = 32
+    public static let 4 = 4
     public static let 40 = 40%
     public static let 50 = 50%
     public static let 60 = 60%
     public static let 70 = 70%
+    public static let 8 = 8
     public static let 80 = 80%
     public static let 90 = 90%
     public static let accentA100 = #9dd4d8
@@ -338,12 +346,14 @@ public class DesignSystemClass {
     public static let layoutBackgroundPrimary = #e6ebed
     public static let layoutBackgroundSecondary = #fdf3f0
     public static let layoutBackgroundWhite = #fff
-    public static let layoutBorderRadiusLg = 12
-    public static let layoutBorderRadiusMd = 8
-    public static let layoutBorderRadiusSm = 4
-    public static let layoutBorderRadiusXl = 16
-    public static let layoutBorderRadiusXxl = 20
-    public static let layoutBorderRadiusXxxl = 24
+    public static let layoutBorderRadius12 = 12
+    public static let layoutBorderRadius16 = 16
+    public static let layoutBorderRadius20 = 20
+    public static let layoutBorderRadius24 = 24
+    public static let layoutBorderRadius28 = 28
+    public static let layoutBorderRadius32 = 32
+    public static let layoutBorderRadius4 = 4
+    public static let layoutBorderRadius8 = 8
     public static let layoutBorderWidth01 = 1
     public static let layoutBorderWidth02 = 2
     public static let layoutBorderWidth03 = 3
@@ -373,8 +383,6 @@ public class DesignSystemClass {
     public static let layoutSpacing60 = 60
     public static let layoutSpacing8 = 8
     public static let letterSpacing0 = 0%
-    public static let lg = 12
-    public static let md = 8
     public static let medium = Medium
     public static let neutralN0 = #ffffff
     public static let neutralN10 = #fafafb
@@ -425,7 +433,6 @@ public class DesignSystemClass {
     public static let size8 = CGFloat(128.00)
     public static let size800 = CGFloat(12800.00)
     public static let size900 = CGFloat(14400.00)
-    public static let sm = 4
     public static let smallBoldFontFamily = Roboto
     public static let smallBoldFontSize = 12
     public static let smallBoldFontWeight = Bold
@@ -501,7 +508,4 @@ public class DesignSystemClass {
     public static let xSmallSemiBoldFontSize = 10
     public static let xSmallSemiBoldFontWeight = SemiBold
     public static let xSmallSemiBoldLineHeight = 140%
-    public static let xl = 16
-    public static let xxl = 20
-    public static let xxxl = 24
 }

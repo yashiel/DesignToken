@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 07 Feb 2023 06:54:13 GMT
+// Generated on Tue, 07 Feb 2023 07:09:02 GMT
 
 
 import UIKit
@@ -18,23 +18,31 @@ internal struct DesignSystemStruct {
     internal static let 100 = 100%
     internal static let 10px = 10
     internal static let 11px = 11
+    internal static let 12 = 12
     internal static let 12px = 12
     internal static let 140 = 140%
     internal static let 14px = 14
     internal static let 150 = 150%
+    internal static let 16 = 16
     internal static let 16px = 16
     internal static let 18px = 18
+    internal static let 20 = 20
     internal static let 20 = 20%
     internal static let 20px = 20
     internal static let 22px = 22
+    internal static let 24 = 24
     internal static let 25px = 25
+    internal static let 28 = 28
     internal static let 28px = 28
     internal static let 30 = 30%
+    internal static let 32 = 32
     internal static let 32px = 32
+    internal static let 4 = 4
     internal static let 40 = 40%
     internal static let 50 = 50%
     internal static let 60 = 60%
     internal static let 70 = 70%
+    internal static let 8 = 8
     internal static let 80 = 80%
     internal static let 90 = 90%
     internal static let accentA100 = #9dd4d8
@@ -338,12 +346,14 @@ internal struct DesignSystemStruct {
     internal static let layoutBackgroundPrimary = #e6ebed
     internal static let layoutBackgroundSecondary = #fdf3f0
     internal static let layoutBackgroundWhite = #fff
-    internal static let layoutBorderRadiusLg = 12
-    internal static let layoutBorderRadiusMd = 8
-    internal static let layoutBorderRadiusSm = 4
-    internal static let layoutBorderRadiusXl = 16
-    internal static let layoutBorderRadiusXxl = 20
-    internal static let layoutBorderRadiusXxxl = 24
+    internal static let layoutBorderRadius12 = 12
+    internal static let layoutBorderRadius16 = 16
+    internal static let layoutBorderRadius20 = 20
+    internal static let layoutBorderRadius24 = 24
+    internal static let layoutBorderRadius28 = 28
+    internal static let layoutBorderRadius32 = 32
+    internal static let layoutBorderRadius4 = 4
+    internal static let layoutBorderRadius8 = 8
     internal static let layoutBorderWidth01 = 1
     internal static let layoutBorderWidth02 = 2
     internal static let layoutBorderWidth03 = 3
@@ -373,8 +383,6 @@ internal struct DesignSystemStruct {
     internal static let layoutSpacing60 = 60
     internal static let layoutSpacing8 = 8
     internal static let letterSpacing0 = 0%
-    internal static let lg = 12
-    internal static let md = 8
     internal static let medium = Medium
     internal static let neutralN0 = #ffffff
     internal static let neutralN10 = #fafafb
@@ -425,7 +433,6 @@ internal struct DesignSystemStruct {
     internal static let size8 = CGFloat(128.00)
     internal static let size800 = CGFloat(12800.00)
     internal static let size900 = CGFloat(14400.00)
-    internal static let sm = 4
     internal static let smallBoldFontFamily = Roboto
     internal static let smallBoldFontSize = 12
     internal static let smallBoldFontWeight = Bold
@@ -501,7 +508,4 @@ internal struct DesignSystemStruct {
     internal static let xSmallSemiBoldFontSize = 10
     internal static let xSmallSemiBoldFontWeight = SemiBold
     internal static let xSmallSemiBoldLineHeight = 140%
-    internal static let xl = 16
-    internal static let xxl = 20
-    internal static let xxxl = 24
 }
