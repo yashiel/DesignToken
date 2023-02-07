@@ -453,6 +453,17 @@
     }
   },
   "danger": {
+    "20": {
+      "value": {
+        "x": "0",
+        "y": "8",
+        "blur": "18",
+        "spread": "50",
+        "color": "rgba({danger.D100}, 20%)",
+        "type": "dropShadow"
+      },
+      "type": "boxShadow"
+    },
     "D50": {
       "value": "#fdeaea",
       "type": "color"
@@ -483,6 +494,17 @@
     }
   },
   "warning": {
+    "20": {
+      "value": {
+        "x": "0",
+        "y": "8",
+        "blur": "18",
+        "spread": "50",
+        "color": "rgba({warning.W100}, 20%)",
+        "type": "dropShadow"
+      },
+      "type": "boxShadow"
+    },
     "W50": {
       "value": "#fff9ea",
       "type": "color"
@@ -512,7 +534,31 @@
       "type": "color"
     }
   },
+  "info": {
+    "20": {
+      "value": {
+        "x": "0",
+        "y": "8",
+        "blur": "18",
+        "spread": "50",
+        "color": "rgba({Info.I100}, 20%)",
+        "type": "dropShadow"
+      },
+      "type": "boxShadow"
+    }
+  },
   "success": {
+    "20": {
+      "value": {
+        "x": "0",
+        "y": "8",
+        "blur": "18",
+        "spread": "50",
+        "color": "rgba({success.S100}, 20%)",
+        "type": "dropShadow"
+      },
+      "type": "boxShadow"
+    },
     "S50": {
       "value": "#f2f9ea",
       "type": "color"

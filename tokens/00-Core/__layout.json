@@ -230,6 +230,22 @@
       "secondary": {
         "value": "{secondary.20}",
         "type": "boxShadow"
+      },
+      "warning": {
+        "value": "{warning.20}",
+        "type": "boxShadow"
+      },
+      "info": {
+        "value": "{info.20}",
+        "type": "boxShadow"
+      },
+      "danger": {
+        "value": "{danger.20}",
+        "type": "boxShadow"
+      },
+      "success": {
+        "value": "{success.20}",
+        "type": "boxShadow"
       }
     }
   }

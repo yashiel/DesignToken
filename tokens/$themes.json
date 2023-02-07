@@ -184,7 +184,11 @@
       "color.black": "S:5b8f2f156e06b1b9453b688a7cad9b78caf73f7f,",
       "layout.boxShadow.accent": "S:d58240239322dce8ce51500333a5d46b65f9f224,",
       "layout.boxShadow.primary": "S:8d7c02abe8f95b8f186323f289617bd470d63c6c,",
-      "layout.boxShadow.secondary": "S:f4eecf4b704e88f2fbbd0b87f23a166bd1983e35,"
+      "layout.boxShadow.secondary": "S:f4eecf4b704e88f2fbbd0b87f23a166bd1983e35,",
+      "layout.boxShadow.warning": "S:68eb520d551775cba54f06c2a1dd4c4fb7a636de,",
+      "layout.boxShadow.info": "S:d7c375891f8ca29fe3db8a7ec17d6e8728a2447f,",
+      "layout.boxShadow.danger": "S:79b8e83cd60f1fba6823e4f81ef04f1a8931cc70,",
+      "layout.boxShadow.success": "S:6fca58abc8d8baa8a6d6ce980d04f0398512fc45,"
     }
   }
 ]
