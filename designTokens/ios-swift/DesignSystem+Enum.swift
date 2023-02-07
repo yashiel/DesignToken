@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 07 Feb 2023 07:34:44 GMT
+// Generated on Tue, 07 Feb 2023 07:43:43 GMT
 
 
 import UIKit
@@ -455,20 +455,40 @@ public enum DesignSystemEnum {
     public static let secondaryS500 = #925542
     public static let secondaryS75 = #f8cfc3
     public static let semiBold = SemiBold
+    public static let size100 = CGFloat(1600.00)
+    public static let size1000 = CGFloat(16000.00)
     public static let size12 = CGFloat(192.00)
     public static let size16 = CGFloat(256.00)
     public static let size20 = CGFloat(320.00)
+    public static let size200 = CGFloat(3200.00)
     public static let size24 = CGFloat(384.00)
     public static let size28 = CGFloat(448.00)
+    public static let size300 = CGFloat(4800.00)
     public static let size32 = CGFloat(512.00)
+    public static let size36 = CGFloat(576.00)
     public static let size4 = CGFloat(64.00)
+    public static let size40 = CGFloat(640.00)
     public static let size400 = CGFloat(6400.00)
+    public static let size44 = CGFloat(704.00)
+    public static let size48 = CGFloat(768.00)
     public static let size500 = CGFloat(8000.00)
+    public static let size52 = CGFloat(832.00)
+    public static let size56 = CGFloat(896.00)
+    public static let size60 = CGFloat(960.00)
     public static let size600 = CGFloat(9600.00)
+    public static let size64 = CGFloat(1024.00)
+    public static let size68 = CGFloat(1088.00)
     public static let size700 = CGFloat(11200.00)
+    public static let size72 = CGFloat(1152.00)
+    public static let size76 = CGFloat(1216.00)
     public static let size8 = CGFloat(128.00)
+    public static let size80 = CGFloat(1280.00)
     public static let size800 = CGFloat(12800.00)
+    public static let size84 = CGFloat(1344.00)
+    public static let size88 = CGFloat(1408.00)
     public static let size900 = CGFloat(14400.00)
+    public static let size92 = CGFloat(1472.00)
+    public static let size96 = CGFloat(1536.00)
     public static let smallBoldFontFamily = Roboto
     public static let smallBoldFontSize = 12
     public static let smallBoldFontWeight = Bold
