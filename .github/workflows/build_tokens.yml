@@ -46,4 +46,4 @@ jobs:
           destination-repository: 'loop-ux'
           destination-branch: 'supun-dev'
           destination-directory: 'src/styles/'
-          commit-email: 'hi@yashiel.com'
+          commit-email: ${{secrets.API_EMAIL}}
