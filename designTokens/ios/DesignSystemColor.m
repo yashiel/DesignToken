@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 07 Feb 2023 14:52:25 GMT
+// Generated on Tue, 07 Feb 2023 18:34:21 GMT
 
 
 #import "DesignSystemColor.h"
