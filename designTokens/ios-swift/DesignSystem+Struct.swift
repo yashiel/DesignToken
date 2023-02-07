@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 07 Feb 2023 07:31:57 GMT
+// Generated on Tue, 07 Feb 2023 07:34:44 GMT
 
 
 import UIKit
@@ -364,6 +364,24 @@ internal struct DesignSystemStruct {
     internal static let layoutBorderWidth02 = 2
     internal static let layoutBorderWidth03 = 3
     internal static let layoutBorderWidth04 = 4
+    internal static let layoutBoxShadowAccentBlur = 18
+    internal static let layoutBoxShadowAccentColor = #9dd4d833
+    internal static let layoutBoxShadowAccentSpread = 50
+    internal static let layoutBoxShadowAccentType = dropShadow
+    internal static let layoutBoxShadowAccentX = 0
+    internal static let layoutBoxShadowAccentY = 8
+    internal static let layoutBoxShadowPrimaryBlur = 18
+    internal static let layoutBoxShadowPrimaryColor = #2d59660d
+    internal static let layoutBoxShadowPrimarySpread = 50
+    internal static let layoutBoxShadowPrimaryType = dropShadow
+    internal static let layoutBoxShadowPrimaryX = 0
+    internal static let layoutBoxShadowPrimaryY = 8
+    internal static let layoutBoxShadowSecondaryBlur = 18
+    internal static let layoutBoxShadowSecondaryColor = #f6bcaa33
+    internal static let layoutBoxShadowSecondarySpread = 50
+    internal static let layoutBoxShadowSecondaryType = dropShadow
+    internal static let layoutBoxShadowSecondaryX = 0
+    internal static let layoutBoxShadowSecondaryY = 8
     internal static let layoutSize12 = CGFloat(192.00)
     internal static let layoutSize16 = CGFloat(256.00)
     internal static let layoutSize20 = CGFloat(320.00)

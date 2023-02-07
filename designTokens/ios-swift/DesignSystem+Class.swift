@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 07 Feb 2023 07:31:57 GMT
+// Generated on Tue, 07 Feb 2023 07:34:44 GMT
 
 
 import UIKit
@@ -364,6 +364,24 @@ public class DesignSystemClass {
     public static let layoutBorderWidth02 = 2
     public static let layoutBorderWidth03 = 3
     public static let layoutBorderWidth04 = 4
+    public static let layoutBoxShadowAccentBlur = 18
+    public static let layoutBoxShadowAccentColor = #9dd4d833
+    public static let layoutBoxShadowAccentSpread = 50
+    public static let layoutBoxShadowAccentType = dropShadow
+    public static let layoutBoxShadowAccentX = 0
+    public static let layoutBoxShadowAccentY = 8
+    public static let layoutBoxShadowPrimaryBlur = 18
+    public static let layoutBoxShadowPrimaryColor = #2d59660d
+    public static let layoutBoxShadowPrimarySpread = 50
+    public static let layoutBoxShadowPrimaryType = dropShadow
+    public static let layoutBoxShadowPrimaryX = 0
+    public static let layoutBoxShadowPrimaryY = 8
+    public static let layoutBoxShadowSecondaryBlur = 18
+    public static let layoutBoxShadowSecondaryColor = #f6bcaa33
+    public static let layoutBoxShadowSecondarySpread = 50
+    public static let layoutBoxShadowSecondaryType = dropShadow
+    public static let layoutBoxShadowSecondaryX = 0
+    public static let layoutBoxShadowSecondaryY = 8
     public static let layoutSize12 = CGFloat(192.00)
     public static let layoutSize16 = CGFloat(256.00)
     public static let layoutSize20 = CGFloat(320.00)

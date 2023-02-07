@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Tue, 07 Feb 2023 07:31:57 GMT
+ * Generated on Tue, 07 Feb 2023 07:34:43 GMT
  */
 
 :root {
@@ -286,6 +286,24 @@
   --layout-border-width-02: 2;
   --layout-border-width-03: 3;
   --layout-border-width-04: 4;
+  --layout-box-shadow-accent-x: 0;
+  --layout-box-shadow-accent-y: 8;
+  --layout-box-shadow-accent-blur: 18;
+  --layout-box-shadow-accent-spread: 50;
+  --layout-box-shadow-accent-color: #9dd4d833;
+  --layout-box-shadow-accent-type: dropShadow;
+  --layout-box-shadow-primary-x: 0;
+  --layout-box-shadow-primary-y: 8;
+  --layout-box-shadow-primary-blur: 18;
+  --layout-box-shadow-primary-spread: 50;
+  --layout-box-shadow-primary-color: #2d59660d;
+  --layout-box-shadow-primary-type: dropShadow;
+  --layout-box-shadow-secondary-x: 0;
+  --layout-box-shadow-secondary-y: 8;
+  --layout-box-shadow-secondary-blur: 18;
+  --layout-box-shadow-secondary-spread: 50;
+  --layout-box-shadow-secondary-color: #f6bcaa33;
+  --layout-box-shadow-secondary-type: dropShadow;
   --color-neutral-10: #fafafb;
   --color-neutral-20: #f5f5f7;
   --color-neutral-30: #ebecef;
