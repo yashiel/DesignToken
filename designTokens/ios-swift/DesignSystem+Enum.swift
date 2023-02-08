@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 08 Feb 2023 06:09:14 GMT
+// Generated on Wed, 08 Feb 2023 06:18:15 GMT
 
 
 import UIKit
@@ -131,6 +131,14 @@ public enum DesignSystemEnum {
     public static let colorDanger50 = #fdeaea
     public static let colorDanger500 = #911d1d
     public static let colorDanger75 = #f8aaaa
+    public static let colorGPrimary180 = linear-gradient(180deg, $white 0%, $accent.A300 100%)
+    public static let colorGPrimary270 = linear-gradient(270deg, $white 0%, $accent.A300 100%)
+    public static let colorGPrimary45 = linear-gradient(45deg, $white 0%, $accent.A300 100%)
+    public static let colorGPrimary90 = linear-gradient(90deg, $white 0%, $accent.A300 100%)
+    public static let colorGSecondary180 = linear-gradient(180deg, $white 0%, $secondary.S300 100%)
+    public static let colorGSecondary270 = linear-gradient(270deg, $white 0%, $secondary.S300 100%)
+    public static let colorGSecondary45 = linear-gradient(45deg, $white 0%, $secondary.S300 100%)
+    public static let colorGSecondary90 = linear-gradient(90deg, $white 0%, $secondary.S300 100%)
     public static let colorInfo100 = #7dcefc
     public static let colorInfo200 = #44b8fa
     public static let colorInfo300 = #1eaaf9

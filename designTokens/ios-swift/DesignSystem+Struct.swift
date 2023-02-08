@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 08 Feb 2023 06:09:14 GMT
+// Generated on Wed, 08 Feb 2023 06:18:15 GMT
 
 
 import UIKit
@@ -131,6 +131,14 @@ internal struct DesignSystemStruct {
     internal static let colorDanger50 = #fdeaea
     internal static let colorDanger500 = #911d1d
     internal static let colorDanger75 = #f8aaaa
+    internal static let colorGPrimary180 = linear-gradient(180deg, $white 0%, $accent.A300 100%)
+    internal static let colorGPrimary270 = linear-gradient(270deg, $white 0%, $accent.A300 100%)
+    internal static let colorGPrimary45 = linear-gradient(45deg, $white 0%, $accent.A300 100%)
+    internal static let colorGPrimary90 = linear-gradient(90deg, $white 0%, $accent.A300 100%)
+    internal static let colorGSecondary180 = linear-gradient(180deg, $white 0%, $secondary.S300 100%)
+    internal static let colorGSecondary270 = linear-gradient(270deg, $white 0%, $secondary.S300 100%)
+    internal static let colorGSecondary45 = linear-gradient(45deg, $white 0%, $secondary.S300 100%)
+    internal static let colorGSecondary90 = linear-gradient(90deg, $white 0%, $secondary.S300 100%)
     internal static let colorInfo100 = #7dcefc
     internal static let colorInfo200 = #44b8fa
     internal static let colorInfo300 = #1eaaf9

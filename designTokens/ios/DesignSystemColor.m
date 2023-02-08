@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 08 Feb 2023 06:09:14 GMT
+// Generated on Wed, 08 Feb 2023 06:18:15 GMT
 
 
 #import "DesignSystemColor.h"
@@ -89,7 +89,15 @@
 #1577ae,
 #126898,
 #fff,
-#000000
+#000000,
+linear-gradient(45deg, $white 0%, $accent.A300 100%),
+linear-gradient(90deg, $white 0%, $accent.A300 100%),
+linear-gradient(180deg, $white 0%, $accent.A300 100%),
+linear-gradient(270deg, $white 0%, $accent.A300 100%),
+linear-gradient(45deg, $white 0%, $secondary.S300 100%),
+linear-gradient(90deg, $white 0%, $secondary.S300 100%),
+linear-gradient(180deg, $white 0%, $secondary.S300 100%),
+linear-gradient(270deg, $white 0%, $secondary.S300 100%)
     ];
   });
 

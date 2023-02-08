@@ -1833,6 +1833,44 @@
     "black": {
       "value": "{black}",
       "type": "color"
+    },
+    "g": {
+      "primary": {
+        "45": {
+          "value": "{gradient.primary.45}",
+          "type": "color"
+        },
+        "90": {
+          "value": "{gradient.primary.90}",
+          "type": "color"
+        },
+        "180": {
+          "value": "{gradient.primary.180}",
+          "type": "color"
+        },
+        "270": {
+          "value": "{gradient.primary.270}",
+          "type": "color"
+        }
+      },
+      "secondary": {
+        "45": {
+          "value": "{gradient.secondary.45}",
+          "type": "color"
+        },
+        "90": {
+          "value": "{gradient.secondary.90}",
+          "type": "color"
+        },
+        "180": {
+          "value": "{gradient.secondary.180}",
+          "type": "color"
+        },
+        "270": {
+          "value": "{gradient.secondary.270}",
+          "type": "color"
+        }
+      }
     }
   },
   "spacing": {

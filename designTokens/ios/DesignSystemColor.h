@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 08 Feb 2023 06:09:14 GMT
+// Generated on Wed, 08 Feb 2023 06:18:15 GMT
 
 
 #import <UIKit/UIKit.h>
@@ -78,7 +78,15 @@ ColorInfo300,
 ColorInfo400,
 ColorInfo500,
 ColorWhite,
-ColorBlack
+ColorBlack,
+ColorGPrimary45,
+ColorGPrimary90,
+ColorGPrimary180,
+ColorGPrimary270,
+ColorGSecondary45,
+ColorGSecondary90,
+ColorGSecondary180,
+ColorGSecondary270
 };
 
 @interface DesignSystemColor : NSObject
