@@ -4,7 +4,6 @@
     "name": "Dark",
     "selectedTokenSets": {
       "globals": "source",
-      "Core/__colors": "disabled",
       "Core/__layout": "enabled",
       "Core/__typography": "enabled",
       "Components/__buttons": "enabled"
