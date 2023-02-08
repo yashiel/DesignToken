@@ -2742,6 +2742,44 @@
     "value": 4,
     "type": "borderWidth"
   },
+  "gradient": {
+    "primary": {
+      "45": {
+        "value": "linear-gradient(45deg, $white 0%, $accent.A300 100%)",
+        "type": "color"
+      },
+      "90": {
+        "value": "linear-gradient(90deg, $white 0%, $accent.A300 100%)",
+        "type": "color"
+      },
+      "180": {
+        "value": "linear-gradient(180deg, $white 0%, $accent.A300 100%)",
+        "type": "color"
+      },
+      "270": {
+        "value": "linear-gradient(270deg, $white 0%, $accent.A300 100%)",
+        "type": "color"
+      }
+    },
+    "secondary": {
+      "45": {
+        "value": "linear-gradient(45deg, $white 0%, $secondary.S300 100%)",
+        "type": "color"
+      },
+      "90": {
+        "value": "linear-gradient(90deg, $white 0%, $secondary.S300 100%)",
+        "type": "color"
+      },
+      "180": {
+        "value": "linear-gradient(180deg, $white 0%, $secondary.S300 100%)",
+        "type": "color"
+      },
+      "270": {
+        "value": "linear-gradient(270deg, $white 0%, $secondary.S300 100%)",
+        "type": "color"
+      }
+    }
+  },
   "tokenSetOrder": {
     "0": {
       "value": "globals",

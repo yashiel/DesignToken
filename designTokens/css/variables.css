@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Tue, 07 Feb 2023 18:34:21 GMT
+ * Generated on Wed, 08 Feb 2023 06:09:13 GMT
  */
 
 :root {
@@ -608,6 +608,14 @@
   --size-1000: 71.42857142857143rem;
   --03: 3;
   --04: 4;
+  --gradient-primary-45: linear-gradient(45deg, $white 0%, $accent.A300 100%);
+  --gradient-primary-90: linear-gradient(90deg, $white 0%, $accent.A300 100%);
+  --gradient-primary-180: linear-gradient(180deg, $white 0%, $accent.A300 100%);
+  --gradient-primary-270: linear-gradient(270deg, $white 0%, $accent.A300 100%);
+  --gradient-secondary-45: linear-gradient(45deg, $white 0%, $secondary.S300 100%);
+  --gradient-secondary-90: linear-gradient(90deg, $white 0%, $secondary.S300 100%);
+  --gradient-secondary-180: linear-gradient(180deg, $white 0%, $secondary.S300 100%);
+  --gradient-secondary-270: linear-gradient(270deg, $white 0%, $secondary.S300 100%);
   --token-set-order-0: globals;
   --token-set-order-1: 00-Core/__colors;
   --token-set-order-2: 00-Core/__layout;

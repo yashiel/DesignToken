@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 07 Feb 2023 18:34:21 GMT
+// Generated on Wed, 08 Feb 2023 06:09:14 GMT
 
 
 import UIKit
@@ -213,6 +213,14 @@ internal struct DesignSystemStruct {
     internal static let fontTint02 = #b2b5c2
     internal static let fontTint03 = #a5a9b8
     internal static let fontTint04 = #969bac
+    internal static let gradientPrimary180 = linear-gradient(180deg, $white 0%, $accent.A300 100%)
+    internal static let gradientPrimary270 = linear-gradient(270deg, $white 0%, $accent.A300 100%)
+    internal static let gradientPrimary45 = linear-gradient(45deg, $white 0%, $accent.A300 100%)
+    internal static let gradientPrimary90 = linear-gradient(90deg, $white 0%, $accent.A300 100%)
+    internal static let gradientSecondary180 = linear-gradient(180deg, $white 0%, $secondary.S300 100%)
+    internal static let gradientSecondary270 = linear-gradient(270deg, $white 0%, $secondary.S300 100%)
+    internal static let gradientSecondary45 = linear-gradient(45deg, $white 0%, $secondary.S300 100%)
+    internal static let gradientSecondary90 = linear-gradient(90deg, $white 0%, $secondary.S300 100%)
     internal static let h1BoldFontFamily = Roboto
     internal static let h1BoldFontSize = 32
     internal static let h1BoldFontWeight = Bold
