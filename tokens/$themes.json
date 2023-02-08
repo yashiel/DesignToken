@@ -188,7 +188,15 @@
       "layout.boxShadow.warning": "S:68eb520d551775cba54f06c2a1dd4c4fb7a636de,",
       "layout.boxShadow.info": "S:d7c375891f8ca29fe3db8a7ec17d6e8728a2447f,",
       "layout.boxShadow.danger": "S:79b8e83cd60f1fba6823e4f81ef04f1a8931cc70,",
-      "layout.boxShadow.success": "S:6fca58abc8d8baa8a6d6ce980d04f0398512fc45,"
+      "layout.boxShadow.success": "S:6fca58abc8d8baa8a6d6ce980d04f0398512fc45,",
+      "color.g.primary.45": "S:dedc84e4dac76d65e413e9b646c179ca348b35a1,",
+      "color.g.primary.90": "S:23e20bcfbf351374c10268f7ef11beaf2ab24f20,",
+      "color.g.primary.180": "S:5e1be2d0768828acc3735bc337add37aaa7eed14,",
+      "color.g.primary.270": "S:53d9620a8702e7d68f3d739fb59ea64c2034a248,",
+      "color.g.secondary.45": "S:8eb57eebeb101026708df174393039be59a541e4,",
+      "color.g.secondary.90": "S:1272241624896ae331980b18f37b81e30e8747ba,",
+      "color.g.secondary.180": "S:c7f6c40122f7c666321af6777998b6b2ad73296f,",
+      "color.g.secondary.270": "S:4a3aa3789226590ae3b8f9d84bff1cc82d7c1b5e,"
     }
   }
 ]
