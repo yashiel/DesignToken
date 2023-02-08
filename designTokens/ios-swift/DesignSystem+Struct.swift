@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 08 Feb 2023 07:30:50 GMT
+// Generated on Wed, 08 Feb 2023 15:22:15 GMT
 
 
 import UIKit
@@ -599,10 +599,10 @@ internal struct DesignSystemStruct {
     internal static let successS500 = #4a761e
     internal static let successS75 = #c8e6ab
     internal static let tokenSetOrder0 = globals
-    internal static let tokenSetOrder1 = 00-Core/__colors
-    internal static let tokenSetOrder2 = 00-Core/__layout
-    internal static let tokenSetOrder3 = 00-Core/__typography
-    internal static let tokenSetOrder4 = 01-Components/__buttons
+    internal static let tokenSetOrder1 = Core/__colors
+    internal static let tokenSetOrder2 = Core/__layout
+    internal static let tokenSetOrder3 = Core/__typography
+    internal static let tokenSetOrder4 = Components/__buttons
     internal static let underline = underline
     internal static let uppercase = uppercase
     internal static let warning20Blur = 18

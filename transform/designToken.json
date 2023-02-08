@@ -2824,19 +2824,19 @@
       "type": "other"
     },
     "1": {
-      "value": "00-Core/__colors",
+      "value": "Core/__colors",
       "type": "other"
     },
     "2": {
-      "value": "00-Core/__layout",
+      "value": "Core/__layout",
       "type": "other"
     },
     "3": {
-      "value": "00-Core/__typography",
+      "value": "Core/__typography",
       "type": "other"
     },
     "4": {
-      "value": "01-Components/__buttons",
+      "value": "Components/__buttons",
       "type": "other"
     }
   }

@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 08 Feb 2023 07:30:50 GMT
+// Generated on Wed, 08 Feb 2023 15:22:15 GMT
 
 
 import UIKit
@@ -599,10 +599,10 @@ public class DesignSystemClass {
     public static let successS500 = #4a761e
     public static let successS75 = #c8e6ab
     public static let tokenSetOrder0 = globals
-    public static let tokenSetOrder1 = 00-Core/__colors
-    public static let tokenSetOrder2 = 00-Core/__layout
-    public static let tokenSetOrder3 = 00-Core/__typography
-    public static let tokenSetOrder4 = 01-Components/__buttons
+    public static let tokenSetOrder1 = Core/__colors
+    public static let tokenSetOrder2 = Core/__layout
+    public static let tokenSetOrder3 = Core/__typography
+    public static let tokenSetOrder4 = Components/__buttons
     public static let underline = underline
     public static let uppercase = uppercase
     public static let warning20Blur = 18
