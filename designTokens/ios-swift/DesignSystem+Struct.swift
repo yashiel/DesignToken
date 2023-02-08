@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 08 Feb 2023 06:32:18 GMT
+// Generated on Wed, 08 Feb 2023 07:30:50 GMT
 
 
 import UIKit
@@ -131,7 +131,7 @@ internal struct DesignSystemStruct {
     internal static let colorDanger50 = #fdeaea
     internal static let colorDanger500 = #911d1d
     internal static let colorDanger75 = #f8aaaa
-    internal static let colorGPrimary180 = linear-gradient(180deg, $white 0%, $accent.A300 100%)
+    internal static let colorGPrimary180 = linear-gradient(180deg, $neutral.N50 0%, $accent.A300 100%)
     internal static let colorGPrimary270 = linear-gradient(270deg, $white 0%, $accent.A300 100%)
     internal static let colorGPrimary45 = linear-gradient(45deg, $white 0%, $accent.A300 100%)
     internal static let colorGPrimary90 = linear-gradient(90deg, $white 0%, $accent.A300 100%)
@@ -221,7 +221,7 @@ internal struct DesignSystemStruct {
     internal static let fontTint02 = #b2b5c2
     internal static let fontTint03 = #a5a9b8
     internal static let fontTint04 = #969bac
-    internal static let gradientPrimary180 = linear-gradient(180deg, $white 0%, $accent.A300 100%)
+    internal static let gradientPrimary180 = linear-gradient(180deg, $neutral.N50 0%, $accent.A300 100%)
     internal static let gradientPrimary270 = linear-gradient(270deg, $white 0%, $accent.A300 100%)
     internal static let gradientPrimary45 = linear-gradient(45deg, $white 0%, $accent.A300 100%)
     internal static let gradientPrimary90 = linear-gradient(90deg, $white 0%, $accent.A300 100%)

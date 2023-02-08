@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 08 Feb 2023 06:32:18 GMT
+// Generated on Wed, 08 Feb 2023 07:30:50 GMT
 
 
 import UIKit
@@ -25,7 +25,7 @@ public enum DesignSystemColor {
     public static let danger50 = #fdeaea
     public static let danger500 = #911d1d
     public static let danger75 = #f8aaaa
-    public static let gPrimary180 = linear-gradient(180deg, $white 0%, $accent.A300 100%)
+    public static let gPrimary180 = linear-gradient(180deg, $neutral.N50 0%, $accent.A300 100%)
     public static let gPrimary270 = linear-gradient(270deg, $white 0%, $accent.A300 100%)
     public static let gPrimary45 = linear-gradient(45deg, $white 0%, $accent.A300 100%)
     public static let gPrimary90 = linear-gradient(90deg, $white 0%, $accent.A300 100%)

@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 08 Feb 2023 06:32:18 GMT
+// Generated on Wed, 08 Feb 2023 07:30:50 GMT
 
 
 #import "DesignSystemColor.h"
@@ -92,7 +92,7 @@
 #000000,
 linear-gradient(45deg, $white 0%, $accent.A300 100%),
 linear-gradient(90deg, $white 0%, $accent.A300 100%),
-linear-gradient(180deg, $white 0%, $accent.A300 100%),
+linear-gradient(180deg, $neutral.N50 0%, $accent.A300 100%),
 linear-gradient(270deg, $white 0%, $accent.A300 100%),
 linear-gradient(45deg, $white 0%, $secondary.S300 100%),
 linear-gradient(90deg, $white 0%, $secondary.S300 100%),

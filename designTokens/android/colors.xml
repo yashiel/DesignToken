@@ -2,7 +2,7 @@
 
 <!--
   Do not edit directly
-  Generated on Wed, 08 Feb 2023 06:32:18 GMT
+  Generated on Wed, 08 Feb 2023 07:30:50 GMT
 -->
 <resources>
   <color name="color_neutral_10">#fafafb</color>
@@ -76,7 +76,7 @@
   <color name="color_black">#000000</color>
   <color name="color_g_primary_45">linear-gradient(45deg, $white 0%, $accent.A300 100%)</color>
   <color name="color_g_primary_90">linear-gradient(90deg, $white 0%, $accent.A300 100%)</color>
-  <color name="color_g_primary_180">linear-gradient(180deg, $white 0%, $accent.A300 100%)</color>
+  <color name="color_g_primary_180">linear-gradient(180deg, $neutral.N50 0%, $accent.A300 100%)</color>
   <color name="color_g_primary_270">linear-gradient(270deg, $white 0%, $accent.A300 100%)</color>
   <color name="color_g_secondary_45">linear-gradient(45deg, $white 0%, $secondary.S300 100%)</color>
   <color name="color_g_secondary_90">linear-gradient(90deg, $white 0%, $secondary.S300 100%)</color>
