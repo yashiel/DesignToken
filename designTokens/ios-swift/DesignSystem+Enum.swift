@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 09 Feb 2023 05:58:50 GMT
+// Generated on Thu, 09 Feb 2023 06:36:36 GMT
 
 
 import UIKit
@@ -466,7 +466,7 @@ public enum DesignSystemEnum {
     public static let layoutSpacing60 = 60
     public static let layoutSpacing8 = 8
     public static let letterSpacing0 = 0%
-    public static let letterSpacing10 = 10
+    public static let letterSpacing10 = 5%
     public static let medium = Medium
     public static let neutralN0 = #ffffff
     public static let neutralN10 = #fafafb
@@ -557,17 +557,17 @@ public enum DesignSystemEnum {
     public static let smallCourierBoldFontFamily = Courier Prime
     public static let smallCourierBoldFontSize = 12
     public static let smallCourierBoldFontWeight = Bold
-    public static let smallCourierBoldLetterSpacing = 10
+    public static let smallCourierBoldLetterSpacing = 0%
     public static let smallCourierBoldLineHeight = 150%
     public static let smallCourierRegularFontFamily = Courier Prime
     public static let smallCourierRegularFontSize = 12
     public static let smallCourierRegularFontWeight = Regular
-    public static let smallCourierRegularLetterSpacing = 10
+    public static let smallCourierRegularLetterSpacing = 0%
     public static let smallCourierRegularLineHeight = 140%
     public static let smallCourierRegularitalicFontFamily = Courier Prime
     public static let smallCourierRegularitalicFontSize = 12
     public static let smallCourierRegularitalicFontWeight = Italic
-    public static let smallCourierRegularitalicLetterSpacing = 10
+    public static let smallCourierRegularitalicLetterSpacing = 0%
     public static let smallCourierRegularitalicLineHeight = 140%
     public static let smallMediumFontFamily = Roboto
     public static let smallMediumFontSize = 12

@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Thu, 09 Feb 2023 05:58:50 GMT
+ * Generated on Thu, 09 Feb 2023 06:36:36 GMT
  */
 
 :root {
@@ -199,17 +199,17 @@
   --small-courier-regular-font-weight: Regular;
   --small-courier-regular-line-height: 140%;
   --small-courier-regular-font-size: 0.061rem;
-  --small-courier-regular-letter-spacing: 10;
+  --small-courier-regular-letter-spacing: 0%;
   --small-courier-regularitalic-font-family: Courier Prime;
   --small-courier-regularitalic-font-weight: Italic;
   --small-courier-regularitalic-line-height: 140%;
   --small-courier-regularitalic-font-size: 0.061rem;
-  --small-courier-regularitalic-letter-spacing: 10;
+  --small-courier-regularitalic-letter-spacing: 0%;
   --small-courier-bold-font-family: Courier Prime;
   --small-courier-bold-font-weight: Bold;
   --small-courier-bold-line-height: 150%;
   --small-courier-bold-font-size: 0.061rem;
-  --small-courier-bold-letter-spacing: 10;
+  --small-courier-bold-letter-spacing: 0%;
   --label-regular-font-family: Roboto;
   --label-regular-font-weight: Regular;
   --label-regular-line-height: 140%;
@@ -595,7 +595,7 @@
   --28px: 2.000rem;
   --32px: 2.286rem;
   --letter-spacing-0: 0%;
-  --letter-spacing-10: 10;
+  --letter-spacing-10: 5%;
   --size-4: 0.2857142857142857rem;
   --size-8: 0.5714285714285714rem;
   --size-12: 0.8571428571428571rem;

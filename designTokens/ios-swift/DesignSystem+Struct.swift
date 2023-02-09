@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 09 Feb 2023 05:58:50 GMT
+// Generated on Thu, 09 Feb 2023 06:36:36 GMT
 
 
 import UIKit
@@ -466,7 +466,7 @@ internal struct DesignSystemStruct {
     internal static let layoutSpacing60 = 60
     internal static let layoutSpacing8 = 8
     internal static let letterSpacing0 = 0%
-    internal static let letterSpacing10 = 10
+    internal static let letterSpacing10 = 5%
     internal static let medium = Medium
     internal static let neutralN0 = #ffffff
     internal static let neutralN10 = #fafafb
@@ -557,17 +557,17 @@ internal struct DesignSystemStruct {
     internal static let smallCourierBoldFontFamily = Courier Prime
     internal static let smallCourierBoldFontSize = 12
     internal static let smallCourierBoldFontWeight = Bold
-    internal static let smallCourierBoldLetterSpacing = 10
+    internal static let smallCourierBoldLetterSpacing = 0%
     internal static let smallCourierBoldLineHeight = 150%
     internal static let smallCourierRegularFontFamily = Courier Prime
     internal static let smallCourierRegularFontSize = 12
     internal static let smallCourierRegularFontWeight = Regular
-    internal static let smallCourierRegularLetterSpacing = 10
+    internal static let smallCourierRegularLetterSpacing = 0%
     internal static let smallCourierRegularLineHeight = 140%
     internal static let smallCourierRegularitalicFontFamily = Courier Prime
     internal static let smallCourierRegularitalicFontSize = 12
     internal static let smallCourierRegularitalicFontWeight = Italic
-    internal static let smallCourierRegularitalicLetterSpacing = 10
+    internal static let smallCourierRegularitalicLetterSpacing = 0%
     internal static let smallCourierRegularitalicLineHeight = 140%
     internal static let smallMediumFontFamily = Roboto
     internal static let smallMediumFontSize = 12

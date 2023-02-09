@@ -941,7 +941,7 @@
           "type": "fontSizes"
         },
         "letterSpacing": {
-          "value": "{letterSpacing.10}",
+          "value": "{letterSpacing.0}",
           "type": "letterSpacing"
         }
       },
@@ -963,7 +963,7 @@
           "type": "fontSizes"
         },
         "letterSpacing": {
-          "value": "{letterSpacing.10}",
+          "value": "{letterSpacing.0}",
           "type": "letterSpacing"
         }
       },
@@ -985,7 +985,7 @@
           "type": "fontSizes"
         },
         "letterSpacing": {
-          "value": "{letterSpacing.10}",
+          "value": "{letterSpacing.0}",
           "type": "letterSpacing"
         }
       }
@@ -2702,7 +2702,7 @@
       "type": "letterSpacing"
     },
     "10": {
-      "value": 10,
+      "value": "5%",
       "type": "letterSpacing"
     }
   },
