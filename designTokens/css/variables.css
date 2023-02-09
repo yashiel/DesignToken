@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Wed, 08 Feb 2023 15:25:13 GMT
+ * Generated on Thu, 09 Feb 2023 05:58:50 GMT
  */
 
 :root {
@@ -195,6 +195,21 @@
   --small-bold-font-weight: Bold;
   --small-bold-line-height: 150%;
   --small-bold-font-size: 0.061rem;
+  --small-courier-regular-font-family: Courier Prime;
+  --small-courier-regular-font-weight: Regular;
+  --small-courier-regular-line-height: 140%;
+  --small-courier-regular-font-size: 0.061rem;
+  --small-courier-regular-letter-spacing: 10;
+  --small-courier-regularitalic-font-family: Courier Prime;
+  --small-courier-regularitalic-font-weight: Italic;
+  --small-courier-regularitalic-line-height: 140%;
+  --small-courier-regularitalic-font-size: 0.061rem;
+  --small-courier-regularitalic-letter-spacing: 10;
+  --small-courier-bold-font-family: Courier Prime;
+  --small-courier-bold-font-weight: Bold;
+  --small-courier-bold-line-height: 150%;
+  --small-courier-bold-font-size: 0.061rem;
+  --small-courier-bold-letter-spacing: 10;
   --label-regular-font-family: Roboto;
   --label-regular-font-weight: Regular;
   --label-regular-line-height: 140%;
@@ -565,7 +580,7 @@
   --info-i300: #1eaaf9;
   --info-i400: #1577ae;
   --info-i500: #126898;
-  --font-family: Roboto;
+  --roboto: Roboto;
   --140: 140%;
   --150: 150%;
   --10px: 0.714rem;
@@ -580,6 +595,7 @@
   --28px: 2.000rem;
   --32px: 2.286rem;
   --letter-spacing-0: 0%;
+  --letter-spacing-10: 10;
   --size-4: 0.2857142857142857rem;
   --size-8: 0.5714285714285714rem;
   --size-12: 0.8571428571428571rem;
@@ -624,6 +640,7 @@
   --gradient-secondary-90: linear-gradient(90deg, $white 0%, $secondary.S300 100%);
   --gradient-secondary-180: linear-gradient(180deg, $white 0%, $secondary.S300 100%);
   --gradient-secondary-270: linear-gradient(270deg, $white 0%, $secondary.S300 100%);
+  --courier: Courier Prime;
   --token-set-order-0: globals;
   --token-set-order-1: Core/__colors;
   --token-set-order-2: Core/__layout;

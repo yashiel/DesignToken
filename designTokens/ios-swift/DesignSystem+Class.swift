@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 08 Feb 2023 15:25:13 GMT
+// Generated on Thu, 09 Feb 2023 05:58:50 GMT
 
 
 import UIKit
@@ -193,6 +193,7 @@ public class DesignSystemClass {
     public static let colorWarning500 = #9c761c
     public static let colorWarning75 = #ffe6a9
     public static let colorWhite = #fff
+    public static let courier = Courier Prime
     public static let danger20Blur = 18
     public static let danger20Color = rgba(#f58787, 20%)
     public static let danger20Spread = 50
@@ -216,7 +217,6 @@ public class DesignSystemClass {
     public static let fontDefaultBlack = #000000
     public static let fontDefaultColor = #061216
     public static let fontDefaultWhite = #fff
-    public static let fontFamily = Roboto
     public static let fontTint01 = #c1c4ce
     public static let fontTint02 = #b2b5c2
     public static let fontTint03 = #a5a9b8
@@ -466,6 +466,7 @@ public class DesignSystemClass {
     public static let layoutSpacing60 = 60
     public static let layoutSpacing8 = 8
     public static let letterSpacing0 = 0%
+    public static let letterSpacing10 = 10
     public static let medium = Medium
     public static let neutralN0 = #ffffff
     public static let neutralN10 = #fafafb
@@ -500,6 +501,7 @@ public class DesignSystemClass {
     public static let primaryP500 = #01222b
     public static let primaryP75 = #97adb4
     public static let regular = Regular
+    public static let roboto = Roboto
     public static let secondary20Blur = 18
     public static let secondary20Color = rgba(#f6bcaa, 20%)
     public static let secondary20Spread = 50
@@ -552,6 +554,21 @@ public class DesignSystemClass {
     public static let smallBoldFontSize = 12
     public static let smallBoldFontWeight = Bold
     public static let smallBoldLineHeight = 150%
+    public static let smallCourierBoldFontFamily = Courier Prime
+    public static let smallCourierBoldFontSize = 12
+    public static let smallCourierBoldFontWeight = Bold
+    public static let smallCourierBoldLetterSpacing = 10
+    public static let smallCourierBoldLineHeight = 150%
+    public static let smallCourierRegularFontFamily = Courier Prime
+    public static let smallCourierRegularFontSize = 12
+    public static let smallCourierRegularFontWeight = Regular
+    public static let smallCourierRegularLetterSpacing = 10
+    public static let smallCourierRegularLineHeight = 140%
+    public static let smallCourierRegularitalicFontFamily = Courier Prime
+    public static let smallCourierRegularitalicFontSize = 12
+    public static let smallCourierRegularitalicFontWeight = Italic
+    public static let smallCourierRegularitalicLetterSpacing = 10
+    public static let smallCourierRegularitalicLineHeight = 140%
     public static let smallMediumFontFamily = Roboto
     public static let smallMediumFontSize = 12
     public static let smallMediumFontWeight = Medium

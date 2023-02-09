@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 08 Feb 2023 15:25:13 GMT
+// Generated on Thu, 09 Feb 2023 05:58:50 GMT
 
 
 import UIKit
@@ -193,6 +193,7 @@ internal struct DesignSystemStruct {
     internal static let colorWarning500 = #9c761c
     internal static let colorWarning75 = #ffe6a9
     internal static let colorWhite = #fff
+    internal static let courier = Courier Prime
     internal static let danger20Blur = 18
     internal static let danger20Color = rgba(#f58787, 20%)
     internal static let danger20Spread = 50
@@ -216,7 +217,6 @@ internal struct DesignSystemStruct {
     internal static let fontDefaultBlack = #000000
     internal static let fontDefaultColor = #061216
     internal static let fontDefaultWhite = #fff
-    internal static let fontFamily = Roboto
     internal static let fontTint01 = #c1c4ce
     internal static let fontTint02 = #b2b5c2
     internal static let fontTint03 = #a5a9b8
@@ -466,6 +466,7 @@ internal struct DesignSystemStruct {
     internal static let layoutSpacing60 = 60
     internal static let layoutSpacing8 = 8
     internal static let letterSpacing0 = 0%
+    internal static let letterSpacing10 = 10
     internal static let medium = Medium
     internal static let neutralN0 = #ffffff
     internal static let neutralN10 = #fafafb
@@ -500,6 +501,7 @@ internal struct DesignSystemStruct {
     internal static let primaryP500 = #01222b
     internal static let primaryP75 = #97adb4
     internal static let regular = Regular
+    internal static let roboto = Roboto
     internal static let secondary20Blur = 18
     internal static let secondary20Color = rgba(#f6bcaa, 20%)
     internal static let secondary20Spread = 50
@@ -552,6 +554,21 @@ internal struct DesignSystemStruct {
     internal static let smallBoldFontSize = 12
     internal static let smallBoldFontWeight = Bold
     internal static let smallBoldLineHeight = 150%
+    internal static let smallCourierBoldFontFamily = Courier Prime
+    internal static let smallCourierBoldFontSize = 12
+    internal static let smallCourierBoldFontWeight = Bold
+    internal static let smallCourierBoldLetterSpacing = 10
+    internal static let smallCourierBoldLineHeight = 150%
+    internal static let smallCourierRegularFontFamily = Courier Prime
+    internal static let smallCourierRegularFontSize = 12
+    internal static let smallCourierRegularFontWeight = Regular
+    internal static let smallCourierRegularLetterSpacing = 10
+    internal static let smallCourierRegularLineHeight = 140%
+    internal static let smallCourierRegularitalicFontFamily = Courier Prime
+    internal static let smallCourierRegularitalicFontSize = 12
+    internal static let smallCourierRegularitalicFontWeight = Italic
+    internal static let smallCourierRegularitalicLetterSpacing = 10
+    internal static let smallCourierRegularitalicLineHeight = 140%
     internal static let smallMediumFontFamily = Roboto
     internal static let smallMediumFontSize = 12
     internal static let smallMediumFontWeight = Medium
