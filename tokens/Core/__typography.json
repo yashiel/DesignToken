@@ -347,7 +347,7 @@
           "fontWeight": "{Regular}",
           "lineHeight": "{140%}",
           "fontSize": "{12px}",
-          "letterSpacing": "{letterSpacing.10}"
+          "letterSpacing": "{letterSpacing.0}"
         },
         "type": "typography"
       },
@@ -357,7 +357,7 @@
           "fontWeight": "{Italic}",
           "lineHeight": "{140%}",
           "fontSize": "{12px}",
-          "letterSpacing": "{letterSpacing.10}"
+          "letterSpacing": "{letterSpacing.0}"
         },
         "type": "typography"
       },
@@ -367,7 +367,7 @@
           "fontWeight": "{Bold}",
           "lineHeight": "{150%}",
           "fontSize": "{12px}",
-          "letterSpacing": "{letterSpacing.10}"
+          "letterSpacing": "{letterSpacing.0}"
         },
         "type": "typography"
       }
