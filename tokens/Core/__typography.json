@@ -2,7 +2,7 @@
   "H1": {
     "Regular": {
       "value": {
-        "fontFamily": "{fontFamily}",
+        "fontFamily": "{roboto}",
         "fontWeight": "{Regular}",
         "lineHeight": "{140%}",
         "fontSize": "{32px}"
@@ -11,7 +11,7 @@
     },
     "Medium": {
       "value": {
-        "fontFamily": "{fontFamily}",
+        "fontFamily": "{roboto}",
         "fontWeight": "{Medium}",
         "lineHeight": "{140%}",
         "fontSize": "{32px}"
@@ -20,7 +20,7 @@
     },
     "SemiBold": {
       "value": {
-        "fontFamily": "{fontFamily}",
+        "fontFamily": "{roboto}",
         "fontWeight": "{SemiBold}",
         "lineHeight": "{140%}",
         "fontSize": "{32px}"
@@ -29,7 +29,7 @@
     },
     "Bold": {
       "value": {
-        "fontFamily": "{fontFamily}",
+        "fontFamily": "{roboto}",
         "fontWeight": "{Bold}",
         "lineHeight": "{140%}",
         "fontSize": "{32px}"
@@ -40,7 +40,7 @@
   "H2": {
     "Regular": {
       "value": {
-        "fontFamily": "{fontFamily}",
+        "fontFamily": "{roboto}",
         "fontWeight": "{Regular}",
         "lineHeight": "{140%}",
         "fontSize": "{28px}"
@@ -49,7 +49,7 @@
     },
     "Medium": {
       "value": {
-        "fontFamily": "{fontFamily}",
+        "fontFamily": "{roboto}",
         "fontWeight": "{Medium}",
         "lineHeight": "{140%}",
         "fontSize": "{28px}"
@@ -58,7 +58,7 @@
     },
     "SemiBold": {
       "value": {
-        "fontFamily": "{fontFamily}",
+        "fontFamily": "{roboto}",
         "fontWeight": "{SemiBold}",
         "lineHeight": "{140%}",
         "fontSize": "{28px}"
@@ -67,7 +67,7 @@
     },
     "Bold": {
       "value": {
-        "fontFamily": "{fontFamily}",
+        "fontFamily": "{roboto}",
         "fontWeight": "{Bold}",
         "lineHeight": "{140%}",
         "fontSize": "{28px}"
@@ -78,7 +78,7 @@
   "H3": {
     "Regular": {
       "value": {
-        "fontFamily": "{fontFamily}",
+        "fontFamily": "{roboto}",
         "fontWeight": "{Regular}",
         "lineHeight": "{140%}",
         "fontSize": "{25px}"
@@ -87,7 +87,7 @@
     },
     "Medium": {
       "value": {
-        "fontFamily": "{fontFamily}",
+        "fontFamily": "{roboto}",
         "fontWeight": "{Medium}",
         "lineHeight": "{140%}",
         "fontSize": "{25px}"
@@ -96,7 +96,7 @@
     },
     "SemiBold": {
       "value": {
-        "fontFamily": "{fontFamily}",
+        "fontFamily": "{roboto}",
         "fontWeight": "{SemiBold}",
         "lineHeight": "{140%}",
         "fontSize": "{25px}"
@@ -105,7 +105,7 @@
     },
     "Bold": {
       "value": {
-        "fontFamily": "{fontFamily}",
+        "fontFamily": "{roboto}",
         "fontWeight": "{Bold}",
         "lineHeight": "{140%}",
         "fontSize": "{25px}"
@@ -116,7 +116,7 @@
   "H4": {
     "Regular": {
       "value": {
-        "fontFamily": "{fontFamily}",
+        "fontFamily": "{roboto}",
         "fontWeight": "{Regular}",
         "lineHeight": "{140%}",
         "fontSize": "{22px}"
@@ -125,7 +125,7 @@
     },
     "Medium": {
       "value": {
-        "fontFamily": "{fontFamily}",
+        "fontFamily": "{roboto}",
         "fontWeight": "{Medium}",
         "lineHeight": "{140%}",
         "fontSize": "{22px}"
@@ -134,7 +134,7 @@
     },
     "SemiBold": {
       "value": {
-        "fontFamily": "{fontFamily}",
+        "fontFamily": "{roboto}",
         "fontWeight": "{SemiBold}",
         "lineHeight": "{140%}",
         "fontSize": "{22px}"
@@ -143,7 +143,7 @@
     },
     "Bold": {
       "value": {
-        "fontFamily": "{fontFamily}",
+        "fontFamily": "{roboto}",
         "fontWeight": "{Bold}",
         "lineHeight": "{140%}",
         "fontSize": "{22px}"
@@ -154,7 +154,7 @@
   "H5": {
     "Regular": {
       "value": {
-        "fontFamily": "{fontFamily}",
+        "fontFamily": "{roboto}",
         "fontWeight": "{Regular}",
         "lineHeight": "{140%}",
         "fontSize": "{20px}"
@@ -163,7 +163,7 @@
     },
     "Medium": {
       "value": {
-        "fontFamily": "{fontFamily}",
+        "fontFamily": "{roboto}",
         "fontWeight": "{Medium}",
         "lineHeight": "{140%}",
         "fontSize": "{20px}"
@@ -172,7 +172,7 @@
     },
     "SemiBold": {
       "value": {
-        "fontFamily": "{fontFamily}",
+        "fontFamily": "{roboto}",
         "fontWeight": "{SemiBold}",
         "lineHeight": "{140%}",
         "fontSize": "{20px}"
@@ -181,7 +181,7 @@
     },
     "Bold": {
       "value": {
-        "fontFamily": "{fontFamily}",
+        "fontFamily": "{roboto}",
         "fontWeight": "{Bold}",
         "lineHeight": "{140%}",
         "fontSize": "{20px}"
@@ -192,7 +192,7 @@
   "H6": {
     "Regular": {
       "value": {
-        "fontFamily": "{fontFamily}",
+        "fontFamily": "{roboto}",
         "fontWeight": "{Regular}",
         "lineHeight": "{140%}",
         "fontSize": "{18px}"
@@ -201,7 +201,7 @@
     },
     "Medium": {
       "value": {
-        "fontFamily": "{fontFamily}",
+        "fontFamily": "{roboto}",
         "fontWeight": "{Medium}",
         "lineHeight": "{140%}",
         "fontSize": "{18px}"
@@ -210,7 +210,7 @@
     },
     "SemiBold": {
       "value": {
-        "fontFamily": "{fontFamily}",
+        "fontFamily": "{roboto}",
         "fontWeight": "{SemiBold}",
         "lineHeight": "{140%}",
         "fontSize": "{18px}"
@@ -219,7 +219,7 @@
     },
     "Bold": {
       "value": {
-        "fontFamily": "{fontFamily}",
+        "fontFamily": "{roboto}",
         "fontWeight": "{Bold}",
         "lineHeight": "{140%}",
         "fontSize": "{18px}"
@@ -230,7 +230,7 @@
   "Large": {
     "Regular": {
       "value": {
-        "fontFamily": "{fontFamily}",
+        "fontFamily": "{roboto}",
         "fontWeight": "{Regular}",
         "lineHeight": "{150%}",
         "fontSize": "{16px}"
@@ -239,7 +239,7 @@
     },
     "Medium": {
       "value": {
-        "fontFamily": "{fontFamily}",
+        "fontFamily": "{roboto}",
         "fontWeight": "{Medium}",
         "lineHeight": "{150%}",
         "fontSize": "{16px}"
@@ -248,7 +248,7 @@
     },
     "SemiBold": {
       "value": {
-        "fontFamily": "{fontFamily}",
+        "fontFamily": "{roboto}",
         "fontWeight": "{SemiBold}",
         "lineHeight": "{150%}",
         "fontSize": "{16px}"
@@ -257,7 +257,7 @@
     },
     "Bold": {
       "value": {
-        "fontFamily": "{fontFamily}",
+        "fontFamily": "{roboto}",
         "fontWeight": "{Bold}",
         "lineHeight": "{150%}",
         "fontSize": "{16px}"
@@ -268,7 +268,7 @@
   "Base": {
     "Regular": {
       "value": {
-        "fontFamily": "{fontFamily}",
+        "fontFamily": "{roboto}",
         "fontWeight": "{Regular}",
         "lineHeight": "{150%}",
         "fontSize": "{14px}"
@@ -277,7 +277,7 @@
     },
     "Medium": {
       "value": {
-        "fontFamily": "{fontFamily}",
+        "fontFamily": "{roboto}",
         "fontWeight": "{Medium}",
         "lineHeight": "{150%}",
         "fontSize": "{14px}"
@@ -286,7 +286,7 @@
     },
     "SemiBold": {
       "value": {
-        "fontFamily": "{fontFamily}",
+        "fontFamily": "{roboto}",
         "fontWeight": "{SemiBold}",
         "lineHeight": "{150%}",
         "fontSize": "{14px}"
@@ -295,7 +295,7 @@
     },
     "Bold": {
       "value": {
-        "fontFamily": "{fontFamily}",
+        "fontFamily": "{roboto}",
         "fontWeight": "{Bold}",
         "lineHeight": "{150%}",
         "fontSize": "{14px}"
@@ -306,7 +306,7 @@
   "Small": {
     "Regular": {
       "value": {
-        "fontFamily": "{fontFamily}",
+        "fontFamily": "{roboto}",
         "fontWeight": "{Regular}",
         "lineHeight": "{150%}",
         "fontSize": "{12px}"
@@ -315,7 +315,7 @@
     },
     "Medium": {
       "value": {
-        "fontFamily": "{fontFamily}",
+        "fontFamily": "{roboto}",
         "fontWeight": "{Medium}",
         "lineHeight": "{150%}",
         "fontSize": "{12px}"
@@ -324,7 +324,7 @@
     },
     "SemiBold": {
       "value": {
-        "fontFamily": "{fontFamily}",
+        "fontFamily": "{roboto}",
         "fontWeight": "{SemiBold}",
         "lineHeight": "{150%}",
         "fontSize": "{12px}"
@@ -333,18 +333,50 @@
     },
     "Bold": {
       "value": {
-        "fontFamily": "{fontFamily}",
+        "fontFamily": "{roboto}",
         "fontWeight": "{Bold}",
         "lineHeight": "{150%}",
         "fontSize": "{12px}"
       },
       "type": "typography"
+    },
+    "Courier": {
+      "Regular": {
+        "value": {
+          "fontFamily": "{courier}",
+          "fontWeight": "{Regular}",
+          "lineHeight": "{140%}",
+          "fontSize": "{12px}",
+          "letterSpacing": "{letterSpacing.10}"
+        },
+        "type": "typography"
+      },
+      "Regularitalic": {
+        "value": {
+          "fontFamily": "{courier}",
+          "fontWeight": "{Italic}",
+          "lineHeight": "{140%}",
+          "fontSize": "{12px}",
+          "letterSpacing": "{letterSpacing.10}"
+        },
+        "type": "typography"
+      },
+      "Bold": {
+        "value": {
+          "fontFamily": "{courier}",
+          "fontWeight": "{Bold}",
+          "lineHeight": "{150%}",
+          "fontSize": "{12px}",
+          "letterSpacing": "{letterSpacing.10}"
+        },
+        "type": "typography"
+      }
     }
   },
   "Label": {
     "Regular": {
       "value": {
-        "fontFamily": "{fontFamily}",
+        "fontFamily": "{roboto}",
         "fontWeight": "{Regular}",
         "lineHeight": "{140%}",
         "fontSize": "{11px}"
@@ -353,7 +385,7 @@
     },
     "Medium": {
       "value": {
-        "fontFamily": "{fontFamily}",
+        "fontFamily": "{roboto}",
         "fontWeight": "{Medium}",
         "lineHeight": "{140%}",
         "fontSize": "{11px}"
@@ -362,7 +394,7 @@
     },
     "SemiBold": {
       "value": {
-        "fontFamily": "{fontFamily}",
+        "fontFamily": "{roboto}",
         "fontWeight": "{SemiBold}",
         "lineHeight": "{140%}",
         "fontSize": "{11px}"
@@ -371,7 +403,7 @@
     },
     "Bold": {
       "value": {
-        "fontFamily": "{fontFamily}",
+        "fontFamily": "{roboto}",
         "fontWeight": "{Bold}",
         "lineHeight": "{140%}",
         "fontSize": "{11px}"
@@ -382,7 +414,7 @@
   "XSmall": {
     "Regular": {
       "value": {
-        "fontFamily": "{fontFamily}",
+        "fontFamily": "{roboto}",
         "fontWeight": "{Regular}",
         "lineHeight": "{140%}",
         "fontSize": "{10px}"
@@ -391,7 +423,7 @@
     },
     "Medium": {
       "value": {
-        "fontFamily": "{fontFamily}",
+        "fontFamily": "{roboto}",
         "fontWeight": "{Medium}",
         "lineHeight": "{140%}",
         "fontSize": "{10px}"
@@ -400,7 +432,7 @@
     },
     "SemiBold": {
       "value": {
-        "fontFamily": "{fontFamily}",
+        "fontFamily": "{roboto}",
         "fontWeight": "{SemiBold}",
         "lineHeight": "{140%}",
         "fontSize": "{10px}"
@@ -409,7 +441,7 @@
     },
     "Bold": {
       "value": {
-        "fontFamily": "{fontFamily}",
+        "fontFamily": "{roboto}",
         "fontWeight": "{Bold}",
         "lineHeight": "{140%}",
         "fontSize": "{10px}"
