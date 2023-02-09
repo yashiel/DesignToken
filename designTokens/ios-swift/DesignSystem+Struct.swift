@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 09 Feb 2023 06:36:36 GMT
+// Generated on Thu, 09 Feb 2023 07:37:34 GMT
 
 
 import UIKit
@@ -434,6 +434,16 @@ internal struct DesignSystemStruct {
     internal static let layoutBoxShadowWarningType = dropShadow
     internal static let layoutBoxShadowWarningX = 0
     internal static let layoutBoxShadowWarningY = 8
+    internal static let layoutOpacity10 = 10%
+    internal static let layoutOpacity100 = 100%
+    internal static let layoutOpacity20 = 20%
+    internal static let layoutOpacity30 = 30%
+    internal static let layoutOpacity40 = 40%
+    internal static let layoutOpacity50 = 50%
+    internal static let layoutOpacity60 = 60%
+    internal static let layoutOpacity70 = 70%
+    internal static let layoutOpacity80 = 80%
+    internal static let layoutOpacity90 = 90%
     internal static let layoutSize12 = CGFloat(192.00)
     internal static let layoutSize16 = CGFloat(256.00)
     internal static let layoutSize20 = CGFloat(320.00)

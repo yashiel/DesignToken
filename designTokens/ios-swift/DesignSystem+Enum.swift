@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 09 Feb 2023 06:36:36 GMT
+// Generated on Thu, 09 Feb 2023 07:37:34 GMT
 
 
 import UIKit
@@ -434,6 +434,16 @@ public enum DesignSystemEnum {
     public static let layoutBoxShadowWarningType = dropShadow
     public static let layoutBoxShadowWarningX = 0
     public static let layoutBoxShadowWarningY = 8
+    public static let layoutOpacity10 = 10%
+    public static let layoutOpacity100 = 100%
+    public static let layoutOpacity20 = 20%
+    public static let layoutOpacity30 = 30%
+    public static let layoutOpacity40 = 40%
+    public static let layoutOpacity50 = 50%
+    public static let layoutOpacity60 = 60%
+    public static let layoutOpacity70 = 70%
+    public static let layoutOpacity80 = 80%
+    public static let layoutOpacity90 = 90%
     public static let layoutSize12 = CGFloat(192.00)
     public static let layoutSize16 = CGFloat(256.00)
     public static let layoutSize20 = CGFloat(320.00)
