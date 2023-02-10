@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 09 Feb 2023 07:37:34 GMT
+// Generated on Fri, 10 Feb 2023 03:48:50 GMT
 
 
 import UIKit
@@ -422,12 +422,18 @@ internal struct DesignSystemStruct {
     internal static let layoutBoxShadowSecondaryType = dropShadow
     internal static let layoutBoxShadowSecondaryX = 0
     internal static let layoutBoxShadowSecondaryY = 8
-    internal static let layoutBoxShadowSuccessBlur = 18
-    internal static let layoutBoxShadowSuccessColor = #b1db8833
-    internal static let layoutBoxShadowSuccessSpread = 50
-    internal static let layoutBoxShadowSuccessType = dropShadow
-    internal static let layoutBoxShadowSuccessX = 0
-    internal static let layoutBoxShadowSuccessY = 8
+    internal static let layoutBoxShadowSuccess10Blur = 18
+    internal static let layoutBoxShadowSuccess10Color = #b1db8833
+    internal static let layoutBoxShadowSuccess10Spread = 2
+    internal static let layoutBoxShadowSuccess10Type = dropShadow
+    internal static let layoutBoxShadowSuccess10X = 0
+    internal static let layoutBoxShadowSuccess10Y = 4
+    internal static let layoutBoxShadowSuccess20Blur = 18
+    internal static let layoutBoxShadowSuccess20Color = #b1db8833
+    internal static let layoutBoxShadowSuccess20Spread = 50
+    internal static let layoutBoxShadowSuccess20Type = dropShadow
+    internal static let layoutBoxShadowSuccess20X = 0
+    internal static let layoutBoxShadowSuccess20Y = 8
     internal static let layoutBoxShadowWarningBlur = 18
     internal static let layoutBoxShadowWarningColor = #ffdb8633
     internal static let layoutBoxShadowWarningSpread = 50
@@ -612,6 +618,12 @@ internal struct DesignSystemStruct {
     internal static let spacing76 = 76
     internal static let spacing8 = 8
     internal static let spacing80 = 80
+    internal static let success10Blur = 18
+    internal static let success10Color = rgba(#b1db88, 20%)
+    internal static let success10Spread = 2
+    internal static let success10Type = dropShadow
+    internal static let success10X = 0
+    internal static let success10Y = 4
     internal static let success20Blur = 18
     internal static let success20Color = rgba(#b1db88, 20%)
     internal static let success20Spread = 50

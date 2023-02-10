@@ -1582,29 +1582,57 @@
         }
       },
       "success": {
-        "x": {
-          "value": 0,
-          "type": "x"
+        "10": {
+          "x": {
+            "value": 0,
+            "type": "x"
+          },
+          "y": {
+            "value": 4,
+            "type": "y"
+          },
+          "blur": {
+            "value": 18,
+            "type": "blur"
+          },
+          "spread": {
+            "value": 2,
+            "type": "spread"
+          },
+          "color": {
+            "value": "#b1db8833",
+            "type": "color"
+          },
+          "type": {
+            "value": "dropShadow",
+            "type": "type"
+          }
         },
-        "y": {
-          "value": 8,
-          "type": "y"
-        },
-        "blur": {
-          "value": 18,
-          "type": "blur"
-        },
-        "spread": {
-          "value": 50,
-          "type": "spread"
-        },
-        "color": {
-          "value": "#b1db8833",
-          "type": "color"
-        },
-        "type": {
-          "value": "dropShadow",
-          "type": "type"
+        "20": {
+          "x": {
+            "value": 0,
+            "type": "x"
+          },
+          "y": {
+            "value": 8,
+            "type": "y"
+          },
+          "blur": {
+            "value": 18,
+            "type": "blur"
+          },
+          "spread": {
+            "value": 50,
+            "type": "spread"
+          },
+          "color": {
+            "value": "#b1db8833",
+            "type": "color"
+          },
+          "type": {
+            "value": "dropShadow",
+            "type": "type"
+          }
         }
       }
     },
@@ -2584,6 +2612,32 @@
     }
   },
   "success": {
+    "10": {
+      "x": {
+        "value": 0,
+        "type": "x"
+      },
+      "y": {
+        "value": 4,
+        "type": "y"
+      },
+      "blur": {
+        "value": 18,
+        "type": "blur"
+      },
+      "spread": {
+        "value": 2,
+        "type": "spread"
+      },
+      "color": {
+        "value": "rgba({success.S100}, 20%)",
+        "type": "color"
+      },
+      "type": {
+        "value": "dropShadow",
+        "type": "type"
+      }
+    },
     "20": {
       "x": {
         "value": 0,

@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Thu, 09 Feb 2023 07:37:34 GMT
+ * Generated on Fri, 10 Feb 2023 03:48:50 GMT
  */
 
 :root {
@@ -344,12 +344,18 @@
   --layout-box-shadow-danger-spread: 50;
   --layout-box-shadow-danger-color: #f5878733;
   --layout-box-shadow-danger-type: dropShadow;
-  --layout-box-shadow-success-x: 0;
-  --layout-box-shadow-success-y: 8;
-  --layout-box-shadow-success-blur: 18;
-  --layout-box-shadow-success-spread: 50;
-  --layout-box-shadow-success-color: #b1db8833;
-  --layout-box-shadow-success-type: dropShadow;
+  --layout-box-shadow-success-10-x: 0;
+  --layout-box-shadow-success-10-y: 4;
+  --layout-box-shadow-success-10-blur: 18;
+  --layout-box-shadow-success-10-spread: 2;
+  --layout-box-shadow-success-10-color: #b1db8833;
+  --layout-box-shadow-success-10-type: dropShadow;
+  --layout-box-shadow-success-20-x: 0;
+  --layout-box-shadow-success-20-y: 8;
+  --layout-box-shadow-success-20-blur: 18;
+  --layout-box-shadow-success-20-spread: 50;
+  --layout-box-shadow-success-20-color: #b1db8833;
+  --layout-box-shadow-success-20-type: dropShadow;
   --layout-opacity-10: 10%;
   --layout-opacity-20: 20%;
   --layout-opacity-30: 30%;
@@ -570,6 +576,12 @@
   --info-20-spread: 50;
   --info-20-color: rgba(#7dcefc, 20%);
   --info-20-type: dropShadow;
+  --success-10-x: 0;
+  --success-10-y: 4;
+  --success-10-blur: 18;
+  --success-10-spread: 2;
+  --success-10-color: rgba(#b1db88, 20%);
+  --success-10-type: dropShadow;
   --success-20-x: 0;
   --success-20-y: 8;
   --success-20-blur: 18;

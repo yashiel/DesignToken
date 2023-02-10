@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 09 Feb 2023 07:37:34 GMT
+// Generated on Fri, 10 Feb 2023 03:48:50 GMT
 
 
 import UIKit
@@ -422,12 +422,18 @@ public class DesignSystemClass {
     public static let layoutBoxShadowSecondaryType = dropShadow
     public static let layoutBoxShadowSecondaryX = 0
     public static let layoutBoxShadowSecondaryY = 8
-    public static let layoutBoxShadowSuccessBlur = 18
-    public static let layoutBoxShadowSuccessColor = #b1db8833
-    public static let layoutBoxShadowSuccessSpread = 50
-    public static let layoutBoxShadowSuccessType = dropShadow
-    public static let layoutBoxShadowSuccessX = 0
-    public static let layoutBoxShadowSuccessY = 8
+    public static let layoutBoxShadowSuccess10Blur = 18
+    public static let layoutBoxShadowSuccess10Color = #b1db8833
+    public static let layoutBoxShadowSuccess10Spread = 2
+    public static let layoutBoxShadowSuccess10Type = dropShadow
+    public static let layoutBoxShadowSuccess10X = 0
+    public static let layoutBoxShadowSuccess10Y = 4
+    public static let layoutBoxShadowSuccess20Blur = 18
+    public static let layoutBoxShadowSuccess20Color = #b1db8833
+    public static let layoutBoxShadowSuccess20Spread = 50
+    public static let layoutBoxShadowSuccess20Type = dropShadow
+    public static let layoutBoxShadowSuccess20X = 0
+    public static let layoutBoxShadowSuccess20Y = 8
     public static let layoutBoxShadowWarningBlur = 18
     public static let layoutBoxShadowWarningColor = #ffdb8633
     public static let layoutBoxShadowWarningSpread = 50
@@ -612,6 +618,12 @@ public class DesignSystemClass {
     public static let spacing76 = 76
     public static let spacing8 = 8
     public static let spacing80 = 80
+    public static let success10Blur = 18
+    public static let success10Color = rgba(#b1db88, 20%)
+    public static let success10Spread = 2
+    public static let success10Type = dropShadow
+    public static let success10X = 0
+    public static let success10Y = 4
     public static let success20Blur = 18
     public static let success20Color = rgba(#b1db88, 20%)
     public static let success20Spread = 50
