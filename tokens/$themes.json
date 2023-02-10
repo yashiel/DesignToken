@@ -198,7 +198,9 @@
       "color.g.secondary.270": "S:4a3aa3789226590ae3b8f9d84bff1cc82d7c1b5e,",
       "Small.Courier.Regular": "S:2a2fcf27a78b792a99371d97cdd9615cca21f23b,",
       "Small.Courier.Regularitalic": "S:120271917cb891eca0fe4d1ae4705136ed0b6530,",
-      "Small.Courier.Bold": "S:1a5a075f1e59fec8cdf9268f6d286b47554236c8,"
+      "Small.Courier.Bold": "S:1a5a075f1e59fec8cdf9268f6d286b47554236c8,",
+      "layout.boxShadow.success.20": "S:5877c252042e9ac926890cb0b56d46bb23ba8be0,",
+      "layout.boxShadow.success.10": "S:80e301d49563337b04e6650d9f616556a10db1c8,"
     }
   }
 ]
