@@ -548,6 +548,17 @@
     }
   },
   "success": {
+    "10": {
+      "value": {
+        "x": "0",
+        "y": "4",
+        "blur": "18",
+        "spread": "2",
+        "color": "rgba({success.S100}, 20%)",
+        "type": "dropShadow"
+      },
+      "type": "boxShadow"
+    },
     "20": {
       "value": {
         "x": "0",

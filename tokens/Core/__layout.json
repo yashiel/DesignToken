@@ -244,8 +244,14 @@
         "type": "boxShadow"
       },
       "success": {
-        "value": "{success.20}",
-        "type": "boxShadow"
+        "10": {
+          "value": "{success.10}",
+          "type": "boxShadow"
+        },
+        "20": {
+          "value": "{success.20}",
+          "type": "boxShadow"
+        }
       }
     },
     "opacity": {
