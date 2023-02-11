@@ -335,8 +335,19 @@
         "x": "0",
         "y": "8",
         "blur": "18",
-        "spread": "50",
+        "spread": "10",
         "color": "rgba({primary.P200}, 5%)",
+        "type": "dropShadow"
+      },
+      "type": "boxShadow"
+    },
+    "10-left": {
+      "value": {
+        "x": "-3",
+        "y": "8",
+        "blur": "15",
+        "spread": "0",
+        "color": "rgba({primary.P200}, 8%)",
         "type": "dropShadow"
       },
       "type": "boxShadow"

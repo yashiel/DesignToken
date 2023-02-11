@@ -223,10 +223,6 @@
         "value": "{accent.20}",
         "type": "boxShadow"
       },
-      "primary": {
-        "value": "{primary.5}",
-        "type": "boxShadow"
-      },
       "secondary": {
         "value": "{secondary.20}",
         "type": "boxShadow"
@@ -250,6 +246,16 @@
         },
         "20": {
           "value": "{success.20}",
+          "type": "boxShadow"
+        }
+      },
+      "primary": {
+        "5": {
+          "value": "{primary.5}",
+          "type": "boxShadow"
+        },
+        "10": {
+          "value": "{primary.10-left}",
           "type": "boxShadow"
         }
       }
