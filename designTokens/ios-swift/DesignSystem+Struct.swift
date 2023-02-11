@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Fri, 10 Feb 2023 03:50:07 GMT
+// Generated on Sat, 11 Feb 2023 06:53:55 GMT
 
 
 import UIKit
@@ -410,12 +410,18 @@ internal struct DesignSystemStruct {
     internal static let layoutBoxShadowInfoType = dropShadow
     internal static let layoutBoxShadowInfoX = 0
     internal static let layoutBoxShadowInfoY = 8
-    internal static let layoutBoxShadowPrimaryBlur = 18
-    internal static let layoutBoxShadowPrimaryColor = #2d59660d
-    internal static let layoutBoxShadowPrimarySpread = 50
-    internal static let layoutBoxShadowPrimaryType = dropShadow
-    internal static let layoutBoxShadowPrimaryX = 0
-    internal static let layoutBoxShadowPrimaryY = 8
+    internal static let layoutBoxShadowPrimary10Blur = 15
+    internal static let layoutBoxShadowPrimary10Color = #2d596614
+    internal static let layoutBoxShadowPrimary10Spread = 0
+    internal static let layoutBoxShadowPrimary10Type = dropShadow
+    internal static let layoutBoxShadowPrimary10X = -3
+    internal static let layoutBoxShadowPrimary10Y = 8
+    internal static let layoutBoxShadowPrimary5Blur = 18
+    internal static let layoutBoxShadowPrimary5Color = #2d59660d
+    internal static let layoutBoxShadowPrimary5Spread = 10
+    internal static let layoutBoxShadowPrimary5Type = dropShadow
+    internal static let layoutBoxShadowPrimary5X = 0
+    internal static let layoutBoxShadowPrimary5Y = 8
     internal static let layoutBoxShadowSecondaryBlur = 18
     internal static let layoutBoxShadowSecondaryColor = #f6bcaa33
     internal static let layoutBoxShadowSecondarySpread = 50
@@ -503,9 +509,15 @@ internal struct DesignSystemStruct {
     internal static let neutralN800 = #121d44
     internal static let neutralN90 = #878da0
     internal static let neutralN900 = #05113a
+    internal static let primary10LeftBlur = 15
+    internal static let primary10LeftColor = rgba(#2d5966, 8%)
+    internal static let primary10LeftSpread = 0
+    internal static let primary10LeftType = dropShadow
+    internal static let primary10LeftX = -3
+    internal static let primary10LeftY = 8
     internal static let primary5Blur = 18
     internal static let primary5Color = rgba(#2d5966, 5%)
-    internal static let primary5Spread = 50
+    internal static let primary5Spread = 10
     internal static let primary5Type = dropShadow
     internal static let primary5X = 0
     internal static let primary5Y = 8

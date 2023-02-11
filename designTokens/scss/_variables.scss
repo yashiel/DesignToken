@@ -1,6 +1,6 @@
 
 // Do not edit directly
-// Generated on Fri, 10 Feb 2023 03:50:07 GMT
+// Generated on Sat, 11 Feb 2023 06:53:54 GMT
 
 $4: 4;
 $8: 8;
@@ -312,12 +312,6 @@ $layout-box-shadow-accent-blur: 18;
 $layout-box-shadow-accent-spread: 50;
 $layout-box-shadow-accent-color: #9dd4d833;
 $layout-box-shadow-accent-type: dropShadow;
-$layout-box-shadow-primary-x: 0;
-$layout-box-shadow-primary-y: 8;
-$layout-box-shadow-primary-blur: 18;
-$layout-box-shadow-primary-spread: 50;
-$layout-box-shadow-primary-color: #2d59660d;
-$layout-box-shadow-primary-type: dropShadow;
 $layout-box-shadow-secondary-x: 0;
 $layout-box-shadow-secondary-y: 8;
 $layout-box-shadow-secondary-blur: 18;
@@ -354,6 +348,18 @@ $layout-box-shadow-success-20-blur: 18;
 $layout-box-shadow-success-20-spread: 50;
 $layout-box-shadow-success-20-color: #b1db8833;
 $layout-box-shadow-success-20-type: dropShadow;
+$layout-box-shadow-primary-5-x: 0;
+$layout-box-shadow-primary-5-y: 8;
+$layout-box-shadow-primary-5-blur: 18;
+$layout-box-shadow-primary-5-spread: 10;
+$layout-box-shadow-primary-5-color: #2d59660d;
+$layout-box-shadow-primary-5-type: dropShadow;
+$layout-box-shadow-primary-10-x: -3;
+$layout-box-shadow-primary-10-y: 8;
+$layout-box-shadow-primary-10-blur: 15;
+$layout-box-shadow-primary-10-spread: 0;
+$layout-box-shadow-primary-10-color: #2d596614;
+$layout-box-shadow-primary-10-type: dropShadow;
 $layout-opacity-10: 10%;
 $layout-opacity-20: 20%;
 $layout-opacity-30: 30%;
@@ -506,9 +512,15 @@ $neutral-n900: #05113a;
 $primary-5-x: 0;
 $primary-5-y: 8;
 $primary-5-blur: 18;
-$primary-5-spread: 50;
+$primary-5-spread: 10;
 $primary-5-color: rgba(#2d5966, 5%);
 $primary-5-type: dropShadow;
+$primary-10-left-x: -3;
+$primary-10-left-y: 8;
+$primary-10-left-blur: 15;
+$primary-10-left-spread: 0;
+$primary-10-left-color: rgba(#2d5966, 8%);
+$primary-10-left-type: dropShadow;
 $primary-p50: #e6ebed;
 $primary-p75: #97adb4;
 $primary-p100: #6c8b94;

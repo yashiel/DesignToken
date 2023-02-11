@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Fri, 10 Feb 2023 03:50:07 GMT
+// Generated on Sat, 11 Feb 2023 06:53:55 GMT
 
 
 import UIKit
@@ -410,12 +410,18 @@ public enum DesignSystemEnum {
     public static let layoutBoxShadowInfoType = dropShadow
     public static let layoutBoxShadowInfoX = 0
     public static let layoutBoxShadowInfoY = 8
-    public static let layoutBoxShadowPrimaryBlur = 18
-    public static let layoutBoxShadowPrimaryColor = #2d59660d
-    public static let layoutBoxShadowPrimarySpread = 50
-    public static let layoutBoxShadowPrimaryType = dropShadow
-    public static let layoutBoxShadowPrimaryX = 0
-    public static let layoutBoxShadowPrimaryY = 8
+    public static let layoutBoxShadowPrimary10Blur = 15
+    public static let layoutBoxShadowPrimary10Color = #2d596614
+    public static let layoutBoxShadowPrimary10Spread = 0
+    public static let layoutBoxShadowPrimary10Type = dropShadow
+    public static let layoutBoxShadowPrimary10X = -3
+    public static let layoutBoxShadowPrimary10Y = 8
+    public static let layoutBoxShadowPrimary5Blur = 18
+    public static let layoutBoxShadowPrimary5Color = #2d59660d
+    public static let layoutBoxShadowPrimary5Spread = 10
+    public static let layoutBoxShadowPrimary5Type = dropShadow
+    public static let layoutBoxShadowPrimary5X = 0
+    public static let layoutBoxShadowPrimary5Y = 8
     public static let layoutBoxShadowSecondaryBlur = 18
     public static let layoutBoxShadowSecondaryColor = #f6bcaa33
     public static let layoutBoxShadowSecondarySpread = 50
@@ -503,9 +509,15 @@ public enum DesignSystemEnum {
     public static let neutralN800 = #121d44
     public static let neutralN90 = #878da0
     public static let neutralN900 = #05113a
+    public static let primary10LeftBlur = 15
+    public static let primary10LeftColor = rgba(#2d5966, 8%)
+    public static let primary10LeftSpread = 0
+    public static let primary10LeftType = dropShadow
+    public static let primary10LeftX = -3
+    public static let primary10LeftY = 8
     public static let primary5Blur = 18
     public static let primary5Color = rgba(#2d5966, 5%)
-    public static let primary5Spread = 50
+    public static let primary5Spread = 10
     public static let primary5Type = dropShadow
     public static let primary5X = 0
     public static let primary5Y = 8

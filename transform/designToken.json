@@ -1451,32 +1451,6 @@
           "type": "type"
         }
       },
-      "primary": {
-        "x": {
-          "value": 0,
-          "type": "x"
-        },
-        "y": {
-          "value": 8,
-          "type": "y"
-        },
-        "blur": {
-          "value": 18,
-          "type": "blur"
-        },
-        "spread": {
-          "value": 50,
-          "type": "spread"
-        },
-        "color": {
-          "value": "#2d59660d",
-          "type": "color"
-        },
-        "type": {
-          "value": "dropShadow",
-          "type": "type"
-        }
-      },
       "secondary": {
         "x": {
           "value": 0,
@@ -1627,6 +1601,60 @@
           },
           "color": {
             "value": "#b1db8833",
+            "type": "color"
+          },
+          "type": {
+            "value": "dropShadow",
+            "type": "type"
+          }
+        }
+      },
+      "primary": {
+        "5": {
+          "x": {
+            "value": 0,
+            "type": "x"
+          },
+          "y": {
+            "value": 8,
+            "type": "y"
+          },
+          "blur": {
+            "value": 18,
+            "type": "blur"
+          },
+          "spread": {
+            "value": 10,
+            "type": "spread"
+          },
+          "color": {
+            "value": "#2d59660d",
+            "type": "color"
+          },
+          "type": {
+            "value": "dropShadow",
+            "type": "type"
+          }
+        },
+        "10": {
+          "x": {
+            "value": -3,
+            "type": "x"
+          },
+          "y": {
+            "value": 8,
+            "type": "y"
+          },
+          "blur": {
+            "value": 15,
+            "type": "blur"
+          },
+          "spread": {
+            "value": 0,
+            "type": "spread"
+          },
+          "color": {
+            "value": "#2d596614",
             "type": "color"
           },
           "type": {
@@ -2318,11 +2346,37 @@
         "type": "blur"
       },
       "spread": {
-        "value": 50,
+        "value": 10,
         "type": "spread"
       },
       "color": {
         "value": "rgba({primary.P200}, 5%)",
+        "type": "color"
+      },
+      "type": {
+        "value": "dropShadow",
+        "type": "type"
+      }
+    },
+    "10-left": {
+      "x": {
+        "value": -3,
+        "type": "x"
+      },
+      "y": {
+        "value": 8,
+        "type": "y"
+      },
+      "blur": {
+        "value": 15,
+        "type": "blur"
+      },
+      "spread": {
+        "value": 0,
+        "type": "spread"
+      },
+      "color": {
+        "value": "rgba({primary.P200}, 8%)",
         "type": "color"
       },
       "type": {
