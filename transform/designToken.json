@@ -1203,6 +1203,10 @@
           "type": "color"
         }
       }
+    },
+    "underline": {
+      "value": "{underline}",
+      "type": "textDecoration"
     }
   },
   "layout": {

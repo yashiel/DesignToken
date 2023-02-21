@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Sat, 11 Feb 2023 06:53:55 GMT
+// Generated on Tue, 21 Feb 2023 05:45:48 GMT
 
 
 import UIKit
@@ -221,6 +221,7 @@ public class DesignSystemClass {
     public static let fontTint02 = #b2b5c2
     public static let fontTint03 = #a5a9b8
     public static let fontTint04 = #969bac
+    public static let fontUnderline = underline
     public static let gradientPrimary180 = linear-gradient(180deg, $neutral.N50 0%, $accent.A300 100%)
     public static let gradientPrimary270 = linear-gradient(270deg, $white 0%, $accent.A300 100%)
     public static let gradientPrimary45 = linear-gradient(45deg, $white 0%, $accent.A300 100%)
