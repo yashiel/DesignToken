@@ -285,7 +285,7 @@
       }
     },
     "white": {
-      "value": "{white}",
+      "value": "red",
       "type": "color"
     },
     "black": {
