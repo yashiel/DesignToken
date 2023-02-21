@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 21 Feb 2023 16:08:03 GMT
+// Generated on Tue, 21 Feb 2023 16:11:16 GMT
 
 
 import UIKit
@@ -192,7 +192,7 @@ public enum DesignSystemEnum {
     public static let colorWarning50 = #fff9ea
     public static let colorWarning500 = #9c761c
     public static let colorWarning75 = #ffe6a9
-    public static let colorWhite = UIColor(red: 1.000, green: 0.000, blue: 0.000, alpha: 1)
+    public static let colorWhite = #fff
     public static let courier = Courier Prime
     public static let danger20Blur = 18
     public static let danger20Color = rgba(#f58787, 20%)

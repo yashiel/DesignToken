@@ -2,7 +2,7 @@
 
 <!--
   Do not edit directly
-  Generated on Tue, 21 Feb 2023 16:08:02 GMT
+  Generated on Tue, 21 Feb 2023 16:11:16 GMT
 -->
 <resources>
   <color name="color_neutral_10">#fafafb</color>
@@ -72,7 +72,7 @@
   <color name="color_info_300">#1eaaf9</color>
   <color name="color_info_400">#1577ae</color>
   <color name="color_info_500">#126898</color>
-  <color name="color_white">#ffff0000</color>
+  <color name="color_white">#fff</color>
   <color name="color_black">#000000</color>
   <color name="color_g_primary_45">linear-gradient(45deg, $white 0%, $accent.A300 100%)</color>
   <color name="color_g_primary_90">linear-gradient(90deg, $white 0%, $accent.A300 100%)</color>

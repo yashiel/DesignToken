@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 21 Feb 2023 16:08:02 GMT
+// Generated on Tue, 21 Feb 2023 16:11:16 GMT
 
 
 #import "DesignSystemColor.h"
@@ -88,7 +88,7 @@
 #1eaaf9,
 #1577ae,
 #126898,
-[UIColor colorWithRed:1.000f green:0.000f blue:0.000f alpha:1.000f],
+#fff,
 #000000,
 linear-gradient(45deg, $white 0%, $accent.A300 100%),
 linear-gradient(90deg, $white 0%, $accent.A300 100%),
