@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Tue, 21 Feb 2023 05:45:48 GMT
+ * Generated on Tue, 21 Feb 2023 16:08:02 GMT
  */
 
 :root {
@@ -440,7 +440,7 @@
   --color-info-300: #1eaaf9;
   --color-info-400: #1577ae;
   --color-info-500: #126898;
-  --color-white: #fff;
+  --color-white: #ff0000;
   --color-black: #000000;
   --color-g-primary-45: linear-gradient(45deg, $white 0%, $accent.A300 100%);
   --color-g-primary-90: linear-gradient(90deg, $white 0%, $accent.A300 100%);
