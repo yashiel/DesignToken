@@ -1665,6 +1665,32 @@
             "value": "dropShadow",
             "type": "type"
           }
+        },
+        "20": {
+          "x": {
+            "value": 0,
+            "type": "x"
+          },
+          "y": {
+            "value": 8,
+            "type": "y"
+          },
+          "blur": {
+            "value": 18,
+            "type": "blur"
+          },
+          "spread": {
+            "value": 50,
+            "type": "spread"
+          },
+          "color": {
+            "value": "#6c8b9433",
+            "type": "color"
+          },
+          "type": {
+            "value": "dropShadow",
+            "type": "type"
+          }
         }
       }
     },
@@ -2355,6 +2381,32 @@
       },
       "color": {
         "value": "rgba({primary.P200}, 5%)",
+        "type": "color"
+      },
+      "type": {
+        "value": "dropShadow",
+        "type": "type"
+      }
+    },
+    "20": {
+      "x": {
+        "value": 0,
+        "type": "x"
+      },
+      "y": {
+        "value": 8,
+        "type": "y"
+      },
+      "blur": {
+        "value": 18,
+        "type": "blur"
+      },
+      "spread": {
+        "value": 50,
+        "type": "spread"
+      },
+      "color": {
+        "value": "rgba({primary.P100}, 20%)",
         "type": "color"
       },
       "type": {

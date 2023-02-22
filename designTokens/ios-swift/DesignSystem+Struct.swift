@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Tue, 21 Feb 2023 16:11:16 GMT
+// Generated on Wed, 22 Feb 2023 05:07:37 GMT
 
 
 import UIKit
@@ -417,6 +417,12 @@ internal struct DesignSystemStruct {
     internal static let layoutBoxShadowPrimary10Type = dropShadow
     internal static let layoutBoxShadowPrimary10X = -3
     internal static let layoutBoxShadowPrimary10Y = 8
+    internal static let layoutBoxShadowPrimary20Blur = 18
+    internal static let layoutBoxShadowPrimary20Color = #6c8b9433
+    internal static let layoutBoxShadowPrimary20Spread = 50
+    internal static let layoutBoxShadowPrimary20Type = dropShadow
+    internal static let layoutBoxShadowPrimary20X = 0
+    internal static let layoutBoxShadowPrimary20Y = 8
     internal static let layoutBoxShadowPrimary5Blur = 18
     internal static let layoutBoxShadowPrimary5Color = #2d59660d
     internal static let layoutBoxShadowPrimary5Spread = 10
@@ -516,6 +522,12 @@ internal struct DesignSystemStruct {
     internal static let primary10LeftType = dropShadow
     internal static let primary10LeftX = -3
     internal static let primary10LeftY = 8
+    internal static let primary20Blur = 18
+    internal static let primary20Color = rgba(#6c8b94, 20%)
+    internal static let primary20Spread = 50
+    internal static let primary20Type = dropShadow
+    internal static let primary20X = 0
+    internal static let primary20Y = 8
     internal static let primary5Blur = 18
     internal static let primary5Color = rgba(#2d5966, 5%)
     internal static let primary5Spread = 10
