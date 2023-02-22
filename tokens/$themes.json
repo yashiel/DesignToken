@@ -201,7 +201,8 @@
       "layout.boxShadow.success.20": "S:5877c252042e9ac926890cb0b56d46bb23ba8be0,",
       "layout.boxShadow.success.10": "S:80e301d49563337b04e6650d9f616556a10db1c8,",
       "layout.boxShadow.primary.5": "S:e4152e90b38f6301c48bcf9fd90127afe81f6ffc,",
-      "layout.boxShadow.primary.10": "S:9862f63eae926ad3db3923b278273aefe7199c33,"
+      "layout.boxShadow.primary.10": "S:9862f63eae926ad3db3923b278273aefe7199c33,",
+      "layout.boxShadow.primary.20": "S:e9dad90fc30bec194940b0fb20387d39ee32510d,"
     }
   }
 ]

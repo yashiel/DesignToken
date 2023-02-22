@@ -257,6 +257,10 @@
         "10": {
           "value": "{primary.10-left}",
           "type": "boxShadow"
+        },
+        "20": {
+          "value": "{primary.20}",
+          "type": "boxShadow"
         }
       }
     },
