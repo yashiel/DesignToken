@@ -1741,30 +1741,46 @@
       }
     }
   },
-  "Solid": {
-    "accent": {
+  "Dashed": {
+    "primary": {
       "01": {
-        "value": "{Line.accent.1}",
+        "value": {
+          "color": "#97adb4",
+          "width": 1,
+          "style": "dashed"
+        },
         "type": "border"
       }
     },
-    "primary": {
+    "accent": {
       "01": {
-        "value": "{Line.primary.01}",
+        "value": {
+          "color": "#bae1e4",
+          "width": 1,
+          "style": "dashed"
+        },
         "type": "border"
       }
     }
   },
-  "Dashed": {
-    "accent": {
+  "Solid": {
+    "primary": {
       "01": {
-        "value": "{Dash.accent.01}",
+        "value": {
+          "color": "#97adb4",
+          "width": 1,
+          "style": "solid"
+        },
         "type": "border"
       }
     },
-    "primary": {
+    "accent": {
       "01": {
-        "value": "{Dash.primary.01}",
+        "value": {
+          "color": "#bae1e4",
+          "width": 1,
+          "style": "solid"
+        },
         "type": "border"
       }
     }
