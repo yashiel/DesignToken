@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 22 Feb 2023 05:07:37 GMT
+// Generated on Tue, 28 Feb 2023 08:22:12 GMT
 
 
 import UIKit
@@ -207,6 +207,10 @@ internal struct DesignSystemStruct {
     internal static let dangerD50 = #fdeaea
     internal static let dangerD500 = #911d1d
     internal static let dangerD75 = #f8aaaa
+    internal static let dashAccent01 = [object Object]
+    internal static let dashPrimary01 = [object Object]
+    internal static let dashedAccent01 = [object Object]
+    internal static let dashedPrimary01 = [object Object]
     internal static let fontColorShadeAccent = #3c7f84
     internal static let fontColorShadeDanger = #a62222
     internal static let fontColorShadeInfo = #1577ae
@@ -496,6 +500,8 @@ internal struct DesignSystemStruct {
     internal static let layoutSpacing8 = 8
     internal static let letterSpacing0 = 0%
     internal static let letterSpacing10 = 5%
+    internal static let lineAccent1 = [object Object]
+    internal static let linePrimary01 = [object Object]
     internal static let medium = Medium
     internal static let neutralN0 = #ffffff
     internal static let neutralN10 = #fafafb
@@ -622,6 +628,8 @@ internal struct DesignSystemStruct {
     internal static let smallSemiBoldFontSize = 12
     internal static let smallSemiBoldFontWeight = SemiBold
     internal static let smallSemiBoldLineHeight = 150%
+    internal static let solidAccent01 = [object Object]
+    internal static let solidPrimary01 = [object Object]
     internal static let spacing12 = 12
     internal static let spacing16 = 16
     internal static let spacing2 = 2
@@ -668,6 +676,7 @@ internal struct DesignSystemStruct {
     internal static let tokenSetOrder3 = Core/__typography
     internal static let tokenSetOrder4 = Components/__buttons
     internal static let underline = underline
+    internal static let uppercase = uppercase
     internal static let uppercase = uppercase
     internal static let warning20Blur = 18
     internal static let warning20Color = rgba(#ffdb86, 20%)

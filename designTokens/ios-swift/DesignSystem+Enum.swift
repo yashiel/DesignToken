@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 22 Feb 2023 05:07:37 GMT
+// Generated on Tue, 28 Feb 2023 08:22:12 GMT
 
 
 import UIKit
@@ -207,6 +207,10 @@ public enum DesignSystemEnum {
     public static let dangerD50 = #fdeaea
     public static let dangerD500 = #911d1d
     public static let dangerD75 = #f8aaaa
+    public static let dashAccent01 = [object Object]
+    public static let dashPrimary01 = [object Object]
+    public static let dashedAccent01 = [object Object]
+    public static let dashedPrimary01 = [object Object]
     public static let fontColorShadeAccent = #3c7f84
     public static let fontColorShadeDanger = #a62222
     public static let fontColorShadeInfo = #1577ae
@@ -496,6 +500,8 @@ public enum DesignSystemEnum {
     public static let layoutSpacing8 = 8
     public static let letterSpacing0 = 0%
     public static let letterSpacing10 = 5%
+    public static let lineAccent1 = [object Object]
+    public static let linePrimary01 = [object Object]
     public static let medium = Medium
     public static let neutralN0 = #ffffff
     public static let neutralN10 = #fafafb
@@ -622,6 +628,8 @@ public enum DesignSystemEnum {
     public static let smallSemiBoldFontSize = 12
     public static let smallSemiBoldFontWeight = SemiBold
     public static let smallSemiBoldLineHeight = 150%
+    public static let solidAccent01 = [object Object]
+    public static let solidPrimary01 = [object Object]
     public static let spacing12 = 12
     public static let spacing16 = 16
     public static let spacing2 = 2
@@ -668,6 +676,7 @@ public enum DesignSystemEnum {
     public static let tokenSetOrder3 = Core/__typography
     public static let tokenSetOrder4 = Components/__buttons
     public static let underline = underline
+    public static let uppercase = uppercase
     public static let uppercase = uppercase
     public static let warning20Blur = 18
     public static let warning20Color = rgba(#ffdb86, 20%)

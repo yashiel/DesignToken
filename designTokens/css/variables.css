@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Wed, 22 Feb 2023 05:07:37 GMT
+ * Generated on Tue, 28 Feb 2023 08:22:12 GMT
  */
 
 :root {
@@ -257,6 +257,7 @@
   --font-color-shade-warning: #b38720;
   --font-color-shade-info: #1577ae;
   --font-underline: underline;
+  --uppercase: uppercase;
   --layout-spacing-2: 0.010rem;
   --layout-spacing-4: 0.020rem;
   --layout-spacing-8: 0.041rem;
@@ -379,6 +380,10 @@
   --layout-opacity-80: 80%;
   --layout-opacity-90: 90%;
   --layout-opacity-100: 100%;
+  --solid-accent-01: [object Object];
+  --solid-primary-01: [object Object];
+  --dashed-accent-01: [object Object];
+  --dashed-primary-01: [object Object];
   --color-neutral-10: #fafafb;
   --color-neutral-20: #f5f5f7;
   --color-neutral-30: #ebecef;
@@ -688,6 +693,10 @@
   --gradient-secondary-180: linear-gradient(180deg, $white 0%, $secondary.S300 100%);
   --gradient-secondary-270: linear-gradient(270deg, $white 0%, $secondary.S300 100%);
   --courier: Courier Prime;
+  --line-accent-1: [object Object];
+  --line-primary-01: [object Object];
+  --dash-accent-01: [object Object];
+  --dash-primary-01: [object Object];
   --token-set-order-0: globals;
   --token-set-order-1: Core/__colors;
   --token-set-order-2: Core/__layout;

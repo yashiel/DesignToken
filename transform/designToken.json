@@ -1209,6 +1209,10 @@
       "type": "textDecoration"
     }
   },
+  "Uppercase": {
+    "value": "{uppercase}",
+    "type": "textCase"
+  },
   "layout": {
     "spacing": {
       "2": {
@@ -1734,6 +1738,34 @@
       "100": {
         "value": "{100%}",
         "type": "opacity"
+      }
+    }
+  },
+  "Solid": {
+    "accent": {
+      "01": {
+        "value": "{Line.accent.1}",
+        "type": "border"
+      }
+    },
+    "primary": {
+      "01": {
+        "value": "{Line.primary.01}",
+        "type": "border"
+      }
+    }
+  },
+  "Dashed": {
+    "accent": {
+      "01": {
+        "value": "{Dash.accent.01}",
+        "type": "border"
+      }
+    },
+    "primary": {
+      "01": {
+        "value": "{Dash.primary.01}",
+        "type": "border"
       }
     }
   },
@@ -3099,6 +3131,50 @@
   "courier": {
     "value": "Courier Prime",
     "type": "fontFamilies"
+  },
+  "Line": {
+    "accent": {
+      "1": {
+        "value": {
+          "color": "#bae1e4",
+          "width": 1,
+          "style": "solid"
+        },
+        "type": "border"
+      }
+    },
+    "primary": {
+      "01": {
+        "value": {
+          "color": "#97adb4",
+          "width": 1,
+          "style": "solid"
+        },
+        "type": "border"
+      }
+    }
+  },
+  "Dash": {
+    "accent": {
+      "01": {
+        "value": {
+          "color": "#bae1e4",
+          "width": 1,
+          "style": "dashed"
+        },
+        "type": "border"
+      }
+    },
+    "primary": {
+      "01": {
+        "value": {
+          "color": "#97adb4",
+          "width": 1,
+          "style": "dashed"
+        },
+        "type": "border"
+      }
+    }
   },
   "tokenSetOrder": {
     "0": {
