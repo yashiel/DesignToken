@@ -917,5 +917,49 @@
   "courier": {
     "value": "Courier Prime",
     "type": "fontFamilies"
+  },
+  "Line": {
+    "accent": {
+      "1": {
+        "value": {
+          "color": "{accent.A75}",
+          "width": "{01}",
+          "style": "solid"
+        },
+        "type": "border"
+      }
+    },
+    "primary": {
+      "01": {
+        "value": {
+          "color": "{primary.P75}",
+          "width": "{01}",
+          "style": "solid"
+        },
+        "type": "border"
+      }
+    }
+  },
+  "Dash": {
+    "accent": {
+      "01": {
+        "value": {
+          "color": "{accent.A75}",
+          "width": "{01}",
+          "style": "dashed"
+        },
+        "type": "border"
+      }
+    },
+    "primary": {
+      "01": {
+        "value": {
+          "color": "{primary.P75}",
+          "width": "{01}",
+          "style": "dashed"
+        },
+        "type": "border"
+      }
+    }
   }
 }

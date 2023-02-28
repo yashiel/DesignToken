@@ -518,5 +518,9 @@
       "value": "{underline}",
       "type": "textDecoration"
     }
+  },
+  "Uppercase": {
+    "value": "{uppercase}",
+    "type": "textCase"
   }
 }

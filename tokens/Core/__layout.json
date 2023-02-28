@@ -306,5 +306,33 @@
         "type": "opacity"
       }
     }
+  },
+  "Solid": {
+    "accent": {
+      "01": {
+        "value": "{Line.accent.1}",
+        "type": "border"
+      }
+    },
+    "primary": {
+      "01": {
+        "value": "{Line.primary.01}",
+        "type": "border"
+      }
+    }
+  },
+  "Dashed": {
+    "accent": {
+      "01": {
+        "value": "{Dash.accent.01}",
+        "type": "border"
+      }
+    },
+    "primary": {
+      "01": {
+        "value": "{Dash.primary.01}",
+        "type": "border"
+      }
+    }
   }
 }
