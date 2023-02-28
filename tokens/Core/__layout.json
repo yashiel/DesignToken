@@ -307,30 +307,46 @@
       }
     }
   },
-  "Solid": {
-    "accent": {
+  "Dashed": {
+    "primary": {
       "01": {
-        "value": "{Line.accent.1}",
+        "value": {
+          "color": "{primary.P75}",
+          "width": "{01}",
+          "style": "dashed"
+        },
         "type": "border"
       }
     },
-    "primary": {
+    "accent": {
       "01": {
-        "value": "{Line.primary.01}",
+        "value": {
+          "color": "{accent.A75}",
+          "width": "{01}",
+          "style": "dashed"
+        },
         "type": "border"
       }
     }
   },
-  "Dashed": {
-    "accent": {
+  "Solid": {
+    "primary": {
       "01": {
-        "value": "{Dash.accent.01}",
+        "value": {
+          "color": "{primary.P75}",
+          "width": "{01}",
+          "style": "solid"
+        },
         "type": "border"
       }
     },
-    "primary": {
+    "accent": {
       "01": {
-        "value": "{Dash.primary.01}",
+        "value": {
+          "color": "{accent.A75}",
+          "width": "{01}",
+          "style": "solid"
+        },
         "type": "border"
       }
     }
