@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 02 Mar 2023 19:46:58 GMT
+// Generated on Thu, 02 Mar 2023 19:49:52 GMT
 
 
 import UIKit
@@ -41,6 +41,18 @@ internal struct DesignSystemStruct {
     internal static let baseSemiBoldLineHeight = 150%
     internal static let black = #000000
     internal static let body = #061216
+    internal static let borderDashAccent01Color = #bae1e4
+    internal static let borderDashAccent01Style = dashed
+    internal static let borderDashAccent01Width = 1
+    internal static let borderDashPrimary01Color = #97adb4
+    internal static let borderDashPrimary01Style = dashed
+    internal static let borderDashPrimary01Width = 1
+    internal static let borderLineAccent1Color = #bae1e4
+    internal static let borderLineAccent1Style = solid
+    internal static let borderLineAccent1Width = 1
+    internal static let borderLinePrimary01Color = #97adb4
+    internal static let borderLinePrimary01Style = solid
+    internal static let borderLinePrimary01Width = 1
     internal static let borderRadius12 = 12
     internal static let borderRadius16 = 16
     internal static let borderRadius20 = 20
@@ -198,12 +210,6 @@ internal struct DesignSystemStruct {
     internal static let dangerD50 = #fdeaea
     internal static let dangerD500 = #911d1d
     internal static let dangerD75 = #f8aaaa
-    internal static let dashAccent01Color = #bae1e4
-    internal static let dashAccent01Style = dashed
-    internal static let dashAccent01Width = 1
-    internal static let dashPrimary01Color = #97adb4
-    internal static let dashPrimary01Style = dashed
-    internal static let dashPrimary01Width = 1
     internal static let dashedAccent01Color = #bae1e4
     internal static let dashedAccent01Style = dashed
     internal static let dashedAccent01Width = 1
@@ -517,14 +523,8 @@ internal struct DesignSystemStruct {
     internal static let layoutSpacing8 = 8
     internal static let letterSpacing0 = 0%
     internal static let letterSpacing10 = 5%
-    internal static let lineAccent1Color = #bae1e4
-    internal static let lineAccent1Style = solid
-    internal static let lineAccent1Width = 1
     internal static let lineHeight140 = 140%
     internal static let lineHeight150 = 150%
-    internal static let linePrimary01Color = #97adb4
-    internal static let linePrimary01Style = solid
-    internal static let linePrimary01Width = 1
     internal static let neutralN0 = #ffffff
     internal static let neutralN10 = #fafafb
     internal static let neutralN100 = #787e95

@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 02 Mar 2023 19:46:58 GMT
+// Generated on Thu, 02 Mar 2023 19:49:52 GMT
 
 
 import UIKit
@@ -41,6 +41,18 @@ public class DesignSystemClass {
     public static let baseSemiBoldLineHeight = 150%
     public static let black = #000000
     public static let body = #061216
+    public static let borderDashAccent01Color = #bae1e4
+    public static let borderDashAccent01Style = dashed
+    public static let borderDashAccent01Width = 1
+    public static let borderDashPrimary01Color = #97adb4
+    public static let borderDashPrimary01Style = dashed
+    public static let borderDashPrimary01Width = 1
+    public static let borderLineAccent1Color = #bae1e4
+    public static let borderLineAccent1Style = solid
+    public static let borderLineAccent1Width = 1
+    public static let borderLinePrimary01Color = #97adb4
+    public static let borderLinePrimary01Style = solid
+    public static let borderLinePrimary01Width = 1
     public static let borderRadius12 = 12
     public static let borderRadius16 = 16
     public static let borderRadius20 = 20
@@ -198,12 +210,6 @@ public class DesignSystemClass {
     public static let dangerD50 = #fdeaea
     public static let dangerD500 = #911d1d
     public static let dangerD75 = #f8aaaa
-    public static let dashAccent01Color = #bae1e4
-    public static let dashAccent01Style = dashed
-    public static let dashAccent01Width = 1
-    public static let dashPrimary01Color = #97adb4
-    public static let dashPrimary01Style = dashed
-    public static let dashPrimary01Width = 1
     public static let dashedAccent01Color = #bae1e4
     public static let dashedAccent01Style = dashed
     public static let dashedAccent01Width = 1
@@ -517,14 +523,8 @@ public class DesignSystemClass {
     public static let layoutSpacing8 = 8
     public static let letterSpacing0 = 0%
     public static let letterSpacing10 = 5%
-    public static let lineAccent1Color = #bae1e4
-    public static let lineAccent1Style = solid
-    public static let lineAccent1Width = 1
     public static let lineHeight140 = 140%
     public static let lineHeight150 = 150%
-    public static let linePrimary01Color = #97adb4
-    public static let linePrimary01Style = solid
-    public static let linePrimary01Width = 1
     public static let neutralN0 = #ffffff
     public static let neutralN10 = #fafafb
     public static let neutralN100 = #787e95

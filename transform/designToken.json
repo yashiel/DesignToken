@@ -3246,70 +3246,72 @@
       }
     }
   },
-  "Line": {
-    "accent": {
-      "1": {
-        "color": {
-          "value": "#bae1e4",
-          "type": "color"
-        },
-        "width": {
-          "value": 1,
-          "type": "dimension"
-        },
-        "style": {
-          "value": "solid",
-          "type": "strokeStyle"
+  "border": {
+    "line": {
+      "accent": {
+        "1": {
+          "color": {
+            "value": "#bae1e4",
+            "type": "color"
+          },
+          "width": {
+            "value": 1,
+            "type": "dimension"
+          },
+          "style": {
+            "value": "solid",
+            "type": "strokeStyle"
+          }
+        }
+      },
+      "primary": {
+        "01": {
+          "color": {
+            "value": "#97adb4",
+            "type": "color"
+          },
+          "width": {
+            "value": 1,
+            "type": "dimension"
+          },
+          "style": {
+            "value": "solid",
+            "type": "strokeStyle"
+          }
         }
       }
     },
-    "primary": {
-      "01": {
-        "color": {
-          "value": "#97adb4",
-          "type": "color"
-        },
-        "width": {
-          "value": 1,
-          "type": "dimension"
-        },
-        "style": {
-          "value": "solid",
-          "type": "strokeStyle"
+    "dash": {
+      "accent": {
+        "01": {
+          "color": {
+            "value": "#bae1e4",
+            "type": "color"
+          },
+          "width": {
+            "value": 1,
+            "type": "dimension"
+          },
+          "style": {
+            "value": "dashed",
+            "type": "strokeStyle"
+          }
         }
-      }
-    }
-  },
-  "Dash": {
-    "accent": {
-      "01": {
-        "color": {
-          "value": "#bae1e4",
-          "type": "color"
-        },
-        "width": {
-          "value": 1,
-          "type": "dimension"
-        },
-        "style": {
-          "value": "dashed",
-          "type": "strokeStyle"
-        }
-      }
-    },
-    "primary": {
-      "01": {
-        "color": {
-          "value": "#97adb4",
-          "type": "color"
-        },
-        "width": {
-          "value": 1,
-          "type": "dimension"
-        },
-        "style": {
-          "value": "dashed",
-          "type": "strokeStyle"
+      },
+      "primary": {
+        "01": {
+          "color": {
+            "value": "#97adb4",
+            "type": "color"
+          },
+          "width": {
+            "value": 1,
+            "type": "dimension"
+          },
+          "style": {
+            "value": "dashed",
+            "type": "strokeStyle"
+          }
         }
       }
     }
