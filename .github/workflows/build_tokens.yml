@@ -17,7 +17,7 @@ jobs:
         uses: actions/setup-node@v3
         with:
           node-version: latest
-      - run: npx token-transformer tokens transform/designToken.json --expandTypography true --expandShadow true --expandComposition true --resolveReferences false
+      - run: npx token-transformer tokens transform/designToken.json --expandTypography true --expandShadow true --expandComposition true --resolveReferences true
       - run: npm ci
       - run: npm run build
       - uses: stefanzweifel/git-auto-commit-action@v4
