@@ -40,6 +40,19 @@ StyleDictionary.registerTransform({
 	},
 });
 
+StyleDictionary.registerTransform({
+	type: `value`,
+	name: `width/px`,
+	transitive: true,
+	matcher: (token) => {
+		return token.type === 'borderWidth';
+	},
+	transformer: (token) => {
+		const floatVal = parseFloat(token.value);
+		return `${floatVal}px`;
+	},
+});
+
 module.exports = {
 	source: ['transform/**/*.@(js|json)'],
 
@@ -53,9 +66,9 @@ module.exports = {
 				'time/seconds',
 				'content/icon',
 				'size/rem',
-				'size/pxToRem',
 				'color/css',
 				'scale/unit',
+				'width/px',
 			],
 			files: [
 				{
@@ -72,9 +85,9 @@ module.exports = {
 				'time/seconds',
 				'content/icon',
 				'size/rem',
-				'size/pxToRem',
 				'color/css',
 				'scale/unit',
+				'width/px',
 			],
 			files: [
 				{
