@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 02 Mar 2023 18:59:20 GMT
+// Generated on Thu, 02 Mar 2023 19:05:21 GMT
 
 
 import UIKit
@@ -59,16 +59,32 @@ public enum DesignSystemEnum {
     public static let btnSpacing24 = 24
     public static let btnSpacing4 = 4
     public static let btnSpacing8 = 8
-    public static let buttonBorderDangerActive = [object Object]
-    public static let buttonBorderDangerHover = [object Object]
-    public static let buttonBorderPrimaryActive = [object Object]
-    public static let buttonBorderPrimaryHover = [object Object]
+    public static let buttonBorderDangerActiveColor = #ed3030
+    public static let buttonBorderDangerActiveStyle = solid
+    public static let buttonBorderDangerActiveWidth = 1
+    public static let buttonBorderDangerHoverColor = #a62222
+    public static let buttonBorderDangerHoverStyle = solid
+    public static let buttonBorderDangerHoverWidth = 1
+    public static let buttonBorderPrimaryActiveColor = #56b5bc
+    public static let buttonBorderPrimaryActiveStyle = solid
+    public static let buttonBorderPrimaryActiveWidth = 1
+    public static let buttonBorderPrimaryHoverColor = #3c7f84
+    public static let buttonBorderPrimaryHoverStyle = solid
+    public static let buttonBorderPrimaryHoverWidth = 1
     public static let buttonBorderRadiusSm = 4
     public static let buttonBorderRadiusXxxl = 24
-    public static let buttonBorderSecondaryActive = [object Object]
-    public static let buttonBorderSecondaryHover = [object Object]
-    public static let buttonBorderSuccessActive = [object Object]
-    public static let buttonBorderSuccessHover = [object Object]
+    public static let buttonBorderSecondaryActiveColor = #ef8b6d
+    public static let buttonBorderSecondaryActiveStyle = solid
+    public static let buttonBorderSecondaryActiveWidth = 1
+    public static let buttonBorderSecondaryHoverColor = #a7614c
+    public static let buttonBorderSecondaryHoverStyle = solid
+    public static let buttonBorderSecondaryHoverWidth = 1
+    public static let buttonBorderSuccessActiveColor = #79c131
+    public static let buttonBorderSuccessActiveStyle = solid
+    public static let buttonBorderSuccessActiveWidth = 1
+    public static let buttonBorderSuccessHoverColor = #558722
+    public static let buttonBorderSuccessHoverStyle = solid
+    public static let buttonBorderSuccessHoverWidth = 1
     public static let buttonBorderWidthSm = 1
     public static let buttonDangerActive = #ed3030
     public static let buttonDangerClick = #f8aaaa
@@ -182,10 +198,18 @@ public enum DesignSystemEnum {
     public static let dangerD50 = #fdeaea
     public static let dangerD500 = #911d1d
     public static let dangerD75 = #f8aaaa
-    public static let dashAccent01 = [object Object]
-    public static let dashPrimary01 = [object Object]
-    public static let dashedAccent01 = [object Object]
-    public static let dashedPrimary01 = [object Object]
+    public static let dashAccent01Color = #bae1e4
+    public static let dashAccent01Style = dashed
+    public static let dashAccent01Width = 1
+    public static let dashPrimary01Color = #97adb4
+    public static let dashPrimary01Style = dashed
+    public static let dashPrimary01Width = 1
+    public static let dashedAccent01Color = #bae1e4
+    public static let dashedAccent01Style = dashed
+    public static let dashedAccent01Width = 1
+    public static let dashedPrimary01Color = #97adb4
+    public static let dashedPrimary01Style = dashed
+    public static let dashedPrimary01Width = 1
     public static let fontColorShadeAccent = "#3c7f84"
     public static let fontColorShadeDanger = "#a62222"
     public static let fontColorShadeInfo = "#1577ae"
@@ -493,10 +517,14 @@ public enum DesignSystemEnum {
     public static let layoutSpacing8 = 8
     public static let letterSpacing0 = 0%
     public static let letterSpacing10 = 5%
-    public static let lineAccent1 = [object Object]
+    public static let lineAccent1Color = #bae1e4
+    public static let lineAccent1Style = solid
+    public static let lineAccent1Width = 1
     public static let lineHeight140 = 140%
     public static let lineHeight150 = 150%
-    public static let linePrimary01 = [object Object]
+    public static let linePrimary01Color = #97adb4
+    public static let linePrimary01Style = solid
+    public static let linePrimary01Width = 1
     public static let neutralN0 = #ffffff
     public static let neutralN10 = #fafafb
     public static let neutralN100 = #787e95
@@ -629,8 +657,12 @@ public enum DesignSystemEnum {
     public static let smallSemiBoldFontSize = 12
     public static let smallSemiBoldFontWeight = SemiBold
     public static let smallSemiBoldLineHeight = 150%
-    public static let solidAccent01 = [object Object]
-    public static let solidPrimary01 = [object Object]
+    public static let solidAccent01Color = #bae1e4
+    public static let solidAccent01Style = solid
+    public static let solidAccent01Width = 1
+    public static let solidPrimary01Color = #97adb4
+    public static let solidPrimary01Style = solid
+    public static let solidPrimary01Width = 1
     public static let spacing12 = 12
     public static let spacing16 = 16
     public static let spacing2 = 2

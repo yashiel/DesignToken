@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Thu, 02 Mar 2023 18:59:20 GMT
+ * Generated on Thu, 02 Mar 2023 19:05:21 GMT
  */
 
 :root {
@@ -16,14 +16,30 @@
   --button-border-radius-sm: 0.286rem;
   --button-border-radius-xxxl: 1.714rem;
   --button-border-width-sm: 1;
-  --button-border-primary-active: [object Object];
-  --button-border-primary-hover: [object Object];
-  --button-border-secondary-active: [object Object];
-  --button-border-secondary-hover: [object Object];
-  --button-border-success-active: [object Object];
-  --button-border-success-hover: [object Object];
-  --button-border-danger-active: [object Object];
-  --button-border-danger-hover: [object Object];
+  --button-border-primary-active-color: #56b5bc;
+  --button-border-primary-active-width: 1;
+  --button-border-primary-active-style: solid;
+  --button-border-primary-hover-color: #3c7f84;
+  --button-border-primary-hover-width: 1;
+  --button-border-primary-hover-style: solid;
+  --button-border-secondary-active-color: #ef8b6d;
+  --button-border-secondary-active-width: 1;
+  --button-border-secondary-active-style: solid;
+  --button-border-secondary-hover-color: #a7614c;
+  --button-border-secondary-hover-width: 1;
+  --button-border-secondary-hover-style: solid;
+  --button-border-success-active-color: #79c131;
+  --button-border-success-active-width: 1;
+  --button-border-success-active-style: solid;
+  --button-border-success-hover-color: #558722;
+  --button-border-success-hover-width: 1;
+  --button-border-success-hover-style: solid;
+  --button-border-danger-active-color: #ed3030;
+  --button-border-danger-active-width: 1;
+  --button-border-danger-active-style: solid;
+  --button-border-danger-hover-color: #a62222;
+  --button-border-danger-hover-width: 1;
+  --button-border-danger-hover-style: solid;
   --button-text-white: #fff;
   --button-success-active: #79c131;
   --button-success-hover: #558722;
@@ -372,10 +388,18 @@
   --layout-opacity-80: 80%;
   --layout-opacity-90: 90%;
   --layout-opacity-100: 100%;
-  --dashed-primary-01: [object Object];
-  --dashed-accent-01: [object Object];
-  --solid-primary-01: [object Object];
-  --solid-accent-01: [object Object];
+  --dashed-primary-01-color: #97adb4;
+  --dashed-primary-01-width: 1;
+  --dashed-primary-01-style: dashed;
+  --dashed-accent-01-color: #bae1e4;
+  --dashed-accent-01-width: 1;
+  --dashed-accent-01-style: dashed;
+  --solid-primary-01-color: #97adb4;
+  --solid-primary-01-width: 1;
+  --solid-primary-01-style: solid;
+  --solid-accent-01-color: #bae1e4;
+  --solid-accent-01-width: 1;
+  --solid-accent-01-style: solid;
   --color-neutral-10: #fafafb;
   --color-neutral-20: #f5f5f7;
   --color-neutral-30: #ebecef;
@@ -695,10 +719,18 @@
   --gradient-secondary-90: linear-gradient(90deg, #fff 0%, #ef8b6d 100%);
   --gradient-secondary-180: linear-gradient(180deg, #fff 0%, #ef8b6d 100%);
   --gradient-secondary-270: linear-gradient(270deg, #fff 0%, #ef8b6d 100%);
-  --line-accent-1: [object Object];
-  --line-primary-01: [object Object];
-  --dash-accent-01: [object Object];
-  --dash-primary-01: [object Object];
+  --line-accent-1-color: #bae1e4;
+  --line-accent-1-width: 1;
+  --line-accent-1-style: solid;
+  --line-primary-01-color: #97adb4;
+  --line-primary-01-width: 1;
+  --line-primary-01-style: solid;
+  --dash-accent-01-color: #bae1e4;
+  --dash-accent-01-width: 1;
+  --dash-accent-01-style: dashed;
+  --dash-primary-01-color: #97adb4;
+  --dash-primary-01-width: 1;
+  --dash-primary-01-style: dashed;
   --token-set-order-0: globals;
   --token-set-order-1: Core/__colors;
   --token-set-order-2: Core/__layout;

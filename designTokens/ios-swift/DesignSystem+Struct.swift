@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 02 Mar 2023 18:59:20 GMT
+// Generated on Thu, 02 Mar 2023 19:05:21 GMT
 
 
 import UIKit
@@ -59,16 +59,32 @@ internal struct DesignSystemStruct {
     internal static let btnSpacing24 = 24
     internal static let btnSpacing4 = 4
     internal static let btnSpacing8 = 8
-    internal static let buttonBorderDangerActive = [object Object]
-    internal static let buttonBorderDangerHover = [object Object]
-    internal static let buttonBorderPrimaryActive = [object Object]
-    internal static let buttonBorderPrimaryHover = [object Object]
+    internal static let buttonBorderDangerActiveColor = #ed3030
+    internal static let buttonBorderDangerActiveStyle = solid
+    internal static let buttonBorderDangerActiveWidth = 1
+    internal static let buttonBorderDangerHoverColor = #a62222
+    internal static let buttonBorderDangerHoverStyle = solid
+    internal static let buttonBorderDangerHoverWidth = 1
+    internal static let buttonBorderPrimaryActiveColor = #56b5bc
+    internal static let buttonBorderPrimaryActiveStyle = solid
+    internal static let buttonBorderPrimaryActiveWidth = 1
+    internal static let buttonBorderPrimaryHoverColor = #3c7f84
+    internal static let buttonBorderPrimaryHoverStyle = solid
+    internal static let buttonBorderPrimaryHoverWidth = 1
     internal static let buttonBorderRadiusSm = 4
     internal static let buttonBorderRadiusXxxl = 24
-    internal static let buttonBorderSecondaryActive = [object Object]
-    internal static let buttonBorderSecondaryHover = [object Object]
-    internal static let buttonBorderSuccessActive = [object Object]
-    internal static let buttonBorderSuccessHover = [object Object]
+    internal static let buttonBorderSecondaryActiveColor = #ef8b6d
+    internal static let buttonBorderSecondaryActiveStyle = solid
+    internal static let buttonBorderSecondaryActiveWidth = 1
+    internal static let buttonBorderSecondaryHoverColor = #a7614c
+    internal static let buttonBorderSecondaryHoverStyle = solid
+    internal static let buttonBorderSecondaryHoverWidth = 1
+    internal static let buttonBorderSuccessActiveColor = #79c131
+    internal static let buttonBorderSuccessActiveStyle = solid
+    internal static let buttonBorderSuccessActiveWidth = 1
+    internal static let buttonBorderSuccessHoverColor = #558722
+    internal static let buttonBorderSuccessHoverStyle = solid
+    internal static let buttonBorderSuccessHoverWidth = 1
     internal static let buttonBorderWidthSm = 1
     internal static let buttonDangerActive = #ed3030
     internal static let buttonDangerClick = #f8aaaa
@@ -182,10 +198,18 @@ internal struct DesignSystemStruct {
     internal static let dangerD50 = #fdeaea
     internal static let dangerD500 = #911d1d
     internal static let dangerD75 = #f8aaaa
-    internal static let dashAccent01 = [object Object]
-    internal static let dashPrimary01 = [object Object]
-    internal static let dashedAccent01 = [object Object]
-    internal static let dashedPrimary01 = [object Object]
+    internal static let dashAccent01Color = #bae1e4
+    internal static let dashAccent01Style = dashed
+    internal static let dashAccent01Width = 1
+    internal static let dashPrimary01Color = #97adb4
+    internal static let dashPrimary01Style = dashed
+    internal static let dashPrimary01Width = 1
+    internal static let dashedAccent01Color = #bae1e4
+    internal static let dashedAccent01Style = dashed
+    internal static let dashedAccent01Width = 1
+    internal static let dashedPrimary01Color = #97adb4
+    internal static let dashedPrimary01Style = dashed
+    internal static let dashedPrimary01Width = 1
     internal static let fontColorShadeAccent = "#3c7f84"
     internal static let fontColorShadeDanger = "#a62222"
     internal static let fontColorShadeInfo = "#1577ae"
@@ -493,10 +517,14 @@ internal struct DesignSystemStruct {
     internal static let layoutSpacing8 = 8
     internal static let letterSpacing0 = 0%
     internal static let letterSpacing10 = 5%
-    internal static let lineAccent1 = [object Object]
+    internal static let lineAccent1Color = #bae1e4
+    internal static let lineAccent1Style = solid
+    internal static let lineAccent1Width = 1
     internal static let lineHeight140 = 140%
     internal static let lineHeight150 = 150%
-    internal static let linePrimary01 = [object Object]
+    internal static let linePrimary01Color = #97adb4
+    internal static let linePrimary01Style = solid
+    internal static let linePrimary01Width = 1
     internal static let neutralN0 = #ffffff
     internal static let neutralN10 = #fafafb
     internal static let neutralN100 = #787e95
@@ -629,8 +657,12 @@ internal struct DesignSystemStruct {
     internal static let smallSemiBoldFontSize = 12
     internal static let smallSemiBoldFontWeight = SemiBold
     internal static let smallSemiBoldLineHeight = 150%
-    internal static let solidAccent01 = [object Object]
-    internal static let solidPrimary01 = [object Object]
+    internal static let solidAccent01Color = #bae1e4
+    internal static let solidAccent01Style = solid
+    internal static let solidAccent01Width = 1
+    internal static let solidPrimary01Color = #97adb4
+    internal static let solidPrimary01Style = solid
+    internal static let solidPrimary01Width = 1
     internal static let spacing12 = 12
     internal static let spacing16 = 16
     internal static let spacing2 = 2
