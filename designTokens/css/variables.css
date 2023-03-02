@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Thu, 02 Mar 2023 19:35:29 GMT
+ * Generated on Thu, 02 Mar 2023 19:46:57 GMT
  */
 
 :root {
@@ -15,7 +15,7 @@
   --button-disabled: #c1c4ce;
   --button-border-radius-sm: 0.286rem;
   --button-border-radius-xxxl: 1.714rem;
-  --button-border-width-sm: 1;
+  --button-border-width-sm: 1px;
   --button-border-primary-active-color: #56b5bc;
   --button-border-primary-active-width: 1;
   --button-border-primary-active-style: solid;
@@ -314,10 +314,10 @@
   --layout-size-52: 3.714rem;
   --layout-size-56: 4.000rem;
   --layout-size-60: 4.286rem;
-  --layout-border-width-01: 1;
-  --layout-border-width-02: 2;
-  --layout-border-width-03: 3;
-  --layout-border-width-04: 4;
+  --layout-border-width-01: 1px;
+  --layout-border-width-02: 2px;
+  --layout-border-width-03: 3px;
+  --layout-border-width-04: 4px;
   --layout-box-shadow-accent-x: 0;
   --layout-box-shadow-accent-y: 8;
   --layout-box-shadow-accent-blur: 18;
@@ -511,10 +511,10 @@
   --font-weight-semi-bold: SemiBold;
   --font-weight-medium: Medium;
   --font-weight-italic: Italic;
-  --border-width-01: 1;
-  --border-width-02: 2;
-  --border-width-03: 3;
-  --border-width-04: 4;
+  --border-width-01: 1px;
+  --border-width-02: 2px;
+  --border-width-03: 3px;
+  --border-width-04: 4px;
   --opacity-10: 10%;
   --opacity-20: 20%;
   --opacity-30: 30%;
@@ -677,40 +677,40 @@
   --font-size-32px: 2.286rem;
   --letter-spacing-0: 0%;
   --letter-spacing-10: 5%;
-  --size-4: 0.020rem;
-  --size-8: 0.041rem;
-  --size-12: 0.061rem;
-  --size-16: 0.082rem;
-  --size-20: 0.102rem;
-  --size-24: 0.122rem;
-  --size-28: 0.143rem;
-  --size-32: 0.163rem;
-  --size-36: 0.184rem;
-  --size-40: 0.204rem;
-  --size-44: 0.224rem;
-  --size-48: 0.245rem;
-  --size-52: 0.265rem;
-  --size-56: 0.286rem;
-  --size-60: 0.306rem;
-  --size-64: 0.327rem;
-  --size-68: 0.347rem;
-  --size-72: 0.367rem;
-  --size-76: 0.388rem;
-  --size-80: 0.408rem;
-  --size-84: 0.429rem;
-  --size-88: 0.449rem;
-  --size-92: 0.469rem;
-  --size-96: 0.490rem;
-  --size-100: 0.510rem;
-  --size-200: 1.020rem;
-  --size-300: 1.531rem;
-  --size-400: 2.041rem;
-  --size-500: 2.551rem;
-  --size-600: 3.061rem;
-  --size-700: 3.571rem;
-  --size-800: 4.082rem;
-  --size-900: 4.592rem;
-  --size-1000: 5.102rem;
+  --size-4: 0.286rem;
+  --size-8: 0.571rem;
+  --size-12: 0.857rem;
+  --size-16: 1.143rem;
+  --size-20: 1.429rem;
+  --size-24: 1.714rem;
+  --size-28: 2.000rem;
+  --size-32: 2.286rem;
+  --size-36: 2.571rem;
+  --size-40: 2.857rem;
+  --size-44: 3.143rem;
+  --size-48: 3.429rem;
+  --size-52: 3.714rem;
+  --size-56: 4.000rem;
+  --size-60: 4.286rem;
+  --size-64: 4.571rem;
+  --size-68: 4.857rem;
+  --size-72: 5.143rem;
+  --size-76: 5.429rem;
+  --size-80: 5.714rem;
+  --size-84: 6.000rem;
+  --size-88: 6.286rem;
+  --size-92: 6.571rem;
+  --size-96: 6.857rem;
+  --size-100: 7.143rem;
+  --size-200: 14.286rem;
+  --size-300: 21.429rem;
+  --size-400: 28.571rem;
+  --size-500: 35.714rem;
+  --size-600: 42.857rem;
+  --size-700: 50.000rem;
+  --size-800: 57.143rem;
+  --size-900: 64.286rem;
+  --size-1000: 71.429rem;
   --gradient-primary-45: linear-gradient(45deg, #fff 0%, #56b5bc 100%);
   --gradient-primary-90: linear-gradient(90deg, #fff 0%, #56b5bc 100%);
   --gradient-primary-180: linear-gradient(180deg, #c1c4ce 0%, #56b5bc 100%);
