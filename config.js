@@ -20,7 +20,8 @@ StyleDictionary.registerTransform({
 		return (
 			token.type === 'fontSizes' ||
 			token.type === 'spacing' ||
-			token.type === 'borderRadius'
+			token.type === 'borderRadius' ||
+			token.type === 'sizing'
 		);
 	},
 	transformer: (token) => {
@@ -47,9 +48,11 @@ module.exports = {
 			basePxFontSize: baseFontSize,
 			transforms: [
 				'attribute/cti',
+				'attribute/cti',
 				'name/cti/kebab',
 				'time/seconds',
 				'content/icon',
+				'size/rem',
 				'size/pxToRem',
 				'color/css',
 				'scale/unit',
@@ -68,6 +71,7 @@ module.exports = {
 				'name/cti/kebab',
 				'time/seconds',
 				'content/icon',
+				'size/rem',
 				'size/pxToRem',
 				'color/css',
 				'scale/unit',
