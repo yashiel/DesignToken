@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 02 Mar 2023 19:05:21 GMT
+// Generated on Thu, 02 Mar 2023 19:35:29 GMT
 
 
 #import "DesignSystemSize.h"
