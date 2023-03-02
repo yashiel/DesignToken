@@ -4,47 +4,12 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 02 Mar 2023 18:34:59 GMT
+// Generated on Thu, 02 Mar 2023 18:56:09 GMT
 
 
 import UIKit
 
 public enum DesignSystemEnum {
-    public static let 01 = 1
-    public static let 02 = 2
-    public static let 03 = 3
-    public static let 04 = 4
-    public static let 10 = 10%
-    public static let 100 = 100%
-    public static let 10px = 10
-    public static let 11px = 11
-    public static let 12 = 12
-    public static let 12px = 12
-    public static let 140 = 140%
-    public static let 14px = 14
-    public static let 150 = 150%
-    public static let 16 = 16
-    public static let 16px = 16
-    public static let 18px = 18
-    public static let 20 = 20
-    public static let 20 = 20%
-    public static let 20px = 20
-    public static let 22px = 22
-    public static let 24 = 24
-    public static let 25px = 25
-    public static let 28 = 28
-    public static let 28px = 28
-    public static let 30 = 30%
-    public static let 32 = 32
-    public static let 32px = 32
-    public static let 4 = 4
-    public static let 40 = 40%
-    public static let 50 = 50%
-    public static let 60 = 60%
-    public static let 70 = 70%
-    public static let 8 = 8
-    public static let 80 = 80%
-    public static let 90 = 90%
     public static let accent20Blur = 18
     public static let accent20Color = rgba(#9dd4d8, 20%)
     public static let accent20Spread = 50
@@ -76,7 +41,18 @@ public enum DesignSystemEnum {
     public static let baseSemiBoldLineHeight = 150%
     public static let black = #000000
     public static let body = #061216
-    public static let bold = Bold
+    public static let borderRadius12 = 12
+    public static let borderRadius16 = 16
+    public static let borderRadius20 = 20
+    public static let borderRadius24 = 24
+    public static let borderRadius28 = 28
+    public static let borderRadius32 = 32
+    public static let borderRadius4 = 4
+    public static let borderRadius8 = 8
+    public static let borderWidth01 = 1
+    public static let borderWidth02 = 2
+    public static let borderWidth03 = 3
+    public static let borderWidth04 = 4
     public static let btnSpacing12 = 12
     public static let btnSpacing16 = 16
     public static let btnSpacing20 = 20
@@ -193,7 +169,6 @@ public enum DesignSystemEnum {
     public static let colorWarning500 = #9c761c
     public static let colorWarning75 = #ffe6a9
     public static let colorWhite = #fff
-    public static let courier = Courier Prime
     public static let danger20Blur = 18
     public static let danger20Color = rgba(#f58787, 20%)
     public static let danger20Spread = 50
@@ -221,12 +196,30 @@ public enum DesignSystemEnum {
     public static let fontDefaultBlack = #000000
     public static let fontDefaultColor = #061216
     public static let fontDefaultWhite = #fff
+    public static let fontFamilyCourier = Courier Prime
+    public static let fontFamilyRoboto = Roboto
+    public static let fontSize10px = 10
+    public static let fontSize11px = 11
+    public static let fontSize12px = 12
+    public static let fontSize14px = 14
+    public static let fontSize16px = 16
+    public static let fontSize18px = 18
+    public static let fontSize20px = 20
+    public static let fontSize22px = 22
+    public static let fontSize25px = 25
+    public static let fontSize28px = 28
+    public static let fontSize32px = 32
     public static let fontTint01 = #c1c4ce
     public static let fontTint02 = #b2b5c2
     public static let fontTint03 = #a5a9b8
     public static let fontTint04 = #969bac
     public static let fontUnderline = underline
     public static let fontUppercase = uppercase
+    public static let fontWeightBold = Bold
+    public static let fontWeightItalic = Italic
+    public static let fontWeightMedium = Medium
+    public static let fontWeightRegular = Regular
+    public static let fontWeightSemiBold = SemiBold
     public static let gradientPrimary180 = linear-gradient(180deg, $neutral.N50 0%, $accent.A300 100%)
     public static let gradientPrimary270 = linear-gradient(270deg, $white 0%, $accent.A300 100%)
     public static let gradientPrimary45 = linear-gradient(45deg, $white 0%, $accent.A300 100%)
@@ -344,7 +337,6 @@ public enum DesignSystemEnum {
     public static let infoI50 = #e9f7fe
     public static let infoI500 = #126898
     public static let infoI75 = #a3dcfd
-    public static let italic = Italic
     public static let labelBoldFontFamily = Roboto
     public static let labelBoldFontSize = 11
     public static let labelBoldFontWeight = Bold
@@ -502,8 +494,9 @@ public enum DesignSystemEnum {
     public static let letterSpacing0 = 0%
     public static let letterSpacing10 = 5%
     public static let lineAccent1 = [object Object]
+    public static let lineHeight140 = 140%
+    public static let lineHeight150 = 150%
     public static let linePrimary01 = [object Object]
-    public static let medium = Medium
     public static let neutralN0 = #ffffff
     public static let neutralN10 = #fafafb
     public static let neutralN100 = #787e95
@@ -523,6 +516,16 @@ public enum DesignSystemEnum {
     public static let neutralN800 = #121d44
     public static let neutralN90 = #878da0
     public static let neutralN900 = #05113a
+    public static let opacity10 = 10%
+    public static let opacity100 = 100%
+    public static let opacity20 = 20%
+    public static let opacity30 = 30%
+    public static let opacity40 = 40%
+    public static let opacity50 = 50%
+    public static let opacity60 = 60%
+    public static let opacity70 = 70%
+    public static let opacity80 = 80%
+    public static let opacity90 = 90%
     public static let primary10LeftBlur = 15
     public static let primary10LeftColor = rgba(#2d5966, 8%)
     public static let primary10LeftSpread = 0
@@ -548,8 +551,6 @@ public enum DesignSystemEnum {
     public static let primaryP50 = #e6ebed
     public static let primaryP500 = #01222b
     public static let primaryP75 = #97adb4
-    public static let regular = Regular
-    public static let roboto = Roboto
     public static let secondary20Blur = 18
     public static let secondary20Color = rgba(#f6bcaa, 20%)
     public static let secondary20Spread = 50
@@ -563,7 +564,6 @@ public enum DesignSystemEnum {
     public static let secondaryS50 = #fdf3f0
     public static let secondaryS500 = #925542
     public static let secondaryS75 = #f8cfc3
-    public static let semiBold = SemiBold
     public static let size100 = CGFloat(1600.00)
     public static let size1000 = CGFloat(16000.00)
     public static let size12 = CGFloat(192.00)
@@ -671,13 +671,15 @@ public enum DesignSystemEnum {
     public static let successS50 = #f2f9ea
     public static let successS500 = #4a761e
     public static let successS75 = #c8e6ab
+    public static let textCaseCapitalize = capitalize
+    public static let textCaseUppercase = uppercase
+    public static let textDecorationLineThrough = line-through
+    public static let textDecorationUnderline = underline
     public static let tokenSetOrder0 = globals
     public static let tokenSetOrder1 = Core/__colors
     public static let tokenSetOrder2 = Core/__layout
     public static let tokenSetOrder3 = Core/__typography
     public static let tokenSetOrder4 = Components/__buttons
-    public static let underline = underline
-    public static let uppercase = uppercase
     public static let warning20Blur = 18
     public static let warning20Color = rgba(#ffdb86, 20%)
     public static let warning20Spread = 50

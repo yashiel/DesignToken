@@ -4,47 +4,12 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 02 Mar 2023 18:34:59 GMT
+// Generated on Thu, 02 Mar 2023 18:56:09 GMT
 
 
 import UIKit
 
 internal struct DesignSystemStruct {
-    internal static let 01 = 1
-    internal static let 02 = 2
-    internal static let 03 = 3
-    internal static let 04 = 4
-    internal static let 10 = 10%
-    internal static let 100 = 100%
-    internal static let 10px = 10
-    internal static let 11px = 11
-    internal static let 12 = 12
-    internal static let 12px = 12
-    internal static let 140 = 140%
-    internal static let 14px = 14
-    internal static let 150 = 150%
-    internal static let 16 = 16
-    internal static let 16px = 16
-    internal static let 18px = 18
-    internal static let 20 = 20
-    internal static let 20 = 20%
-    internal static let 20px = 20
-    internal static let 22px = 22
-    internal static let 24 = 24
-    internal static let 25px = 25
-    internal static let 28 = 28
-    internal static let 28px = 28
-    internal static let 30 = 30%
-    internal static let 32 = 32
-    internal static let 32px = 32
-    internal static let 4 = 4
-    internal static let 40 = 40%
-    internal static let 50 = 50%
-    internal static let 60 = 60%
-    internal static let 70 = 70%
-    internal static let 8 = 8
-    internal static let 80 = 80%
-    internal static let 90 = 90%
     internal static let accent20Blur = 18
     internal static let accent20Color = rgba(#9dd4d8, 20%)
     internal static let accent20Spread = 50
@@ -76,7 +41,18 @@ internal struct DesignSystemStruct {
     internal static let baseSemiBoldLineHeight = 150%
     internal static let black = #000000
     internal static let body = #061216
-    internal static let bold = Bold
+    internal static let borderRadius12 = 12
+    internal static let borderRadius16 = 16
+    internal static let borderRadius20 = 20
+    internal static let borderRadius24 = 24
+    internal static let borderRadius28 = 28
+    internal static let borderRadius32 = 32
+    internal static let borderRadius4 = 4
+    internal static let borderRadius8 = 8
+    internal static let borderWidth01 = 1
+    internal static let borderWidth02 = 2
+    internal static let borderWidth03 = 3
+    internal static let borderWidth04 = 4
     internal static let btnSpacing12 = 12
     internal static let btnSpacing16 = 16
     internal static let btnSpacing20 = 20
@@ -193,7 +169,6 @@ internal struct DesignSystemStruct {
     internal static let colorWarning500 = #9c761c
     internal static let colorWarning75 = #ffe6a9
     internal static let colorWhite = #fff
-    internal static let courier = Courier Prime
     internal static let danger20Blur = 18
     internal static let danger20Color = rgba(#f58787, 20%)
     internal static let danger20Spread = 50
@@ -221,12 +196,30 @@ internal struct DesignSystemStruct {
     internal static let fontDefaultBlack = #000000
     internal static let fontDefaultColor = #061216
     internal static let fontDefaultWhite = #fff
+    internal static let fontFamilyCourier = Courier Prime
+    internal static let fontFamilyRoboto = Roboto
+    internal static let fontSize10px = 10
+    internal static let fontSize11px = 11
+    internal static let fontSize12px = 12
+    internal static let fontSize14px = 14
+    internal static let fontSize16px = 16
+    internal static let fontSize18px = 18
+    internal static let fontSize20px = 20
+    internal static let fontSize22px = 22
+    internal static let fontSize25px = 25
+    internal static let fontSize28px = 28
+    internal static let fontSize32px = 32
     internal static let fontTint01 = #c1c4ce
     internal static let fontTint02 = #b2b5c2
     internal static let fontTint03 = #a5a9b8
     internal static let fontTint04 = #969bac
     internal static let fontUnderline = underline
     internal static let fontUppercase = uppercase
+    internal static let fontWeightBold = Bold
+    internal static let fontWeightItalic = Italic
+    internal static let fontWeightMedium = Medium
+    internal static let fontWeightRegular = Regular
+    internal static let fontWeightSemiBold = SemiBold
     internal static let gradientPrimary180 = linear-gradient(180deg, $neutral.N50 0%, $accent.A300 100%)
     internal static let gradientPrimary270 = linear-gradient(270deg, $white 0%, $accent.A300 100%)
     internal static let gradientPrimary45 = linear-gradient(45deg, $white 0%, $accent.A300 100%)
@@ -344,7 +337,6 @@ internal struct DesignSystemStruct {
     internal static let infoI50 = #e9f7fe
     internal static let infoI500 = #126898
     internal static let infoI75 = #a3dcfd
-    internal static let italic = Italic
     internal static let labelBoldFontFamily = Roboto
     internal static let labelBoldFontSize = 11
     internal static let labelBoldFontWeight = Bold
@@ -502,8 +494,9 @@ internal struct DesignSystemStruct {
     internal static let letterSpacing0 = 0%
     internal static let letterSpacing10 = 5%
     internal static let lineAccent1 = [object Object]
+    internal static let lineHeight140 = 140%
+    internal static let lineHeight150 = 150%
     internal static let linePrimary01 = [object Object]
-    internal static let medium = Medium
     internal static let neutralN0 = #ffffff
     internal static let neutralN10 = #fafafb
     internal static let neutralN100 = #787e95
@@ -523,6 +516,16 @@ internal struct DesignSystemStruct {
     internal static let neutralN800 = #121d44
     internal static let neutralN90 = #878da0
     internal static let neutralN900 = #05113a
+    internal static let opacity10 = 10%
+    internal static let opacity100 = 100%
+    internal static let opacity20 = 20%
+    internal static let opacity30 = 30%
+    internal static let opacity40 = 40%
+    internal static let opacity50 = 50%
+    internal static let opacity60 = 60%
+    internal static let opacity70 = 70%
+    internal static let opacity80 = 80%
+    internal static let opacity90 = 90%
     internal static let primary10LeftBlur = 15
     internal static let primary10LeftColor = rgba(#2d5966, 8%)
     internal static let primary10LeftSpread = 0
@@ -548,8 +551,6 @@ internal struct DesignSystemStruct {
     internal static let primaryP50 = #e6ebed
     internal static let primaryP500 = #01222b
     internal static let primaryP75 = #97adb4
-    internal static let regular = Regular
-    internal static let roboto = Roboto
     internal static let secondary20Blur = 18
     internal static let secondary20Color = rgba(#f6bcaa, 20%)
     internal static let secondary20Spread = 50
@@ -563,7 +564,6 @@ internal struct DesignSystemStruct {
     internal static let secondaryS50 = #fdf3f0
     internal static let secondaryS500 = #925542
     internal static let secondaryS75 = #f8cfc3
-    internal static let semiBold = SemiBold
     internal static let size100 = CGFloat(1600.00)
     internal static let size1000 = CGFloat(16000.00)
     internal static let size12 = CGFloat(192.00)
@@ -671,13 +671,15 @@ internal struct DesignSystemStruct {
     internal static let successS50 = #f2f9ea
     internal static let successS500 = #4a761e
     internal static let successS75 = #c8e6ab
+    internal static let textCaseCapitalize = capitalize
+    internal static let textCaseUppercase = uppercase
+    internal static let textDecorationLineThrough = line-through
+    internal static let textDecorationUnderline = underline
     internal static let tokenSetOrder0 = globals
     internal static let tokenSetOrder1 = Core/__colors
     internal static let tokenSetOrder2 = Core/__layout
     internal static let tokenSetOrder3 = Core/__typography
     internal static let tokenSetOrder4 = Components/__buttons
-    internal static let underline = underline
-    internal static let uppercase = uppercase
     internal static let warning20Blur = 18
     internal static let warning20Color = rgba(#ffdb86, 20%)
     internal static let warning20Spread = 50
