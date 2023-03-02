@@ -17,7 +17,11 @@ StyleDictionary.registerTransform({
 	name: `scale/unit`,
 	transitive: true,
 	matcher: (token) => {
-		return token.type === 'fontSizes' || token.type === 'spacing';
+		return (
+			token.type === 'fontSizes' ||
+			token.type === 'spacing' ||
+			token.type === 'borderRadius'
+		);
 	},
 	transformer: (token) => {
 		const baseFont = baseFontSize; // !important base font size
