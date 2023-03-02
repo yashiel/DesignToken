@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 02 Mar 2023 06:45:15 GMT
+// Generated on Thu, 02 Mar 2023 18:34:59 GMT
 
 
 import UIKit
@@ -226,6 +226,7 @@ internal struct DesignSystemStruct {
     internal static let fontTint03 = #a5a9b8
     internal static let fontTint04 = #969bac
     internal static let fontUnderline = underline
+    internal static let fontUppercase = uppercase
     internal static let gradientPrimary180 = linear-gradient(180deg, $neutral.N50 0%, $accent.A300 100%)
     internal static let gradientPrimary270 = linear-gradient(270deg, $white 0%, $accent.A300 100%)
     internal static let gradientPrimary45 = linear-gradient(45deg, $white 0%, $accent.A300 100%)
@@ -676,7 +677,6 @@ internal struct DesignSystemStruct {
     internal static let tokenSetOrder3 = Core/__typography
     internal static let tokenSetOrder4 = Components/__buttons
     internal static let underline = underline
-    internal static let uppercase = uppercase
     internal static let uppercase = uppercase
     internal static let warning20Blur = 18
     internal static let warning20Color = rgba(#ffdb86, 20%)

@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Thu, 02 Mar 2023 06:45:15 GMT
+ * Generated on Thu, 02 Mar 2023 18:34:59 GMT
  */
 
 :root {
@@ -257,7 +257,7 @@
   --font-color-shade-warning: #b38720;
   --font-color-shade-info: #1577ae;
   --font-underline: underline;
-  --uppercase: uppercase;
+  --font-uppercase: uppercase;
   --layout-spacing-2: 0.010rem;
   --layout-spacing-4: 0.020rem;
   --layout-spacing-8: 0.041rem;

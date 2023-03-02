@@ -1207,11 +1207,11 @@
     "underline": {
       "value": "{underline}",
       "type": "textDecoration"
+    },
+    "uppercase": {
+      "value": "{uppercase}",
+      "type": "textCase"
     }
-  },
-  "Uppercase": {
-    "value": "{uppercase}",
-    "type": "textCase"
   },
   "layout": {
     "spacing": {

@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 02 Mar 2023 06:45:15 GMT
+// Generated on Thu, 02 Mar 2023 18:34:59 GMT
 
 
 import UIKit
@@ -226,6 +226,7 @@ public enum DesignSystemEnum {
     public static let fontTint03 = #a5a9b8
     public static let fontTint04 = #969bac
     public static let fontUnderline = underline
+    public static let fontUppercase = uppercase
     public static let gradientPrimary180 = linear-gradient(180deg, $neutral.N50 0%, $accent.A300 100%)
     public static let gradientPrimary270 = linear-gradient(270deg, $white 0%, $accent.A300 100%)
     public static let gradientPrimary45 = linear-gradient(45deg, $white 0%, $accent.A300 100%)
@@ -676,7 +677,6 @@ public enum DesignSystemEnum {
     public static let tokenSetOrder3 = Core/__typography
     public static let tokenSetOrder4 = Components/__buttons
     public static let underline = underline
-    public static let uppercase = uppercase
     public static let uppercase = uppercase
     public static let warning20Blur = 18
     public static let warning20Color = rgba(#ffdb86, 20%)
