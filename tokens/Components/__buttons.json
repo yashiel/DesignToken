@@ -42,18 +42,18 @@
     },
     "borderRadius": {
       "sm": {
-        "value": "{4}",
+        "value": "{borderRadius.4}",
         "type": "borderRadius"
       },
       "xxxl": {
-        "value": "{24}",
+        "value": "{borderRadius.24}",
         "type": "borderRadius"
       }
     },
     "border": {
       "width": {
         "sm": {
-          "value": "{01}",
+          "value": "{borderWidth.01}",
           "type": "borderWidth"
         }
       },
