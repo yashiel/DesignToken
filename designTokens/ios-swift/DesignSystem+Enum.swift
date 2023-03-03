@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 02 Mar 2023 19:49:52 GMT
+// Generated on Fri, 03 Mar 2023 11:23:15 GMT
 
 
 import UIKit
@@ -135,6 +135,7 @@ public enum DesignSystemEnum {
     public static let colorDanger50 = UIColor(red: 0.992, green: 0.918, blue: 0.918, alpha: 1)
     public static let colorDanger500 = UIColor(red: 0.569, green: 0.114, blue: 0.114, alpha: 1)
     public static let colorDanger75 = UIColor(red: 0.973, green: 0.667, blue: 0.667, alpha: 1)
+    public static let colorGNormal180 = UIColor(red: 0.000, green: 0.000, blue: 0.000, alpha: 1)
     public static let colorGPrimary180 = UIColor(red: 0.000, green: 0.000, blue: 0.000, alpha: 1)
     public static let colorGPrimary270 = UIColor(red: 0.000, green: 0.000, blue: 0.000, alpha: 1)
     public static let colorGPrimary45 = UIColor(red: 0.000, green: 0.000, blue: 0.000, alpha: 1)
@@ -250,6 +251,7 @@ public enum DesignSystemEnum {
     public static let fontWeightMedium = Medium
     public static let fontWeightRegular = Regular
     public static let fontWeightSemiBold = SemiBold
+    public static let gradientNormal180 = linear-gradient(180deg, #fafafb 0%, #c1c4ce 100%)
     public static let gradientPrimary180 = linear-gradient(180deg, #c1c4ce 0%, #56b5bc 100%)
     public static let gradientPrimary270 = linear-gradient(270deg, #fff 0%, #56b5bc 100%)
     public static let gradientPrimary45 = linear-gradient(45deg, #fff 0%, #56b5bc 100%)

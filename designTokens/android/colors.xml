@@ -2,7 +2,7 @@
 
 <!--
   Do not edit directly
-  Generated on Thu, 02 Mar 2023 19:49:52 GMT
+  Generated on Fri, 03 Mar 2023 11:23:15 GMT
 -->
 <resources>
   <color name="color_neutral_10">#fffafafb</color>
@@ -78,6 +78,7 @@
   <color name="color_g_primary_90">#ff000000</color>
   <color name="color_g_primary_180">#ff000000</color>
   <color name="color_g_primary_270">#ff000000</color>
+  <color name="color_g_normal_180">#ff000000</color>
   <color name="color_g_secondary_45">#ff000000</color>
   <color name="color_g_secondary_90">#ff000000</color>
   <color name="color_g_secondary_180">#ff000000</color>

@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 02 Mar 2023 19:49:52 GMT
+// Generated on Fri, 03 Mar 2023 11:23:15 GMT
 
 
 #import <UIKit/UIKit.h>
@@ -83,6 +83,7 @@ ColorGPrimary45,
 ColorGPrimary90,
 ColorGPrimary180,
 ColorGPrimary270,
+ColorGNormal180,
 ColorGSecondary45,
 ColorGSecondary90,
 ColorGSecondary180,

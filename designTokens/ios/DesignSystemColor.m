@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 02 Mar 2023 19:49:52 GMT
+// Generated on Fri, 03 Mar 2023 11:23:15 GMT
 
 
 #import "DesignSystemColor.h"
@@ -89,6 +89,7 @@
 [UIColor colorWithRed:0.082f green:0.467f blue:0.682f alpha:1.000f],
 [UIColor colorWithRed:0.071f green:0.408f blue:0.596f alpha:1.000f],
 [UIColor colorWithRed:1.000f green:1.000f blue:1.000f alpha:1.000f],
+[UIColor colorWithRed:0.000f green:0.000f blue:0.000f alpha:1.000f],
 [UIColor colorWithRed:0.000f green:0.000f blue:0.000f alpha:1.000f],
 [UIColor colorWithRed:0.000f green:0.000f blue:0.000f alpha:1.000f],
 [UIColor colorWithRed:0.000f green:0.000f blue:0.000f alpha:1.000f],

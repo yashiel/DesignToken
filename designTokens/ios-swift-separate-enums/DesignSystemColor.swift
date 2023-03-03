@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 02 Mar 2023 19:49:52 GMT
+// Generated on Fri, 03 Mar 2023 11:23:15 GMT
 
 
 import UIKit
@@ -25,6 +25,7 @@ public enum DesignSystemColor {
     public static let danger50 = UIColor(red: 0.992, green: 0.918, blue: 0.918, alpha: 1)
     public static let danger500 = UIColor(red: 0.569, green: 0.114, blue: 0.114, alpha: 1)
     public static let danger75 = UIColor(red: 0.973, green: 0.667, blue: 0.667, alpha: 1)
+    public static let gNormal180 = UIColor(red: 0.000, green: 0.000, blue: 0.000, alpha: 1)
     public static let gPrimary180 = UIColor(red: 0.000, green: 0.000, blue: 0.000, alpha: 1)
     public static let gPrimary270 = UIColor(red: 0.000, green: 0.000, blue: 0.000, alpha: 1)
     public static let gPrimary45 = UIColor(red: 0.000, green: 0.000, blue: 0.000, alpha: 1)

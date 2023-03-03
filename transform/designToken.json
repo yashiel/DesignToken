@@ -2131,6 +2131,12 @@
           "type": "color"
         }
       },
+      "normal": {
+        "180": {
+          "value": "linear-gradient(180deg, #fafafb 0%, #c1c4ce 100%)",
+          "type": "color"
+        }
+      },
       "secondary": {
         "45": {
           "value": "linear-gradient(45deg, #fff 0%, #ef8b6d 100%)",
@@ -3224,6 +3230,12 @@
       },
       "270": {
         "value": "linear-gradient(270deg, #fff 0%, #56b5bc 100%)",
+        "type": "color"
+      }
+    },
+    "normal": {
+      "180": {
+        "value": "linear-gradient(180deg, #fafafb 0%, #c1c4ce 100%)",
         "type": "color"
       }
     },
