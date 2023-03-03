@@ -311,6 +311,12 @@
           "type": "color"
         }
       },
+      "normal": {
+        "180": {
+          "value": "{gradient.normal.180}",
+          "type": "color"
+        }
+      },
       "secondary": {
         "45": {
           "value": "{gradient.secondary.45}",

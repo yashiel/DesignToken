@@ -925,6 +925,12 @@
         "type": "color"
       }
     },
+    "normal": {
+      "180": {
+        "value": "linear-gradient(180deg, $neutral.N10 0%, $neutral.N50 100%)",
+        "type": "color"
+      }
+    },
     "secondary": {
       "45": {
         "value": "linear-gradient(45deg, $white 0%, $secondary.S300 100%)",
