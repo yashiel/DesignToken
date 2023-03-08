@@ -42,8 +42,8 @@ jobs:
           API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
         with:
           source-files: 'designTokens/'
-          destination-username: 'JanakaPrasadMMM'
-          destination-repository: 'loop-ux'
-          destination-branch: 'supun-dev'
-          destination-directory: 'src/styles/'
+          destination-username: ${{ secrets.API_DESTINATION_USERNAME }}
+          destination-repository: ${{ secrets.API_DESTINATION_REPO }}
+          destination-branch: ${{ secrets.API_DESTINATION_BRANCH }}
+          destination-directory: ${{ secrets.API_DESTINATION_DIRECTORY }}
           commit-email: ${{secrets.API_EMAIL}}
