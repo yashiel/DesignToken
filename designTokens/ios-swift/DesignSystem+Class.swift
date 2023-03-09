@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 09 Mar 2023 09:49:07 GMT
+// Generated on Thu, 09 Mar 2023 13:12:31 GMT
 
 
 import UIKit
@@ -510,22 +510,37 @@ public class DesignSystemClass {
     public static let layoutSize60 = 60
     public static let layoutSize8 = 8
     public static let layoutSpacing12 = 12
+    public static let layoutSpacing12 = -12
     public static let layoutSpacing16 = 16
+    public static let layoutSpacing16 = -16
     public static let layoutSpacing2 = 2
     public static let layoutSpacing2 = -2
     public static let layoutSpacing20 = 20
+    public static let layoutSpacing20 = -20
     public static let layoutSpacing24 = 24
+    public static let layoutSpacing24 = -24
     public static let layoutSpacing28 = 28
+    public static let layoutSpacing28 = -28
     public static let layoutSpacing32 = 32
+    public static let layoutSpacing32 = -32
     public static let layoutSpacing36 = 36
+    public static let layoutSpacing36 = -36
     public static let layoutSpacing4 = 4
+    public static let layoutSpacing4 = -4
     public static let layoutSpacing40 = 40
+    public static let layoutSpacing40 = -40
     public static let layoutSpacing44 = 44
+    public static let layoutSpacing44 = -44
     public static let layoutSpacing48 = 48
+    public static let layoutSpacing48 = -48
     public static let layoutSpacing52 = 52
+    public static let layoutSpacing52 = -52
     public static let layoutSpacing56 = 56
+    public static let layoutSpacing56 = -56
     public static let layoutSpacing60 = 60
+    public static let layoutSpacing60 = -60
     public static let layoutSpacing8 = 8
+    public static let layoutSpacing8 = -8
     public static let letterSpacing0 = 0%
     public static let letterSpacing10 = 5%
     public static let lineHeight140 = 140%
