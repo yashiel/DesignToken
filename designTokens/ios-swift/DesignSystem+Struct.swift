@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 08 Mar 2023 09:57:42 GMT
+// Generated on Thu, 09 Mar 2023 06:29:12 GMT
 
 
 import UIKit
@@ -492,9 +492,11 @@ internal struct DesignSystemStruct {
     internal static let layoutOpacity70 = 70%
     internal static let layoutOpacity80 = 80%
     internal static let layoutOpacity90 = 90%
+    internal static let layoutSize100 = 100
     internal static let layoutSize12 = 12
     internal static let layoutSize16 = 16
     internal static let layoutSize20 = 20
+    internal static let layoutSize200 = 200
     internal static let layoutSize24 = 24
     internal static let layoutSize28 = 28
     internal static let layoutSize32 = 32

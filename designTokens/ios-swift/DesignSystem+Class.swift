@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 08 Mar 2023 09:57:42 GMT
+// Generated on Thu, 09 Mar 2023 06:29:12 GMT
 
 
 import UIKit
@@ -492,9 +492,11 @@ public class DesignSystemClass {
     public static let layoutOpacity70 = 70%
     public static let layoutOpacity80 = 80%
     public static let layoutOpacity90 = 90%
+    public static let layoutSize100 = 100
     public static let layoutSize12 = 12
     public static let layoutSize16 = 16
     public static let layoutSize20 = 20
+    public static let layoutSize200 = 200
     public static let layoutSize24 = 24
     public static let layoutSize28 = 28
     public static let layoutSize32 = 32

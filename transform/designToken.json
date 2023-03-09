@@ -1422,6 +1422,14 @@
       "60": {
         "value": 60,
         "type": "sizing"
+      },
+      "100": {
+        "value": 100,
+        "type": "sizing"
+      },
+      "200": {
+        "value": 200,
+        "type": "sizing"
       }
     },
     "borderWidth": {
