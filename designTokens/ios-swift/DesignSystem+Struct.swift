@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 09 Mar 2023 06:29:12 GMT
+// Generated on Thu, 09 Mar 2023 09:49:07 GMT
 
 
 import UIKit
@@ -512,6 +512,7 @@ internal struct DesignSystemStruct {
     internal static let layoutSpacing12 = 12
     internal static let layoutSpacing16 = 16
     internal static let layoutSpacing2 = 2
+    internal static let layoutSpacing2 = -2
     internal static let layoutSpacing20 = 20
     internal static let layoutSpacing24 = 24
     internal static let layoutSpacing28 = 28

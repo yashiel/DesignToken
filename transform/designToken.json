@@ -1288,6 +1288,10 @@
       "60": {
         "value": 60,
         "type": "spacing"
+      },
+      "-2": {
+        "value": -2,
+        "type": "spacing"
       }
     },
     "borderRadius": {

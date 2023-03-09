@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 09 Mar 2023 06:29:12 GMT
+// Generated on Thu, 09 Mar 2023 09:49:07 GMT
 
 
 import UIKit
@@ -512,6 +512,7 @@ public enum DesignSystemEnum {
     public static let layoutSpacing12 = 12
     public static let layoutSpacing16 = 16
     public static let layoutSpacing2 = 2
+    public static let layoutSpacing2 = -2
     public static let layoutSpacing20 = 20
     public static let layoutSpacing24 = 24
     public static let layoutSpacing28 = 28
