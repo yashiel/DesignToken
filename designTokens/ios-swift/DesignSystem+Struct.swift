@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 09 Mar 2023 13:12:31 GMT
+// Generated on Thu, 09 Mar 2023 13:18:52 GMT
 
 
 import UIKit
@@ -211,12 +211,6 @@ internal struct DesignSystemStruct {
     internal static let dangerD50 = #fdeaea
     internal static let dangerD500 = #911d1d
     internal static let dangerD75 = #f8aaaa
-    internal static let dashedAccent01Color = #bae1e4
-    internal static let dashedAccent01Style = dashed
-    internal static let dashedAccent01Width = 1
-    internal static let dashedPrimary01Color = #97adb4
-    internal static let dashedPrimary01Style = dashed
-    internal static let dashedPrimary01Width = 1
     internal static let fontColorShadeAccent = "#3c7f84"
     internal static let fontColorShadeDanger = "#a62222"
     internal static let fontColorShadeInfo = "#1577ae"
@@ -482,6 +476,12 @@ internal struct DesignSystemStruct {
     internal static let layoutBoxShadowWarningType = dropShadow
     internal static let layoutBoxShadowWarningX = 0
     internal static let layoutBoxShadowWarningY = 8
+    internal static let layoutDashedAccent01Color = #bae1e4
+    internal static let layoutDashedAccent01Style = dashed
+    internal static let layoutDashedAccent01Width = 1
+    internal static let layoutDashedPrimary01Color = #97adb4
+    internal static let layoutDashedPrimary01Style = dashed
+    internal static let layoutDashedPrimary01Width = 1
     internal static let layoutOpacity10 = 10%
     internal static let layoutOpacity100 = 100%
     internal static let layoutOpacity20 = 20%
@@ -509,6 +509,12 @@ internal struct DesignSystemStruct {
     internal static let layoutSize56 = 56
     internal static let layoutSize60 = 60
     internal static let layoutSize8 = 8
+    internal static let layoutSolidAccent01Color = #bae1e4
+    internal static let layoutSolidAccent01Style = solid
+    internal static let layoutSolidAccent01Width = 1
+    internal static let layoutSolidPrimary01Color = #97adb4
+    internal static let layoutSolidPrimary01Style = solid
+    internal static let layoutSolidPrimary01Width = 1
     internal static let layoutSpacing12 = 12
     internal static let layoutSpacing12 = -12
     internal static let layoutSpacing16 = 16
@@ -677,12 +683,6 @@ internal struct DesignSystemStruct {
     internal static let smallSemiBoldFontSize = 12
     internal static let smallSemiBoldFontWeight = SemiBold
     internal static let smallSemiBoldLineHeight = 150%
-    internal static let solidAccent01Color = #bae1e4
-    internal static let solidAccent01Style = solid
-    internal static let solidAccent01Width = 1
-    internal static let solidPrimary01Color = #97adb4
-    internal static let solidPrimary01Style = solid
-    internal static let solidPrimary01Width = 1
     internal static let spacing12 = 12
     internal static let spacing16 = 16
     internal static let spacing2 = 2

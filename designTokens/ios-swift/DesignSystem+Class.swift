@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 09 Mar 2023 13:12:31 GMT
+// Generated on Thu, 09 Mar 2023 13:18:52 GMT
 
 
 import UIKit
@@ -211,12 +211,6 @@ public class DesignSystemClass {
     public static let dangerD50 = #fdeaea
     public static let dangerD500 = #911d1d
     public static let dangerD75 = #f8aaaa
-    public static let dashedAccent01Color = #bae1e4
-    public static let dashedAccent01Style = dashed
-    public static let dashedAccent01Width = 1
-    public static let dashedPrimary01Color = #97adb4
-    public static let dashedPrimary01Style = dashed
-    public static let dashedPrimary01Width = 1
     public static let fontColorShadeAccent = "#3c7f84"
     public static let fontColorShadeDanger = "#a62222"
     public static let fontColorShadeInfo = "#1577ae"
@@ -482,6 +476,12 @@ public class DesignSystemClass {
     public static let layoutBoxShadowWarningType = dropShadow
     public static let layoutBoxShadowWarningX = 0
     public static let layoutBoxShadowWarningY = 8
+    public static let layoutDashedAccent01Color = #bae1e4
+    public static let layoutDashedAccent01Style = dashed
+    public static let layoutDashedAccent01Width = 1
+    public static let layoutDashedPrimary01Color = #97adb4
+    public static let layoutDashedPrimary01Style = dashed
+    public static let layoutDashedPrimary01Width = 1
     public static let layoutOpacity10 = 10%
     public static let layoutOpacity100 = 100%
     public static let layoutOpacity20 = 20%
@@ -509,6 +509,12 @@ public class DesignSystemClass {
     public static let layoutSize56 = 56
     public static let layoutSize60 = 60
     public static let layoutSize8 = 8
+    public static let layoutSolidAccent01Color = #bae1e4
+    public static let layoutSolidAccent01Style = solid
+    public static let layoutSolidAccent01Width = 1
+    public static let layoutSolidPrimary01Color = #97adb4
+    public static let layoutSolidPrimary01Style = solid
+    public static let layoutSolidPrimary01Width = 1
     public static let layoutSpacing12 = 12
     public static let layoutSpacing12 = -12
     public static let layoutSpacing16 = 16
@@ -677,12 +683,6 @@ public class DesignSystemClass {
     public static let smallSemiBoldFontSize = 12
     public static let smallSemiBoldFontWeight = SemiBold
     public static let smallSemiBoldLineHeight = 150%
-    public static let solidAccent01Color = #bae1e4
-    public static let solidAccent01Style = solid
-    public static let solidAccent01Width = 1
-    public static let solidPrimary01Color = #97adb4
-    public static let solidPrimary01Style = solid
-    public static let solidPrimary01Width = 1
     public static let spacing12 = 12
     public static let spacing16 = 16
     public static let spacing2 = 2

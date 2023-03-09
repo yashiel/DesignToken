@@ -1821,72 +1821,72 @@
         "value": "100%",
         "type": "opacity"
       }
-    }
-  },
-  "Dashed": {
-    "primary": {
-      "01": {
-        "color": {
-          "value": "#97adb4",
-          "type": "color"
-        },
-        "width": {
-          "value": 1,
-          "type": "dimension"
-        },
-        "style": {
-          "value": "dashed",
-          "type": "strokeStyle"
+    },
+    "dashed": {
+      "primary": {
+        "01": {
+          "color": {
+            "value": "#97adb4",
+            "type": "color"
+          },
+          "width": {
+            "value": 1,
+            "type": "dimension"
+          },
+          "style": {
+            "value": "dashed",
+            "type": "strokeStyle"
+          }
+        }
+      },
+      "accent": {
+        "01": {
+          "color": {
+            "value": "#bae1e4",
+            "type": "color"
+          },
+          "width": {
+            "value": 1,
+            "type": "dimension"
+          },
+          "style": {
+            "value": "dashed",
+            "type": "strokeStyle"
+          }
         }
       }
     },
-    "accent": {
-      "01": {
-        "color": {
-          "value": "#bae1e4",
-          "type": "color"
-        },
-        "width": {
-          "value": 1,
-          "type": "dimension"
-        },
-        "style": {
-          "value": "dashed",
-          "type": "strokeStyle"
+    "solid": {
+      "primary": {
+        "01": {
+          "color": {
+            "value": "#97adb4",
+            "type": "color"
+          },
+          "width": {
+            "value": 1,
+            "type": "dimension"
+          },
+          "style": {
+            "value": "solid",
+            "type": "strokeStyle"
+          }
         }
-      }
-    }
-  },
-  "Solid": {
-    "primary": {
-      "01": {
-        "color": {
-          "value": "#97adb4",
-          "type": "color"
-        },
-        "width": {
-          "value": 1,
-          "type": "dimension"
-        },
-        "style": {
-          "value": "solid",
-          "type": "strokeStyle"
-        }
-      }
-    },
-    "accent": {
-      "01": {
-        "color": {
-          "value": "#bae1e4",
-          "type": "color"
-        },
-        "width": {
-          "value": 1,
-          "type": "dimension"
-        },
-        "style": {
-          "value": "solid",
-          "type": "strokeStyle"
+      },
+      "accent": {
+        "01": {
+          "color": {
+            "value": "#bae1e4",
+            "type": "color"
+          },
+          "width": {
+            "value": 1,
+            "type": "dimension"
+          },
+          "style": {
+            "value": "solid",
+            "type": "strokeStyle"
+          }
         }
       }
     }
