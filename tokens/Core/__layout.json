@@ -64,6 +64,10 @@
       "60": {
         "value": "{spacing.60}",
         "type": "spacing"
+      },
+      "-2": {
+        "value": "-{spacing.2}",
+        "type": "spacing"
       }
     },
     "borderRadius": {
