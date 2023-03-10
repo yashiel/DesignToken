@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 09 Mar 2023 16:09:38 GMT
+// Generated on Fri, 10 Mar 2023 06:39:50 GMT
 
 
 import UIKit
@@ -516,37 +516,37 @@ internal struct DesignSystemStruct {
     internal static let layoutSolidPrimary01Style = solid
     internal static let layoutSolidPrimary01Width = 1
     internal static let layoutSpacing12 = 12
-    internal static let layoutSpacing12 = -12
     internal static let layoutSpacing16 = 16
-    internal static let layoutSpacing16 = -16
-    internal static let layoutSpacing2 = 2
     internal static let layoutSpacing2 = 2
     internal static let layoutSpacing20 = 20
-    internal static let layoutSpacing20 = -20
     internal static let layoutSpacing24 = 24
-    internal static let layoutSpacing24 = -24
     internal static let layoutSpacing28 = 28
-    internal static let layoutSpacing28 = -28
     internal static let layoutSpacing32 = 32
-    internal static let layoutSpacing32 = -32
     internal static let layoutSpacing36 = 36
-    internal static let layoutSpacing36 = -36
     internal static let layoutSpacing4 = 4
-    internal static let layoutSpacing4 = -4
     internal static let layoutSpacing40 = 40
-    internal static let layoutSpacing40 = -40
     internal static let layoutSpacing44 = 44
-    internal static let layoutSpacing44 = -44
     internal static let layoutSpacing48 = 48
-    internal static let layoutSpacing48 = -48
     internal static let layoutSpacing52 = 52
-    internal static let layoutSpacing52 = -52
     internal static let layoutSpacing56 = 56
-    internal static let layoutSpacing56 = -56
     internal static let layoutSpacing60 = 60
-    internal static let layoutSpacing60 = -60
     internal static let layoutSpacing8 = 8
-    internal static let layoutSpacing8 = -8
+    internal static let layoutSpacingMinus12 = -12
+    internal static let layoutSpacingMinus16 = -16
+    internal static let layoutSpacingMinus2 = -2
+    internal static let layoutSpacingMinus20 = -20
+    internal static let layoutSpacingMinus24 = -24
+    internal static let layoutSpacingMinus28 = -28
+    internal static let layoutSpacingMinus32 = -32
+    internal static let layoutSpacingMinus36 = -36
+    internal static let layoutSpacingMinus4 = -4
+    internal static let layoutSpacingMinus40 = -40
+    internal static let layoutSpacingMinus44 = -44
+    internal static let layoutSpacingMinus48 = -48
+    internal static let layoutSpacingMinus52 = -52
+    internal static let layoutSpacingMinus56 = -56
+    internal static let layoutSpacingMinus60 = -60
+    internal static let layoutSpacingMinus8 = -8
     internal static let letterSpacing0 = 0%
     internal static let letterSpacing10 = 5%
     internal static let lineHeight140 = 140%

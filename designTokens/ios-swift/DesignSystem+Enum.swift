@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 09 Mar 2023 16:09:38 GMT
+// Generated on Fri, 10 Mar 2023 06:39:50 GMT
 
 
 import UIKit
@@ -516,37 +516,37 @@ public enum DesignSystemEnum {
     public static let layoutSolidPrimary01Style = solid
     public static let layoutSolidPrimary01Width = 1
     public static let layoutSpacing12 = 12
-    public static let layoutSpacing12 = -12
     public static let layoutSpacing16 = 16
-    public static let layoutSpacing16 = -16
-    public static let layoutSpacing2 = 2
     public static let layoutSpacing2 = 2
     public static let layoutSpacing20 = 20
-    public static let layoutSpacing20 = -20
     public static let layoutSpacing24 = 24
-    public static let layoutSpacing24 = -24
     public static let layoutSpacing28 = 28
-    public static let layoutSpacing28 = -28
     public static let layoutSpacing32 = 32
-    public static let layoutSpacing32 = -32
     public static let layoutSpacing36 = 36
-    public static let layoutSpacing36 = -36
     public static let layoutSpacing4 = 4
-    public static let layoutSpacing4 = -4
     public static let layoutSpacing40 = 40
-    public static let layoutSpacing40 = -40
     public static let layoutSpacing44 = 44
-    public static let layoutSpacing44 = -44
     public static let layoutSpacing48 = 48
-    public static let layoutSpacing48 = -48
     public static let layoutSpacing52 = 52
-    public static let layoutSpacing52 = -52
     public static let layoutSpacing56 = 56
-    public static let layoutSpacing56 = -56
     public static let layoutSpacing60 = 60
-    public static let layoutSpacing60 = -60
     public static let layoutSpacing8 = 8
-    public static let layoutSpacing8 = -8
+    public static let layoutSpacingMinus12 = -12
+    public static let layoutSpacingMinus16 = -16
+    public static let layoutSpacingMinus2 = -2
+    public static let layoutSpacingMinus20 = -20
+    public static let layoutSpacingMinus24 = -24
+    public static let layoutSpacingMinus28 = -28
+    public static let layoutSpacingMinus32 = -32
+    public static let layoutSpacingMinus36 = -36
+    public static let layoutSpacingMinus4 = -4
+    public static let layoutSpacingMinus40 = -40
+    public static let layoutSpacingMinus44 = -44
+    public static let layoutSpacingMinus48 = -48
+    public static let layoutSpacingMinus52 = -52
+    public static let layoutSpacingMinus56 = -56
+    public static let layoutSpacingMinus60 = -60
+    public static let layoutSpacingMinus8 = -8
     public static let letterSpacing0 = 0%
     public static let letterSpacing10 = 5%
     public static let lineHeight140 = 140%
