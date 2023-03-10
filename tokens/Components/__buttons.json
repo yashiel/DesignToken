@@ -194,27 +194,27 @@
   "btn": {
     "spacing": {
       "4": {
-        "value": "{spacing.4}",
+        "value": "{ref.spacing.4}",
         "type": "spacing"
       },
       "8": {
-        "value": "{spacing.8}",
+        "value": "{ref.spacing.8}",
         "type": "spacing"
       },
       "12": {
-        "value": "{spacing.12}",
+        "value": "{ref.spacing.12}",
         "type": "spacing"
       },
       "16": {
-        "value": "{spacing.16}",
+        "value": "{ref.spacing.16}",
         "type": "spacing"
       },
       "20": {
-        "value": "{spacing.20}",
+        "value": "{ref.spacing.20}",
         "type": "spacing"
       },
       "24": {
-        "value": "{spacing.24}",
+        "value": "{ref.spacing.24}",
         "type": "spacing"
       }
     }
