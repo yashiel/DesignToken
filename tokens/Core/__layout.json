@@ -130,6 +130,10 @@
           "value": "-{ref.spacing.60}",
           "type": "spacing"
         }
+      },
+      "auto": {
+        "value": "Auto",
+        "type": "spacing"
       }
     },
     "borderRadius": {
