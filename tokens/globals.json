@@ -842,58 +842,58 @@
     }
   },
   "fontSize": {
-    "10px": {
-      "value": "10",
-      "type": "fontSizes",
-      "description": "XSmall"
-    },
     "11px": {
       "value": "11",
       "type": "fontSizes",
-      "description": "Label"
+      "description": "XSmall"
     },
-    "12px": {
-      "value": "12",
+    "13px": {
+      "value": "13",
       "type": "fontSizes",
-      "description": "Small"
+      "description": "Label"
     },
     "14px": {
       "value": "14",
       "type": "fontSizes",
-      "description": "Base"
+      "description": "Small"
     },
     "16px": {
       "value": "16",
       "type": "fontSizes",
-      "description": "Large"
+      "description": "Base"
     },
     "18px": {
       "value": "18",
       "type": "fontSizes",
-      "description": "Heading 6"
+      "description": "Large"
     },
     "20px": {
       "value": "20",
       "type": "fontSizes",
+      "description": "Heading 6"
+    },
+    "23px": {
+      "value": "23",
+      "type": "fontSizes",
       "description": "Heading 5"
     },
-    "22px": {
-      "value": "22",
+    "26px": {
+      "value": "26",
       "type": "fontSizes",
       "description": "Heading 4"
     },
-    "25px": {
-      "value": "25",
+    "29px": {
+      "value": "29",
       "type": "fontSizes",
       "description": "Heading 3"
     },
-    "28px": {
-      "value": "28",
+    "32px": {
+      "value": "32",
       "type": "fontSizes",
       "description": "Heading 2"
     },
-    "32px": {
-      "value": "32",
+    "36px": {
+      "value": "36",
       "type": "fontSizes",
       "description": "Heading 1"
     }
