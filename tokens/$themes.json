@@ -6,8 +6,7 @@
       "globals": "source",
       "Core/__layout": "enabled",
       "Core/__typography": "enabled",
-      "Components/__buttons": "enabled",
-      "Modules/__research": "disabled"
+      "Components/__buttons": "enabled"
     },
     "$figmaStyleReferences": {}
   },
