@@ -3424,6 +3424,10 @@
     "4": {
       "value": "Components/__buttons",
       "type": "other"
+    },
+    "5": {
+      "value": "Modules/__research",
+      "type": "other"
     }
   }
 }
