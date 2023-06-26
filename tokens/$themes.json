@@ -137,8 +137,7 @@
       "Core/__colors": "enabled",
       "Core/__layout": "enabled",
       "Core/__typography": "enabled",
-      "Components/__buttons": "enabled",
-      "Modules/__research": "enabled"
+      "Components/__buttons": "enabled"
     },
     "$figmaStyleReferences": {
       "font.fill.color": "S:1ef2fc8b8082de6ee24f766d0e101440d59adc0c,",

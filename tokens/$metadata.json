@@ -4,7 +4,6 @@
     "Core/__colors",
     "Core/__layout",
     "Core/__typography",
-    "Components/__buttons",
-    "Modules/__research"
+    "Components/__buttons"
   ]
 }
