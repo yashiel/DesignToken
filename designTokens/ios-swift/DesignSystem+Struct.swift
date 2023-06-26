@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Mon, 26 Jun 2023 05:37:20 GMT
+// Generated on Mon, 26 Jun 2023 05:41:37 GMT
 
 
 import UIKit
@@ -732,7 +732,6 @@ internal struct DesignSystemStruct {
     internal static let tokenSetOrder2 = Core/__layout
     internal static let tokenSetOrder3 = Core/__typography
     internal static let tokenSetOrder4 = Components/__buttons
-    internal static let tokenSetOrder5 = Modules/__research
     internal static let warning20Blur = 18
     internal static let warning20Color = #ffdb8633
     internal static let warning20Spread = 50
