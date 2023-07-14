@@ -572,6 +572,17 @@
       },
       "type": "boxShadow"
     },
+    "10-up": {
+      "value": {
+        "x": "8",
+        "y": "-3",
+        "blur": "15",
+        "spread": "0",
+        "color": "rgba({secondary.P200}, 8%)",
+        "type": "dropShadow"
+      },
+      "type": "boxShadow"
+    },
     "S50": {
       "value": "#fdf3f0",
       "type": "color"
