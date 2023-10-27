@@ -47,3 +47,14 @@ jobs:
           destination-branch: ${{ secrets.API_DESTINATION_BRANCH }}
           destination-directory: ${{ secrets.API_DESTINATION_DIRECTORY }}
           commit-email: ${{secrets.API_EMAIL}}
+      - name: Copy files to another remote repository
+        uses: nkoppel/push-files-to-another-repository@v1.1.1
+        env:
+          API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
+        with:
+          source-files: 'designTokens/'
+          destination-username: ${{ secrets.API_DESTINATION_USERNAME1 }}
+          destination-repository: ${{ secrets.API_DESTINATION_REPO1 }}
+          destination-branch: ${{ secrets.API_DESTINATION_BRANCH1 }}
+          destination-directory: ${{ secrets.API_DESTINATION_DIRECTORY1 }}
+          commit-email: ${{secrets.API_EMAIL}}
