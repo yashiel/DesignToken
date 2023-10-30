@@ -192,7 +192,8 @@
       "layout.boxShadow.success.20": "S:2c459efcaa01ad1da8b092a7437da863d0aa7ec8,",
       "layout.boxShadow.primary.5": "S:b47838be3b32cfdfab9a6e682bec796f6fc1a367,",
       "layout.boxShadow.primary.10": "S:67b3a0ede45dcb756fcc9e1e7fc005c07569f2ee,",
-      "layout.boxShadow.primary.20": "S:94d8b24b63bad82e517f8e0f3b9549925f0aacef,"
+      "layout.boxShadow.primary.20": "S:94d8b24b63bad82e517f8e0f3b9549925f0aacef,",
+      "layout.boxShadow.second.10": "S:16bb759d443a43a36ba9489b26e7fcadd48cf3a3,"
     },
     "$figmaCollectionId": "VariableCollectionId:6334:19026",
     "$figmaModeId": "6334:1",
