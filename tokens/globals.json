@@ -288,12 +288,12 @@
   },
   "fontWeight": {
     "Bold": {
-      "value": "Bold",
+      "value": "700",
       "type": "fontWeights",
       "description": "fontWeight-Bold"
     },
     "Regular": {
-      "value": "Regular",
+      "value": "400",
       "type": "fontWeights",
       "description": "fontWeight.Regular"
     },
@@ -303,7 +303,7 @@
       "description": "fontWeight.SemiBold"
     },
     "Medium": {
-      "value": "Medium",
+      "value": "500",
       "type": "fontWeights",
       "description": "fontWeight.Medium"
     },
