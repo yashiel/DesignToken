@@ -578,7 +578,7 @@
         "y": "-3",
         "blur": "15",
         "spread": "0",
-        "color": "rgba({secondary.P200}, 8%)",
+        "color": "rgba({secondary.S200}, 8%)",
         "type": "dropShadow"
       },
       "type": "boxShadow"
