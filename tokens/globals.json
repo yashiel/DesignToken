@@ -298,7 +298,7 @@
       "description": "fontWeight.Regular"
     },
     "SemiBold": {
-      "value": "SemiBold",
+      "value": "600",
       "type": "fontWeights",
       "description": "fontWeight.SemiBold"
     },
