@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Mon, 30 Oct 2023 19:48:58 GMT
+// Generated on Tue, 31 Oct 2023 09:04:37 GMT
 
 
 import UIKit
@@ -37,7 +37,7 @@ internal struct DesignSystemStruct {
     internal static let baseRegularLineHeight = 150%
     internal static let baseSemiBoldFontFamily = Roboto
     internal static let baseSemiBoldFontSize = 16
-    internal static let baseSemiBoldFontWeight = SemiBold
+    internal static let baseSemiBoldFontWeight = 600
     internal static let baseSemiBoldLineHeight = 150%
     internal static let black = #000000
     internal static let body = #061216
@@ -244,7 +244,7 @@ internal struct DesignSystemStruct {
     internal static let fontWeightItalic = Italic
     internal static let fontWeightMedium = 500
     internal static let fontWeightRegular = 400
-    internal static let fontWeightSemiBold = SemiBold
+    internal static let fontWeightSemiBold = 600
     internal static let gradientNormal180 = linear-gradient(180deg, #fafafb 0%, #c1c4ce 100%)
     internal static let gradientPrimary180 = linear-gradient(180deg, #c1c4ce 0%, #56b5bc 100%)
     internal static let gradientPrimary270 = linear-gradient(270deg, #fff 0%, #56b5bc 100%)
@@ -268,7 +268,7 @@ internal struct DesignSystemStruct {
     internal static let h1RegularLineHeight = 140%
     internal static let h1SemiBoldFontFamily = Roboto
     internal static let h1SemiBoldFontSize = 36
-    internal static let h1SemiBoldFontWeight = SemiBold
+    internal static let h1SemiBoldFontWeight = 600
     internal static let h1SemiBoldLineHeight = 140%
     internal static let h2BoldFontFamily = Roboto
     internal static let h2BoldFontSize = 32
@@ -284,7 +284,7 @@ internal struct DesignSystemStruct {
     internal static let h2RegularLineHeight = 140%
     internal static let h2SemiBoldFontFamily = Roboto
     internal static let h2SemiBoldFontSize = 32
-    internal static let h2SemiBoldFontWeight = SemiBold
+    internal static let h2SemiBoldFontWeight = 600
     internal static let h2SemiBoldLineHeight = 140%
     internal static let h3BoldFontFamily = Roboto
     internal static let h3BoldFontSize = 29
@@ -300,7 +300,7 @@ internal struct DesignSystemStruct {
     internal static let h3RegularLineHeight = 140%
     internal static let h3SemiBoldFontFamily = Roboto
     internal static let h3SemiBoldFontSize = 29
-    internal static let h3SemiBoldFontWeight = SemiBold
+    internal static let h3SemiBoldFontWeight = 600
     internal static let h3SemiBoldLineHeight = 140%
     internal static let h4BoldFontFamily = Roboto
     internal static let h4BoldFontSize = 26
@@ -316,7 +316,7 @@ internal struct DesignSystemStruct {
     internal static let h4RegularLineHeight = 140%
     internal static let h4SemiBoldFontFamily = Roboto
     internal static let h4SemiBoldFontSize = 26
-    internal static let h4SemiBoldFontWeight = SemiBold
+    internal static let h4SemiBoldFontWeight = 600
     internal static let h4SemiBoldLineHeight = 140%
     internal static let h5BoldFontFamily = Roboto
     internal static let h5BoldFontSize = 23
@@ -332,7 +332,7 @@ internal struct DesignSystemStruct {
     internal static let h5RegularLineHeight = 140%
     internal static let h5SemiBoldFontFamily = Roboto
     internal static let h5SemiBoldFontSize = 23
-    internal static let h5SemiBoldFontWeight = SemiBold
+    internal static let h5SemiBoldFontWeight = 600
     internal static let h5SemiBoldLineHeight = 140%
     internal static let h6BoldFontFamily = Roboto
     internal static let h6BoldFontSize = 20
@@ -348,7 +348,7 @@ internal struct DesignSystemStruct {
     internal static let h6RegularLineHeight = 140%
     internal static let h6SemiBoldFontFamily = Roboto
     internal static let h6SemiBoldFontSize = 20
-    internal static let h6SemiBoldFontWeight = SemiBold
+    internal static let h6SemiBoldFontWeight = 600
     internal static let h6SemiBoldLineHeight = 140%
     internal static let info20Blur = 18
     internal static let info20Color = #7dcefc33
@@ -377,7 +377,7 @@ internal struct DesignSystemStruct {
     internal static let labelRegularLineHeight = 140%
     internal static let labelSemiBoldFontFamily = Roboto
     internal static let labelSemiBoldFontSize = 13
-    internal static let labelSemiBoldFontWeight = SemiBold
+    internal static let labelSemiBoldFontWeight = 600
     internal static let labelSemiBoldLineHeight = 140%
     internal static let largeBoldFontFamily = Roboto
     internal static let largeBoldFontSize = 18
@@ -393,7 +393,7 @@ internal struct DesignSystemStruct {
     internal static let largeRegularLineHeight = 150%
     internal static let largeSemiBoldFontFamily = Roboto
     internal static let largeSemiBoldFontSize = 18
-    internal static let largeSemiBoldFontWeight = SemiBold
+    internal static let largeSemiBoldFontWeight = 600
     internal static let largeSemiBoldLineHeight = 150%
     internal static let layoutBackgroundAccent = #eef8f8
     internal static let layoutBackgroundN10 = #fafafb
@@ -714,7 +714,7 @@ internal struct DesignSystemStruct {
     internal static let smallRegularLineHeight = 150%
     internal static let smallSemiBoldFontFamily = Roboto
     internal static let smallSemiBoldFontSize = 14
-    internal static let smallSemiBoldFontWeight = SemiBold
+    internal static let smallSemiBoldFontWeight = 600
     internal static let smallSemiBoldLineHeight = 150%
     internal static let success10Blur = 18
     internal static let success10Color = #b1db8833
@@ -772,6 +772,6 @@ internal struct DesignSystemStruct {
     internal static let xSmallRegularLineHeight = 140%
     internal static let xSmallSemiBoldFontFamily = Roboto
     internal static let xSmallSemiBoldFontSize = 11
-    internal static let xSmallSemiBoldFontWeight = SemiBold
+    internal static let xSmallSemiBoldFontWeight = 600
     internal static let xSmallSemiBoldLineHeight = 140%
 }

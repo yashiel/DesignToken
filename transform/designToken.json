@@ -310,7 +310,7 @@
         "type": "fontFamilies"
       },
       "fontWeight": {
-        "value": "SemiBold",
+        "value": 600,
         "type": "fontWeights"
       },
       "lineHeight": {
@@ -384,7 +384,7 @@
         "type": "fontFamilies"
       },
       "fontWeight": {
-        "value": "SemiBold",
+        "value": 600,
         "type": "fontWeights"
       },
       "lineHeight": {
@@ -458,7 +458,7 @@
         "type": "fontFamilies"
       },
       "fontWeight": {
-        "value": "SemiBold",
+        "value": 600,
         "type": "fontWeights"
       },
       "lineHeight": {
@@ -532,7 +532,7 @@
         "type": "fontFamilies"
       },
       "fontWeight": {
-        "value": "SemiBold",
+        "value": 600,
         "type": "fontWeights"
       },
       "lineHeight": {
@@ -606,7 +606,7 @@
         "type": "fontFamilies"
       },
       "fontWeight": {
-        "value": "SemiBold",
+        "value": 600,
         "type": "fontWeights"
       },
       "lineHeight": {
@@ -680,7 +680,7 @@
         "type": "fontFamilies"
       },
       "fontWeight": {
-        "value": "SemiBold",
+        "value": 600,
         "type": "fontWeights"
       },
       "lineHeight": {
@@ -754,7 +754,7 @@
         "type": "fontFamilies"
       },
       "fontWeight": {
-        "value": "SemiBold",
+        "value": 600,
         "type": "fontWeights"
       },
       "lineHeight": {
@@ -828,7 +828,7 @@
         "type": "fontFamilies"
       },
       "fontWeight": {
-        "value": "SemiBold",
+        "value": 600,
         "type": "fontWeights"
       },
       "lineHeight": {
@@ -902,7 +902,7 @@
         "type": "fontFamilies"
       },
       "fontWeight": {
-        "value": "SemiBold",
+        "value": 600,
         "type": "fontWeights"
       },
       "lineHeight": {
@@ -1044,7 +1044,7 @@
         "type": "fontFamilies"
       },
       "fontWeight": {
-        "value": "SemiBold",
+        "value": 600,
         "type": "fontWeights"
       },
       "lineHeight": {
@@ -1118,7 +1118,7 @@
         "type": "fontFamilies"
       },
       "fontWeight": {
-        "value": "SemiBold",
+        "value": 600,
         "type": "fontWeights"
       },
       "lineHeight": {
@@ -2558,7 +2558,7 @@
       "description": "fontWeight.Regular"
     },
     "SemiBold": {
-      "value": "SemiBold",
+      "value": 600,
       "type": "fontWeights",
       "description": "fontWeight.SemiBold"
     },

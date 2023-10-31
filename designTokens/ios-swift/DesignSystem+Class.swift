@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Mon, 30 Oct 2023 19:48:58 GMT
+// Generated on Tue, 31 Oct 2023 09:04:36 GMT
 
 
 import UIKit
@@ -37,7 +37,7 @@ public class DesignSystemClass {
     public static let baseRegularLineHeight = 150%
     public static let baseSemiBoldFontFamily = Roboto
     public static let baseSemiBoldFontSize = 16
-    public static let baseSemiBoldFontWeight = SemiBold
+    public static let baseSemiBoldFontWeight = 600
     public static let baseSemiBoldLineHeight = 150%
     public static let black = #000000
     public static let body = #061216
@@ -244,7 +244,7 @@ public class DesignSystemClass {
     public static let fontWeightItalic = Italic
     public static let fontWeightMedium = 500
     public static let fontWeightRegular = 400
-    public static let fontWeightSemiBold = SemiBold
+    public static let fontWeightSemiBold = 600
     public static let gradientNormal180 = linear-gradient(180deg, #fafafb 0%, #c1c4ce 100%)
     public static let gradientPrimary180 = linear-gradient(180deg, #c1c4ce 0%, #56b5bc 100%)
     public static let gradientPrimary270 = linear-gradient(270deg, #fff 0%, #56b5bc 100%)
@@ -268,7 +268,7 @@ public class DesignSystemClass {
     public static let h1RegularLineHeight = 140%
     public static let h1SemiBoldFontFamily = Roboto
     public static let h1SemiBoldFontSize = 36
-    public static let h1SemiBoldFontWeight = SemiBold
+    public static let h1SemiBoldFontWeight = 600
     public static let h1SemiBoldLineHeight = 140%
     public static let h2BoldFontFamily = Roboto
     public static let h2BoldFontSize = 32
@@ -284,7 +284,7 @@ public class DesignSystemClass {
     public static let h2RegularLineHeight = 140%
     public static let h2SemiBoldFontFamily = Roboto
     public static let h2SemiBoldFontSize = 32
-    public static let h2SemiBoldFontWeight = SemiBold
+    public static let h2SemiBoldFontWeight = 600
     public static let h2SemiBoldLineHeight = 140%
     public static let h3BoldFontFamily = Roboto
     public static let h3BoldFontSize = 29
@@ -300,7 +300,7 @@ public class DesignSystemClass {
     public static let h3RegularLineHeight = 140%
     public static let h3SemiBoldFontFamily = Roboto
     public static let h3SemiBoldFontSize = 29
-    public static let h3SemiBoldFontWeight = SemiBold
+    public static let h3SemiBoldFontWeight = 600
     public static let h3SemiBoldLineHeight = 140%
     public static let h4BoldFontFamily = Roboto
     public static let h4BoldFontSize = 26
@@ -316,7 +316,7 @@ public class DesignSystemClass {
     public static let h4RegularLineHeight = 140%
     public static let h4SemiBoldFontFamily = Roboto
     public static let h4SemiBoldFontSize = 26
-    public static let h4SemiBoldFontWeight = SemiBold
+    public static let h4SemiBoldFontWeight = 600
     public static let h4SemiBoldLineHeight = 140%
     public static let h5BoldFontFamily = Roboto
     public static let h5BoldFontSize = 23
@@ -332,7 +332,7 @@ public class DesignSystemClass {
     public static let h5RegularLineHeight = 140%
     public static let h5SemiBoldFontFamily = Roboto
     public static let h5SemiBoldFontSize = 23
-    public static let h5SemiBoldFontWeight = SemiBold
+    public static let h5SemiBoldFontWeight = 600
     public static let h5SemiBoldLineHeight = 140%
     public static let h6BoldFontFamily = Roboto
     public static let h6BoldFontSize = 20
@@ -348,7 +348,7 @@ public class DesignSystemClass {
     public static let h6RegularLineHeight = 140%
     public static let h6SemiBoldFontFamily = Roboto
     public static let h6SemiBoldFontSize = 20
-    public static let h6SemiBoldFontWeight = SemiBold
+    public static let h6SemiBoldFontWeight = 600
     public static let h6SemiBoldLineHeight = 140%
     public static let info20Blur = 18
     public static let info20Color = #7dcefc33
@@ -377,7 +377,7 @@ public class DesignSystemClass {
     public static let labelRegularLineHeight = 140%
     public static let labelSemiBoldFontFamily = Roboto
     public static let labelSemiBoldFontSize = 13
-    public static let labelSemiBoldFontWeight = SemiBold
+    public static let labelSemiBoldFontWeight = 600
     public static let labelSemiBoldLineHeight = 140%
     public static let largeBoldFontFamily = Roboto
     public static let largeBoldFontSize = 18
@@ -393,7 +393,7 @@ public class DesignSystemClass {
     public static let largeRegularLineHeight = 150%
     public static let largeSemiBoldFontFamily = Roboto
     public static let largeSemiBoldFontSize = 18
-    public static let largeSemiBoldFontWeight = SemiBold
+    public static let largeSemiBoldFontWeight = 600
     public static let largeSemiBoldLineHeight = 150%
     public static let layoutBackgroundAccent = #eef8f8
     public static let layoutBackgroundN10 = #fafafb
@@ -714,7 +714,7 @@ public class DesignSystemClass {
     public static let smallRegularLineHeight = 150%
     public static let smallSemiBoldFontFamily = Roboto
     public static let smallSemiBoldFontSize = 14
-    public static let smallSemiBoldFontWeight = SemiBold
+    public static let smallSemiBoldFontWeight = 600
     public static let smallSemiBoldLineHeight = 150%
     public static let success10Blur = 18
     public static let success10Color = #b1db8833
@@ -772,6 +772,6 @@ public class DesignSystemClass {
     public static let xSmallRegularLineHeight = 140%
     public static let xSmallSemiBoldFontFamily = Roboto
     public static let xSmallSemiBoldFontSize = 11
-    public static let xSmallSemiBoldFontWeight = SemiBold
+    public static let xSmallSemiBoldFontWeight = 600
     public static let xSmallSemiBoldLineHeight = 140%
 }
